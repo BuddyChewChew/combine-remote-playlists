@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
-# Generated on 2025-03-23T10:19:34.345687 UTC
+# Generated on 2025-03-23T11:17:47.485574 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8
 
@@ -2398,17 +2398,11 @@ https://dokko1new.koskoros.ru/dokko1/premium566/mono.m3u8|Referer=https://funzon
 #EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-seriale.png" ,Canal+ Seriale Poland
 https://windnew.koskoros.ru/wind/premium570/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" ,Canal+ Sport 1 Afrique
-https://ddy6new.koskoros.ru/ddy6/premium486/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" ,Canal+ Sport 2 Afrique
 https://ddy6new.koskoros.ru/ddy6/premium487/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-poland.png" ,Canal+ Sport 2 Poland
 https://ddy6new.koskoros.ru/ddy6/premium73/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" ,Canal+ Sport 4 Afrique
-https://ddy6new.koskoros.ru/ddy6/premium489/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" ,Canal+ Sport 5 Afrique
 https://ddy6new.koskoros.ru/ddy6/premium490/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
@@ -2541,9 +2535,6 @@ https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8|Referer=https://funzon
 
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga.png" ,DAZN LaLiga
 https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga-2.png" ,DAZN LaLiga 2
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dr1.png" ,DR1 Denmark
 https://dokko1new.koskoros.ru/dokko1/premium801/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
@@ -3244,9 +3235,6 @@ https://wikinew.koskoros.ru/wiki/premium440/mono.m3u8|Referer=https://funzonepla
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/oxygen-true-crime.png" ,Oxygen True Crime
 https://windnew.koskoros.ru/wind/premium332/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pdc-tv.png" ,PDC TV
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
-
 #EXTINF:-1 tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pop-tv-usa.png" ,POP TV USA
 https://ddy6new.koskoros.ru/ddy6/premium653/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
@@ -3422,7 +3410,7 @@ https://zekonew.koskoros.ru/zeko/premium373/mono.m3u8|Referer=https://funzonepla
 https://nfsnew.koskoros.ru/nfs/premium294/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" ,Showtime 2 USA (SHO2) USA
-https://zekonew.koskoros.ru/zeko/premium792/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
+https://windnew.koskoros.ru/wind/premium792/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-extreme-usa.png" ,Showtime Extreme USA
 https://nfsnew.koskoros.ru/nfs/premium794/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
@@ -3812,7 +3800,7 @@ https://dokko1new.koskoros.ru/dokko1/premium658/mono.m3u8|Referer=https://funzon
 https://windnew.koskoros.ru/wind/premium420/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png" ,SuperSport Cricket
-https://zekonew.koskoros.ru/zeko/premium368/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
+https://dokko1new.koskoros.ru/dokko1/premium368/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" ,SuperSport Golf
 https://zekonew.koskoros.ru/zeko/premium422/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
@@ -4170,9 +4158,6 @@ https://ddy6new.koskoros.ru/ddy6/premium493/mono.m3u8|Referer=https://funzonepla
 
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" ,beIN SPORTS XTRA 1
 https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
-
-#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" ,beIN SPORTS XTRA 2
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" ,beIN SPORTS en Español
 https://zekonew.koskoros.ru/zeko/premium372/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://funzoneplay.cfd
