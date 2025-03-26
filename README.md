@@ -1,7 +1,7 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
 
-👀 Links used from this [repo](https://github.com/pigzillaaaaa/iptv-scraper).
+👀 Some links used from this [repo](https://github.com/pigzillaaaaa/iptv-scraper).
 
 
 📌 Depending on your player you might have to add epg links from "Single playlist links".
