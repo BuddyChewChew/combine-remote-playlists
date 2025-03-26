@@ -6,7 +6,7 @@
 
 ## ▶️ Single playlist links.
 
-* Depending on your player you might have to add epg links from "Single playlist links". *
+*Depending on your player you might have to add epg links from "Single playlist links".*
 
 
 👀 Some links used from this [repo](https://github.com/pigzillaaaaa/iptv-scraper).
