@@ -1,10 +1,10 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
+📌 Depending on your player you might have to add epg links from "Single playlist links".
+
 
 👀 Some links used from this [repo](https://github.com/pigzillaaaaa/iptv-scraper).
 
-
-📌 Depending on your player you might have to add epg links from "Single playlist links".
 
 ⭐ All three one big playlist unsorted: [Playlist](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
