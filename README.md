@@ -13,7 +13,7 @@
 
 - `tvpass.org` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
 - `Daddylive` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
-- `moveonjoy` [Playlist](https://raw.githubusercontent.com/BuddyChewChew/MoveOnJoy/refs/heads/main/MoveOnJoy.m3u8) | [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
+- `moveonjoy` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8) | [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
 
 
 - `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) Removed from big list can't be used in the script
