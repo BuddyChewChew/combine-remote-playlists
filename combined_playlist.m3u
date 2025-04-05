@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
-# Generated on 2025-04-05T09:19:31.619510 UTC
+# Generated on 2025-04-05T10:20:31.872767 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
 
@@ -615,6 +615,9 @@ https://zekonew.newkso.ru/zeko/premium821/mono.m3u8|Referer=https://webxzplay.cf
 
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-504.png" ,FOX Sports 504 AU
 https://zekonew.newkso.ru/zeko/premium822/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-505.png" ,FOX Sports 505 AU
+https://windnew.newkso.ru/wind/premium823/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" ,FOX Sports 506 AU
 https://windnew.newkso.ru/wind/premium824/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
