@@ -37,7 +37,7 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
 - Store: https://www.redbubble.com/people/DNT123Designs/shop?asc=u
 
 
-## 💲 Donate Crypto 📱 Wallet: buddychewchewun.cbd.id
+## 💲 Donate Crypto: buddychewchewun.cbd.id
 
 <table align="center">
   <tr>
@@ -58,3 +58,5 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
     </td>
   </tr>
 </table>
+
+SCROLL ➡️
