@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
-# Generated on 2025-04-19T14:18:00.431841 UTC
+# Generated on 2025-04-19T15:20:10.747788 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
 
@@ -18,6 +18,9 @@ https://windnew.newkso.ru/wind/premium360/mono.m3u8|Referer=https://xtreaweb.top
 
 #EXTINF:-1 tvg-id="6eren.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/6eren.png" ,6'eren Denmark
 https://dokko1new.newkso.ru/dokko1/premium800/mono.m3u8|Referer=https://xtreaweb.top/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xtreaweb.top
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" ,A Sport PK
+https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8|Referer=https://xtreaweb.top/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xtreaweb.top
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/aande.png" ,A&E USA
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Referer=https://xtreaweb.top/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xtreaweb.top
