@@ -16,7 +16,7 @@
 - `moveonjoy` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8) | [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
 
 
-- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) Removed from big list can't be used in the script
+- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8) Removed from big list can't be used in the script
 
 ## ▶️ Extra EPG files just for 💩 and 😆.
 
