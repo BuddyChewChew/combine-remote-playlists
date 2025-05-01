@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
-# Generated on 2025-05-01T04:27:19.957620 UTC
+# Generated on 2025-05-01T05:22:13.695501 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
 
@@ -367,8 +367,11 @@ https://wind/wind/premium913/mono.m3u8|Referer=https://caq21harderv991gpluralpla
 #EXTINF:-1 tvg-id="Cytavision.Sports4.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" ,Cytavision Sports 4 Cyprus
 https://wind/wind/premium914/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
-#EXTINF:-1 tvg-id="Cytavision.Sports7.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" ,Cytavision Sports 7 Cyprus
-https://wind/wind/premium917/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="Cytavision.Sports5.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" ,Cytavision Sports 5 Cyprus
+https://wind/wind/premium915/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Cytavision.Sports6.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" ,Cytavision Sports 6 Cyprus
+https://wind/wind/premium916/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" ,DAZN 1 Bar DE
 https://ddy6/ddy6/premium426/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
@@ -502,6 +505,9 @@ https://ddy6/ddy6/premium149/mono.m3u8|Referer=https://caq21harderv991gpluralpla
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" ,ESPN USA
 https://zeko/zeko/premium44/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-1.png" ,ESPN2 Brazil
+https://wind/wind/premium82/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-sur.png" ,ESPN2 SUR
 https://wind/wind/premium150/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
@@ -561,6 +567,9 @@ https://ddy6/ddy6/premium525/mono.m3u8|Referer=https://caq21harderv991gpluralpla
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" ,EuroSport 2 UK
 https://wind/wind/premium42/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Eurosport.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-1.png" ,Eurosport 1 Bulgaria
+https://wind/wind/premium469/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-1.png" ,Eurosport 1 France
 https://ddy6/ddy6/premium772/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
@@ -1150,6 +1159,9 @@ https://dokko1/dokko1/premium841/mono.m3u8|Referer=https://caq21harderv991gplura
 #EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png" ,RMC Sport 1 France
 https://zeko/zeko/premium119/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
+#EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png" ,RMC Sport 2 France
+https://ddy6/ddy6/premium120/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
 #EXTINF:-1 tvg-id="RTE1Network.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ert-1.png" ,RTE 1
 https://zeko/zeko/premium364/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
@@ -1235,7 +1247,7 @@ https://ddy6/ddy6/premium735/mono.m3u8|Referer=https://caq21harderv991gpluralpla
 https://zeko/zeko/premium373/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="Science.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/science-channel.png" ,Science Channel
-https://nfs/nfs/premium294/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+https://zeko/zeko/premium294/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" ,Showtime 2 USA (SHO2) USA
 https://zeko/zeko/premium792/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
@@ -1627,6 +1639,9 @@ https://dokko1/dokko1/premium368/mono.m3u8|Referer=https://caq21harderv991gplura
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-grandstand.png" ,SuperSport Grandstand
 https://zeko/zeko/premium412/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" ,SuperSport LaLiga
+https://ddy6/ddy6/premium415/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-maximo-1.png" ,SuperSport MaXimo 1
 https://dokko1/dokko1/premium572/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
@@ -1987,8 +2002,17 @@ https://ddy6/ddy6/premium494/mono.m3u8|Referer=https://caq21harderv991gpluralpla
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-5-france.png" ,beIN Sports MAX 5 France
 https://ddy6/ddy6/premium495/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-6-france.png" ,beIN Sports MAX 6 France
+https://ddy6/ddy6/premium496/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-7-france.png" ,beIN Sports MAX 7 France
+https://ddy6/ddy6/premium497/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-8-france.png" ,beIN Sports MAX 8 France
 https://ddy6/ddy6/premium498/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-9-france.png" ,beIN Sports MAX 9 France
+https://ddy6/ddy6/premium499/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" ,beIN Sports MENA 1
 https://dokko1/dokko1/premium91/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
