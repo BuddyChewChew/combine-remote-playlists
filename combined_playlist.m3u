@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
-# Generated on 2025-05-10T09:20:16.752836 UTC
+# Generated on 2025-05-10T10:21:56.657405 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
 
@@ -177,6 +177,9 @@ https://windnew.newkso.ru/wind/premium522/mono.m3u8|Referer=https://caq21harderv
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" ,BeIN SPORTS USA
 https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-hd.png" ,BeIN Sports HD Qatar
+https://windnew.newkso.ru/wind/premium578/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/benfica-tv.png" ,Benfica TV PT
 https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
