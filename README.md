@@ -6,17 +6,7 @@
 
 ## ▶️ Single playlist links.
 
-*Depending on your player you might have to add epg links from "Single playlist links".*
-
-
-👀 Some links used from this [repo](https://github.com/pigzillaaaaa/iptv-scraper).
-
-- `tvpass.org` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
-- `Daddylive` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
-- `moveonjoy` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8) | [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
-
-
-- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8) Removed from big list can't be used in the script
+🚧🚧🚧 PLAYLISTS ARE DOWN... UPDATING SOON 🚧🚧🚧🚧
 
 ## ▶️ Extra EPG files just for 💩 and 😆.
 
