@@ -4,11 +4,7 @@
 👉 One big playlist unsorted (tvpass.org, daddylive, moveonjoy) [Playlist](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
 
-## ▶️ Single playlist links.
-
-🚧🚧🚧 PLAYLISTS ARE DOWN... UPDATING SOON 🚧🚧🚧🚧
-
-## ▶️ Extra EPG files just for 💩 and 😆.
+## ▶️ Extra EPG files.
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
