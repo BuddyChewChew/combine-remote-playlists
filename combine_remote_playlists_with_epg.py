@@ -4,9 +4,9 @@ import re
 
 # Playlist URLs to combine
 playlists = [
-    "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8",
-    "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8",
-    "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8"
+    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u",
+    "https://tvpass.org/playlist/m3u",
+    "https://cdn.djdoolky76.net/udptv.m3u"
 ]
 
 # Combined EPG URL
