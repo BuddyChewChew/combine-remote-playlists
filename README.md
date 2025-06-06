@@ -1,7 +1,7 @@
 ## ⭐ A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
 
-👉 One big playlist unsorted (tvpass.org, daddylive, moveonjoy) [Playlist](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
+👉 One big playlist unsorted (tvpass.org, daddylive, moveonjoy) [https://cutt.ly/2rn48Pvr](https://cutt.ly/2rn48Pvr)
 
 
 ## ▶️ Extra EPG files.
