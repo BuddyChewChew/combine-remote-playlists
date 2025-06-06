@@ -10,7 +10,7 @@ playlists = [
 ]
 
 # Combined EPG URL
-epg_url = "https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
+epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # Output file
 output_file = "combined_playlist.m3u"
