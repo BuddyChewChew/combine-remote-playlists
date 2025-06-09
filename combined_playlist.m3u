@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-09T21:21:29.219196 UTC
+# Generated on 2025-06-09T22:22:08.553454 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-09T20:57:40.294152Z
+# Last forced update: 2025-06-09T21:52:51.489144Z
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511232.ts
 #EXTINF:-1  tvg-name="BBC Top Gear 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Top-Gear-Logo-2002.png"  radio="false",BBC Top Gear 24/7
@@ -997,6 +997,10 @@ https://a1xs.vip/400051
 https://a1xs.vip/8000011
 #EXTINF:-1  tvg-name="Star Sports Select 2 FHD" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png"  radio="false",Star Sports Select 2 FHD
 https://a1xs.vip/8000012
+#EXTINF:-1 tvg-id="fc21f732aba3f374137f4aa7307b1fd2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/football-logo.png" ,Friendly Canadian Shield : New Zealand vs. Ukraine (TSN1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="fc21f732aba3f374137f4aa7307b1fd2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/football-logo.png" ,Friendly Canadian Shield : New Zealand vs. Ukraine (TSN4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Daily Animated" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg"  radio="false",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Infomercials" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg"  radio="false",Adult Swim Infomercials
@@ -1013,6 +1017,8 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1  tvg-name="Adult Swim The Eric Andre Show" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Eric_andre_show_title_screen.jpg"  radio="false",Adult Swim The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+#EXTINF:-1 tvg-id="4b81d4288f603716ec5616c0bcac4c59" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Talons vs Bandits (ESPN2 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="45753145483aab9c8e6aab6bc48366e8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,College Baseball NCAA Tournament Super Regional: Teams TBA (ESPN USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="45753145483aab9c8e6aab6bc48366e8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,College Baseball NCAA Tournament Super Regional: Teams TBA (ESPN2 USA)
@@ -1027,80 +1033,224 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="bf143a8eb6eb3135f9514ff44ce128f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Arizona Diamondbacks vs Seattle Mariners (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf143a8eb6eb3135f9514ff44ce128f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Arizona Diamondbacks vs Seattle Mariners (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="bf143a8eb6eb3135f9514ff44ce128f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Arizona Diamondbacks vs Seattle Mariners (ROOT SPORTS NW USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bf143a8eb6eb3135f9514ff44ce128f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Arizona Diamondbacks vs Seattle Mariners (ROOT SPORTS NW USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="c52bb1cf3533f4b194105feda90f898a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Baltimore Orioles vs Detroit Tigers (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (BALLY SPORTS SUN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (BALLY SPORTS SUN)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (NESN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs Tampa Bay Rays (NESN USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="81120262a67bad394a152e1dd8c7a5c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Cleveland Guardians vs Cincinnati Reds (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="81120262a67bad394a152e1dd8c7a5c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Cleveland Guardians vs Cincinnati Reds (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="81120262a67bad394a152e1dd8c7a5c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Cleveland Guardians vs Cincinnati Reds (SPORT 5 LIVE ISRAEL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="81120262a67bad394a152e1dd8c7a5c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Cleveland Guardians vs Cincinnati Reds (TNT SPORTS 1 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d1b2d440124abaa09c01a81d7cf1c00f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Colorado Rockies vs San Francisco Giants (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d1b2d440124abaa09c01a81d7cf1c00f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Colorado Rockies vs San Francisco Giants (NBCS BAY AREA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (MLB NETWORK USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (SPACE CITY HOME NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (FANDUEL SPORTS NETWORK KANSAS CITY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (SPORTSNET ONE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (TBS USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (TNT SPORTS 1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (YES USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="330e76107609e076ffaef44d20a840f1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Angels vs Oakland Athletics (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="330e76107609e076ffaef44d20a840f1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Angels vs Oakland Athletics (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="330e76107609e076ffaef44d20a840f1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Angels vs Oakland Athletics (NBCS CALIFORNIA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="330e76107609e076ffaef44d20a840f1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Angels vs Oakland Athletics (NBCS CALIFORNIA USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="51cebd857a748c8d54ba50b4acb399e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs Atlanta Braves (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="51cebd857a748c8d54ba50b4acb399e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs Atlanta Braves (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="51cebd857a748c8d54ba50b4acb399e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs Atlanta Braves (TSN1)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="51cebd857a748c8d54ba50b4acb399e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs Atlanta Braves (TSN4)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ff3886fcd5650f81be0b70819e5afe1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Minnesota Twins vs Texas Rangers (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (MASN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtODI5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (SPORTSNET NEW YORK USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (BEIN SPORTS 4 MAX FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (ESPN3 BRAZIL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04My9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (NBCS PHILADELPHIA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (NBCS PHILADELPHIA USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (RDS CA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODM5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ed4e229198fe69277d0552ef6c1a2e91" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Chicago Cubs (SPORT 5 LIVE ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (FOX DEPORTES)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (FOX SPORTS 1 USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (SPORTSNET PITTSBURGH)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="64a15efc90cce0e33a6f743db6b4258a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Pittsburgh Pirates vs Miami Marlins (SPORTSNET PITTSBURGH)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (BEIN SPORTS 4 MAX FRANCE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (ESPN4 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (SPECTRUM SPORTSNET LA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (SPECTRUM SPORTSNET LA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (SPORT 5 LIVE ISRAEL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (SPORTSNET 360 CA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="876dbc9f3a84f2d894e83643ab173980" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : San Diego Padres vs Los Angeles Dodgers (TVA SPORTS CA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (FANDUEL SPORTS NETWORK MIDWEST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (FANDUEL SPORTS NETWORK MIDWEST)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (SPORTSNET EAST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (SPORTSNET ONE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="53cb7386dce6e640b80975fd27ba3304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : St. Louis Cardinals vs Toronto Blue Jays (SPORTSNET ONTARIO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (ARENA PREMIUM 3 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (COSMOTE SPORT 7 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (DAZN ELEVEN 1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (M+ #VAMOS SPAIN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (MOVISTAR DEPORTES SPAIN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (SPORT 3 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (SPORTDIGITAL+ DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="085ee2672d08cec97a9202083e1ae7dc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Heidelberg vs Bayern (ARENA SPORT 5 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="085ee2672d08cec97a9202083e1ae7dc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Heidelberg vs Bayern (DYN DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="085ee2672d08cec97a9202083e1ae7dc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Heidelberg vs Bayern (SPORT 5 LIVE ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="085ee2672d08cec97a9202083e1ae7dc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Heidelberg vs Bayern (SPORT KLUB 2 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1ee400481080246f2ed14ffeaf5425c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Wurzburg vs Ulm (ARENA PREMIUM 3 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1ee400481080246f2ed14ffeaf5425c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Wurzburg vs Ulm (DYN DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1ee400481080246f2ed14ffeaf5425c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Wurzburg vs Ulm (SPORT 5 PLUS ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1ee400481080246f2ed14ffeaf5425c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,BBL : Wurzburg vs Ulm (SPORT KLUB 4 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="fe8ebbb53a52a30f705366087ede24c4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Eurobasket Women 2025 Warm-up Game : Portugal vs Spain (RTP 2 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a7d8ac7abe612fc40de5e8f1c4d48e2e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,French League: Playoffs - 1/2 Final (G4): Monaco vs Asvel (SPORT KLUB 5 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="09372de9fd0ea9fb1be21e931ca7067e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Friendly Games Women : Czech Republic vs. Italy (CT SPORT CZECH HD)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="068d231b9776ad792f7344eb8876830d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (COSMOTE SPORT 8 GREECE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="068d231b9776ad792f7344eb8876830d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (EUROSPORT 2 ITALY)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="b614068b1812c451f36911ab25556fb9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Liga ABA : KK Partizan Nis Belgrade vs. KK Buducnost Voli (ARENA PREMIUM 2 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="b614068b1812c451f36911ab25556fb9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Liga ABA : KK Partizan Nis Belgrade vs. KK Buducnost Voli (ARENA SPORT 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c45133abc2653c3bd379846f50a1b2bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Liga Nationala : Cluj Napoca vs CSM Oradea (DIGI SPORT 3 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e67593db609eff7b24712988e1fd0130" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Men's basketball: ORLEN Basket League (POLSAT SPORT 1 POLAND)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="dbacf72b9c9a21aacd9b423328824ae5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Men's basketball: ORLEN Basket League 3rd place (POLSAT SPORT 2 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="81ad036f5838c0e51a02953d4c850947" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Portugal LPB : Benfica Lisboa vs. FC Porto (BTV 1 PORTUGAL HD)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzgwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="81ad036f5838c0e51a02953d4c850947" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Portugal LPB : Benfica Lisboa vs. FC Porto (RTP 2 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f858d7046dc6e151cae94ea71b3d72a2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Pro A - Betclic Elite : Bourg-en-Bresse vs Paris (DAZN1 FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d5fd6cfbb868b4e3cefdd09bcf841a9f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Serie A2 : Rimini vs Cantu (RAI SPORT 1 IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04ODIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="4e17638863a14292c93c633abce8c66e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Super League : Maccabi Tel Aviv vs Hapoel M. Jerusalem (SPORT 5 ISRAEL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="4e17638863a14292c93c633abce8c66e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Super League : Maccabi Tel Aviv vs Hapoel M. Jerusalem (SPORT KLUB 3 CROATIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Anadolu Efes vs Besiktas (ARENA SPORT 2 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Anadolu Efes vs Besiktas (ARENA SPORT 2 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Anadolu Efes vs Besiktas (BEIN SPORTS 5 TURKEY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Anadolu Efes vs Besiktas (COSMOTE SPORT 9 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Anadolu Efes vs Besiktas (SPORT 3 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c4a253472cbb9c66ea46b963de4b4967" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Bahcesehir Koleji vs Fenerbahce (ARENA PREMIUM 2 SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c4a253472cbb9c66ea46b963de4b4967" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Bahcesehir Koleji vs Fenerbahce (BEIN SPORTS 5 TURKEY)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="c4a253472cbb9c66ea46b963de4b4967" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Süper Ligi : Bahcesehir Koleji vs Fenerbahce (SPORT 4 ISRAEL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="38ea9be1f611fb7e2f73641b90cb99bd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Toyrnoya Vaso Mpeskaki : Hellas vs Megali Vretania (ERT 2 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="34cfa467723bc67d186487e023a0e5fc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,VTB LIGA : CSKA vs Zenit (ARENA 1 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="34cfa467723bc67d186487e023a0e5fc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,VTB LIGA : CSKA vs Zenit (MATCH IGRA RUSSIA)
@@ -1113,6 +1263,16 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e216a5d30ff5064cdc3b9b02dea1fa16" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : Los Angeles Sparks W vs Golden State Valkyries W (TSN4)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e62d376287b1e4f9e7e7c21460b433df" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : New York Liberty W vs Chicago Sky W (ESPN DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e62d376287b1e4f9e7e7c21460b433df" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : New York Liberty W vs Chicago Sky W (ESPN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e62d376287b1e4f9e7e7c21460b433df" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : New York Liberty W vs Chicago Sky W (ESPN2 ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e62d376287b1e4f9e7e7c21460b433df" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : New York Liberty W vs Chicago Sky W (ESPN2 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04Mi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e62d376287b1e4f9e7e7c21460b433df" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : New York Liberty W vs Chicago Sky W (TSN2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1  tvg-name="Classic Rock 102.9 MGK" tvg-id="Radio.105.Dummy.us" tvg-logo="https://wmgk.com/uploads/2021/06/WMGK-LOGO-HERO.jpg"  radio="true",Classic Rock 102.9 MGK
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.aac
 #EXTINF:-1  tvg-name="Classic Rock 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2733/files/2021/04/wglx-logo-glow-1024x683.png"  radio="true",Classic Rock 103.3
@@ -2679,7 +2839,7 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Moana.2.2024.1080p.WEBRip.AA
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monkey%20Man%20(2024)%201080p%20H265%20ita%20eng%20AC3%205.1%20sub%20ita%20eng%20Licdom.mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Monster House (2006)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIzNjE1NDg1N15BMl5BanBnXkFtZTcwOTg2NTMzMQ@@._V1_FMjpg_UX1000_.jpg"  description="Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets." rating="6.7" runtime="91" genres="Animation,Comedy,Family,Fantasy",Monster House (2006)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monster.House.2006.1080p.BluRay.x265-RARBG.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Monsters, Inc. (2001)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg"  description="Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home." rating="7.844" runtime="92" genres="Animation,Comedy,Family",Monsters, Inc. (2001)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Monsters: Inc. (2001)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg"  description="Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home." rating="7.844" runtime="92" genres="Animation,Comedy,Family",Monsters: Inc. (2001)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monsters Inc 2001 (1080p x265 10bit Tigole).mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="New Jack City (1991)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFlNGE5NWUtNmNkNS00OGJkLWFhNTEtYzFlMWFmNGM1YmJhXkEyXkFqcGc@._V1_.jpg"  description="A gangster, Nino, is in the Cash Money Brothers, making a million dollars every week selling crack. A cop, Scotty, discovers that the only way to infiltrate the gang is to become a dealer himself." rating="6.617" runtime="97" genres="Thriller,Crime,Drama",New Jack City (1991)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/New.Jack.City.1991.1080p.BluRay.x264.YIFY.mp4
@@ -7755,12 +7915,116 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="8206da688f4b275b9a5282c5785b65e5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Madagascar vs Eswatini (SUPERSPORT VARIETY 4)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="67eb61d6d3400defb39c437eef23bda5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Malawi vs Angola (SUPERSPORT LALIGA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="67eb61d6d3400defb39c437eef23bda5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Malawi vs Angola (SUPERSPORT MAXIMO 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bfc7e39081e2e2c05b58357576630317" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Mozambique vs Zimbabwe (SUPERSPORT LALIGA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cecbb2717d10167af8f1296aa578892d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Namibia vs Lesotho (SUPERSPORT PSL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cecbb2717d10167af8f1296aa578892d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : Namibia vs Lesotho (SUPERSPORT VARIETY 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="61cf9613b3a4473f85fb36c9ff235e70" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : South Africa vs Mauritius (SUPERSPORT MAXIMO 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="61cf9613b3a4473f85fb36c9ff235e70" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : South Africa vs Mauritius (SUPERSPORT PSL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="61cf9613b3a4473f85fb36c9ff235e70" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Africa - COSAFA Cup : South Africa vs Mauritius (SUPERSPORT VARIETY 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4b6c6afb26586386923596ef518f1af5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Asian Cup Qualification : Myanmar vs Pakistan (A SPORTS PAKISTAN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yNjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9ff36f1710645129ddb79925caaff2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Asian Cup Qualification : Turkmenistan vs Thailand (TRUE SPORT 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="4029f3dac1b0ca67a26dcec8176165ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brazil - Brasileiro Feminino : Corinthians vs Flamengo (SPORTV BR)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="dd3c72147834aa49f8c6cac791167eb0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brazil - Serie B : Criciúma vs Vila Nova (ESPN BRAZIL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (BEIN SPORTS MENA 8)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (CBC SPORT AZERBAIJAN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (DAZN 2 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (DIEMA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (FOX SPORTS 2 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (M4 SPORTS HUNGARY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (POLSAT SPORT 1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (SKY SPORT CALCIO IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (SPORT 1 CZECH)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (SPORTKLUB 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="35ca31d0c0f2499593ef47937156588f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Azerbaijan vs Hungary (SPORTV2 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="4ffdcbfe6f18c657cde3b5448a6c83ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Belarus vs Russia (MATCH PREMIER RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4ffdcbfe6f18c657cde3b5448a6c83ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Belarus vs Russia (MATCH TV RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (FOX SPORTS 2 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (RDS CA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODM5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (TSN1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (TSN3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (TSN4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="65f4540c23b4b18c99581b8dbe4375a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Canada vs Côte d'Ivoire (TSN5)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0f07504a92c5a563f531a0e37c7ce8ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Croatia U21 vs Sweden U21 (V SPORT PREMIUM)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="7160cbfbb837574cbd8e61d51f957133" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Denmark vs Lithuania (TV2 DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (BEIN SPORTS MENA 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (BEIN SPORTS MENA ENGLISH 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (DAZN 1 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (DIEMA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (DIGI SPORT 4 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (ITV 1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzUwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (NOVA SPORTS PREMIER LEAGUE GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (POLSAT SPORT 3 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SKY SPORT 2 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTg5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SKY SPORT 251 IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SPORT 4 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SPORT TV2 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SPORTKLUB 4 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SPORTV2 BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (SUPERSPORT PREMIER LEAGUE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bac894a36cd57ddf3fecb7c413d7de27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : England vs Senegal (TV2 SPORT DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="9e34fb730c9bcbc16d5bbd8f1bca1119" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Equatorial Guinea vs Cameroon (CRTV SPORTS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d6f74322f622d5bcfa854883eb946607" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Greece vs Bulgaria (BNT 1 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d6f74322f622d5bcfa854883eb946607" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Greece vs Bulgaria (BNT 3 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d6f74322f622d5bcfa854883eb946607" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Greece vs Bulgaria (CYTAVISION SPORTS 4 CYPRUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d6f74322f622d5bcfa854883eb946607" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Greece vs Bulgaria (NOVA SPORTS START GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="d6f74322f622d5bcfa854883eb946607" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Greece vs Bulgaria (SUPERSPORT VARIETY 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b00bb7979e0ffe955db9a393e411b194" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Kosovo vs Comoros (RTK1)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e92c8bd5e2614ee1537cbcdee2ce10b0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Liechtenstein vs Scotland (BBC SCOTLAND)
@@ -7787,10 +8051,82 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZH
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e92c8bd5e2614ee1537cbcdee2ce10b0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Liechtenstein vs Scotland (VODAFONE SPORT)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="668de89c4142b8fef4408e5fc5fe2671" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Luxembourg vs Ireland Republic (RTE 2 IRELAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="668de89c4142b8fef4408e5fc5fe2671" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Luxembourg vs Ireland Republic (SUPERSPORT FOOTBALL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0472e1c8d6c6baca64af8b720d69ad42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Mexico vs Turkey (AZTECA 7 MEXICO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NDQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0472e1c8d6c6baca64af8b720d69ad42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Mexico vs Turkey (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0472e1c8d6c6baca64af8b720d69ad42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Mexico vs Turkey (TUDN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0472e1c8d6c6baca64af8b720d69ad42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Mexico vs Turkey (TV8 TURKEY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0472e1c8d6c6baca64af8b720d69ad42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Mexico vs Turkey (UNIVISION USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="ddc7bed234cebfd78650eeb2c1d731ce" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Montenegro vs Armenia (BEIN SPORTS MENA 6)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="7117d141dc11f4313def713240a48f51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Morocco vs Benin (ARRYADIA 3 MOROCCO)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="98261248021354806cf9f71dc95daeab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : New Zealand vs Ukraine (FOX SPORTS 2 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="98261248021354806cf9f71dc95daeab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : New Zealand vs Ukraine (ONESOCCER)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e9f99f16c22a7e0b6576a05086da93f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Northern Ireland vs Iceland (STÖÐ 2 SPORT 1 ICELAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e9f99f16c22a7e0b6576a05086da93f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Northern Ireland vs Iceland (SUPERSPORT VARIETY 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="907a75c9b7590be09fddd88c50951efa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovakia vs Israel (5 SPORT ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="907a75c9b7590be09fddd88c50951efa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovakia vs Israel (BEIN SPORTS MENA ENGLISH 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (BHT 1 BOSNIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (DAZN1 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (DIEMA SPORT 2 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (FUBO SPORTS NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (SPORT 1 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (SPORT KLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6e0ebf6aebeda0a924c8eeac11769298" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Slovenia vs Bosnia and Herzegovina (SPORTKLUB 1 SLOVENIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (BEIN SPORTS MENA 6)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (SPORT KLUB 10 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (SPORT KLUB 7 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (SPORT TV4 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (TV 6 ALGERIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="618194303caf1f6f3e79ce55e537d23f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : Sweden vs Algeria (TV6 SWEDEN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="52c8ebdc0c84d4a5ceb0eb218f47472e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : USA vs Switzerland (NBC UNIVERSO USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="52c8ebdc0c84d4a5ceb0eb218f47472e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : USA vs Switzerland (SKY SPORT CALCIO IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="52c8ebdc0c84d4a5ceb0eb218f47472e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : USA vs Switzerland (SRF ZWEI)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="52c8ebdc0c84d4a5ceb0eb218f47472e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : USA vs Switzerland (TNT USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="52c8ebdc0c84d4a5ceb0eb218f47472e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Friendly : USA vs Switzerland (TRUTV USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="cb2217e66ea53a2ea36cee7504ffb325" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Denmark U20 vs Japan U20 (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="cb2217e66ea53a2ea36cee7504ffb325" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Denmark U20 vs Japan U20 (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="cb2217e66ea53a2ea36cee7504ffb325" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Denmark U20 vs Japan U20 (TV3 SPORT DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a51c0b152a9ccbc6c16d577a2b5d1a78" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Mexico U20 vs Congo U20 (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a51c0b152a9ccbc6c16d577a2b5d1a78" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Mexico U20 vs Congo U20 (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="fe9a9ad46497d783988e8f71dd3e86d4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Panama U20 vs France U20 (FOX DEPORTES)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="fe9a9ad46497d783988e8f71dd3e86d4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Panama U20 vs France U20 (SPORT TV2 PORTUGAL)
@@ -7799,6 +8135,10 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="28cb9547d8f7abf2218add3557f1dbd3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Saudi Arabia U23 vs Mali U20 (SPORT TV2 PORTUGAL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9962e5970b85af54c9ea3e0828415c8e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Men's International Soccer Friendlies : USA vs Türkiye (TRUTV USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="7e4981befa27de35c06f7ea96c15928d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Northern Super League : Halifax Tides vs Ottawa Rapid (TSN5)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="07c097ad9d7ca4e49de32bbe3f23cc50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Serbian Women's Cup Final : ŽFK Crvena zvezda vs ŽFK TSC Kanjiža (ARENA SPORT 2 SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="52dab6499b2c6b14f8af674b406dae03" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,The Soccer Tournament Men's Championship: Teams TBA (ESPN DEPORTES)
@@ -7809,6 +8149,34 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="bce4bf3c28cb03431e689ceaa0d5cf40" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,The Soccer Tournament Women's Championship: Teams TBA (ESPNU USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (ARENA PREMIUM 2 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (ARENA SPORT 2 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (CARACOL TV COLOMBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (ESPN 3 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04ODgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (MATCH FOOTBALL 2 RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (MOVISTAR LIGA DE CAMPEONES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (MOVISTAR PLUS+)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (PREMIER SPORTS 1 IRELAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (SPORT 1 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (SPORT TV2 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (SPORTV2 BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (TELEMUNDO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c9debf796289c9484197db69497a5d55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Argentina vs Colombia (TYC SPORTS ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b82419aecc6dfde8203fc4c7623700d0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Belgium vs Wales (ARENA 1 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b82419aecc6dfde8203fc4c7623700d0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Belgium vs Wales (BBC ONE UK)
@@ -7851,6 +8219,58 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="b82419aecc6dfde8203fc4c7623700d0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Belgium vs Wales (ZIGGO SPORT 2 NL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ccba8e3bdb16710bf5ed800c645ad67f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Bolivia vs Chile (CHILEVISION CHILE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ccba8e3bdb16710bf5ed800c645ad67f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Bolivia vs Chile (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ccba8e3bdb16710bf5ed800c645ad67f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Bolivia vs Chile (SPORTV BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ccba8e3bdb16710bf5ed800c645ad67f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Bolivia vs Chile (TYC SPORTS ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (#VAMOS ES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (ARENA PREMIUM 3 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (ARENA SPORT 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (ASTRO GRANDSTAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (ESPN 2 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (MATCH FOOTBALL 1 RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (MATCH TV RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (MOVISTAR LIGA DE CAMPEONES 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (NBC UNIVERSO USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODQ1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (PREMIER SPORTS 2 IRELAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03OTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (SPORT 3 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (SPORTV BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="5ded80d1af70bb566af0435aaf920e10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Brazil vs Paraguay (VIAPLAY SPORTS 2 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1254e3159e407e700fed173913494198" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : China vs Bahrain (BEIN SPORTS MENA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1254e3159e407e700fed173913494198" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : China vs Bahrain (ESPN 2 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1254e3159e407e700fed173913494198" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : China vs Bahrain (NOVA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1254e3159e407e700fed173913494198" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : China vs Bahrain (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="1254e3159e407e700fed173913494198" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : China vs Bahrain (SPORT KLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="53ddcf710f6d9bb0b5628e423749a277" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Costa Rica vs Trinidad and Tobago (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="53ddcf710f6d9bb0b5628e423749a277" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Costa Rica vs Trinidad and Tobago (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="734ee0b664a6c3409bbf69b0b16542a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Croatia vs Czech Republic (ARENA SPORT 2 SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="734ee0b664a6c3409bbf69b0b16542a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Croatia vs Czech Republic (DIEMA SPORT BULGARIA)
@@ -7881,6 +8301,20 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTE5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="734ee0b664a6c3409bbf69b0b16542a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Croatia vs Czech Republic (ČT SPORT CZECH)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ccae59cee55d4298eab04b3b70ce4822" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Cuba vs Bermuda (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ccae59cee55d4298eab04b3b70ce4822" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Cuba vs Bermuda (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="8b205b498012d3ee2f3555d13e8ed2d3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Dominican Republic vs Dominica (CDN DEPORTES DOMINICAN REPUBLIC)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="8b205b498012d3ee2f3555d13e8ed2d3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Dominican Republic vs Dominica (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="d32828fec1fe070a7f8b1ddc85150a39" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : El Salvador vs Suriname (CANAL 4 EL SALVADOR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="d32828fec1fe070a7f8b1ddc85150a39" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : El Salvador vs Suriname (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d32828fec1fe070a7f8b1ddc85150a39" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : El Salvador vs Suriname (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="1c3131cd7f40346e3e66ded6fc41a7b7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Estonia vs Norway (DIGI SPORT 4 ROMANIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="1c3131cd7f40346e3e66ded6fc41a7b7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Estonia vs Norway (ESPN2 ARGENTINA)
@@ -7917,6 +8351,64 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="be1f9dd48f5c62334032b94c8943dcb8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Faroe Islands vs Gibraltar (SKY SPORT 6 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (ARENA SPORT 1 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (BEIN SPORTS MENA 8)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (CYTAVISION SPORTS 6 CYPRUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (DIEMA SPORT 2 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (DIGI SPORT 3 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (ESPN2 ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (FUBO SPORTS NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (NOVA SPORTS 3 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (PRIMA SPORT 1 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTgzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SKY SPORT 7 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTk0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SKY SPORT UNO IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SPORT 1 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SPORT TV3 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SPORTKLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (SPORTV3 BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (TV2 SPORT NORWAY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (TVP SPORT POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (TVP1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTYwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (YLE TV2 FINLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="957ad12df7250e6881bf70f9f5ff3921" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Finland vs Poland (ZIGGO SPORT 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4b0122466294bad381201c62e272ca82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Guyana vs Montserrat (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ffd2bc443551d3ae323dd70b6815c359" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Haiti vs Curaçao (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ffd2bc443551d3ae323dd70b6815c359" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Haiti vs Curaçao (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="915241cbe81521c66ad87473a7dcfe17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Iran vs Korea DPR (BEIN SPORTS MENA 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="915241cbe81521c66ad87473a7dcfe17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Iran vs Korea DPR (NOVA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="915241cbe81521c66ad87473a7dcfe17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Iran vs Korea DPR (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="915241cbe81521c66ad87473a7dcfe17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Iran vs Korea DPR (SPORT KLUB HD CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="915241cbe81521c66ad87473a7dcfe17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Iran vs Korea DPR (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="745adce9e6f3dd79ac53abdc52844f85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Italy vs Moldova (ARENA 3 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="745adce9e6f3dd79ac53abdc52844f85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Italy vs Moldova (BEIN SPORTS MENA 1)
@@ -7963,6 +8455,32 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="745adce9e6f3dd79ac53abdc52844f85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Italy vs Moldova (TV2 SPORT DENMARK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="43eaae01fabe9d989fa6a53c8235bc01" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Jamaica vs Guatemala (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="43eaae01fabe9d989fa6a53c8235bc01" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Jamaica vs Guatemala (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (BEIN SPORTS MENA 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (CANAL 11 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (DIEMA SPORT 2 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (SPORT 5 PLUS ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="0478a7e1c1f875634ae0600ef23b9c75" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Japan vs Indonesia (SPORTKLUB 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="05f05e66958c9e3c5de6cda10097e6e0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Jordan vs Iraq (ARENA SPORT 8 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="05f05e66958c9e3c5de6cda10097e6e0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Jordan vs Iraq (BEIN SPORTS MENA 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="05f05e66958c9e3c5de6cda10097e6e0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Jordan vs Iraq (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="ee92341cf0b2771f41443e626864120b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kazakhstan vs North Macedonia (ARENA 1 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ee92341cf0b2771f41443e626864120b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kazakhstan vs North Macedonia (BEIN SPORTS MENA 2)
@@ -8007,10 +8525,212 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="ee92341cf0b2771f41443e626864120b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kazakhstan vs North Macedonia (ZIGGO SPORT 2 NL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (ASTRO FOOTBALL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (BEIN SPORTS MENA 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (DIEMA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (ESPN MEXICO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (ESPN4 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f009a78999a98fa2029c86de7644a286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Korea Republic vs Kuwait (SPORTKLUB HD CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="600ac9a2589a9676b3812ec6b6d390c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kyrgyzstan vs United Arab Emirates (BEIN SPORTS MENA 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="600ac9a2589a9676b3812ec6b6d390c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kyrgyzstan vs United Arab Emirates (NOVA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="600ac9a2589a9676b3812ec6b6d390c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kyrgyzstan vs United Arab Emirates (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="600ac9a2589a9676b3812ec6b6d390c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Kyrgyzstan vs United Arab Emirates (SPORTKLUB 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (ARENA SPORT 7 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (BEIN SPORTS MENA 6)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (NOVA SPORTS 5 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (SKY SPORT 4 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (SPORTKLUB 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e7ad59ca9bdc2101b602deec33844408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Latvia vs Albania (SUPERSPORT 2 ALBANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (ARENA SPORT 3 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (BEIN SPORTS MENA 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (BEIN SPORTS MENA 5)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (CYTAVISION SPORTS 3 CYPRUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (DAZN2 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (DIEMA SPORT 3 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (DIGI SPORT 1 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (ESPN BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (FOX SPORTS 2 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (NOVA SPORTS 1 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (NPO 3 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (POLSAT SPORT 1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SKY SPORT 1 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTg4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SPORT 2 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SPORTKLUB 8 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SUPERSPORT MAXIMO 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (SUPERSPORT PSL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (TV2 SPORT X DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="75c09c66121ae5de76745f7f4873bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Netherlands vs Malta (VODAFONE SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="61ddf376b3e4c6b34ba759e797be6459" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Palestine vs Oman (ASTRO ARENA 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="61ddf376b3e4c6b34ba759e797be6459" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Palestine vs Oman (BEIN SPORTS MENA 2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="61ddf376b3e4c6b34ba759e797be6459" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Palestine vs Oman (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="9a00a92be32c4586a079e4c6071e71ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Panama vs Nicaragua (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f1c7462041860bc17f9b7d29e518041f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Peru vs Ecuador (ARENA PREMIUM 1 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f1c7462041860bc17f9b7d29e518041f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Peru vs Ecuador (ELEVEN SPORTS 1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f1c7462041860bc17f9b7d29e518041f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Peru vs Ecuador (MOVISTAR LIGA DE CAMPEONES 3 SPAIN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f1c7462041860bc17f9b7d29e518041f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Peru vs Ecuador (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f1c7462041860bc17f9b7d29e518041f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Peru vs Ecuador (SPORT 2 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9a600165445ab09dd036405f32f72cf5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Puerto Rico vs Saint Vincent and the Grenadines (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (ANTENA 1 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (ARENA SPORT 4 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (NOVA SPORTS 2 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (POLSAT SPORT 2 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (SKY SPORT 5 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ee730c2df0782935c94d30bb0a19ffc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Romania vs Cyprus (SPORT TV5 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (DIGI SPORT 2 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (NOVA SPORTS 6 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (POLSAT SPORT PREMIUM 1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (SKY SPORT 3 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="9386a7e0ccbb7ef9d89152d3b622121c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : San Marino vs Austria (SUPERSPORT VARIETY 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (ARENA SPORT 6 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (BEIN SPORTS MENA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (ESPN2 MEXICO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (ESPN4 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (SPORT 5 STARS ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="06a7bc7bdf74aeee29bfc8918b8c633d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Saudi Arabia vs Australia (SPORTKLUB HD CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (ARENA PREMIUM 1 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (BEIN SPORTS MENA XTRA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (ESPN2 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04Mi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (FOX SOCCER PLUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (NOVA SPORT BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (RTS 1 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (SKY SPORT 6 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bf62e096e9ee500bfebf86cd54af5173" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Serbia vs Andorra (SUPERSPORT LALIGA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="44ed3291a1aa39dd55525a30703e72a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Simulcast (L'EQUIPE FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="44ed3291a1aa39dd55525a30703e72a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Simulcast (NOVA SPORTS PRIME GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="44ed3291a1aa39dd55525a30703e72a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Simulcast (NOVA SPORTS PRIME GREECE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="44ed3291a1aa39dd55525a30703e72a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Simulcast (ZIGGO SPORT 1 NL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ab51d42815bfbeaff806a92913ab87c2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : St. Kitts and Nevis vs Grenada (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="df41faf9a25558838bb5af3e4d860118" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : St. Lucia vs Barbados (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (ARENA 1 PREMIUM SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (ARENA SPORT 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (ELEVEN SPORTS 1 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (MATCH FOOTBALL 1 RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (MOVISTAR LIGA DE CAMPEONES 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="292b1a6dd795ca293efdc4b793e6a0a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uruguay vs Venezuela (SPORT 2 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (ARENA 1 PREMIUM SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (BEIN SPORTS MENA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (DIEMA SPORT 3 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (ESPN MEXICO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (ESPN4 BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (SPORTKLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ca6d8ca4fdd9fad21b2dd2e1efbc978a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,World Cup Qualifying : Uzbekistan vs Qatar (SPORTKLUB 1 SLOVENIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" ,21 Jump Street
 https://jmp2.uk/sam-CABB26000082J.m3u8
 #EXTINF:-1  tvg-name="ALF" tvg-id="CA41000052M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA41000052M_20250121T094848SQUARE.png" tvg-chno="2674" ,ALF
@@ -11827,6 +12547,14 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE Monday Night RAW (SUPERSPORTS ACTION)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="94c84dce4cb7b0cbe7e76eb635f1aa6f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE NXT (CW PIX 11 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="94c84dce4cb7b0cbe7e76eb635f1aa6f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE NXT (CW USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="94c84dce4cb7b0cbe7e76eb635f1aa6f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE NXT (SUPERSPORT GRANDSTAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="94c84dce4cb7b0cbe7e76eb635f1aa6f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE NXT (SUPERSPORT VARIETY 3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTgvbW9uby5tM3U4.m3u8
 
 # 📺 Source: https://cdn.djdoolky76.net/udptv.m3u
 
