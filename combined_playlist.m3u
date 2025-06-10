@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-10T20:25:41.300194 UTC
+# Generated on 2025-06-10T21:21:47.921010 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-10T20:17:47.518578Z
+# Last forced update: 2025-06-10T21:08:38.135944Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3909,6 +3909,158 @@ http://luong.utako.moe/ytv/index.m3u8
 #EXTINF:-1  tvg-id="yormuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
 http://luong.utako.moe/ytv/index.m3u8
 
+#EXTGRP:MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Athletics - Angels  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/383.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Blue Jays - Cardinals  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/392.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Braves - Brewers  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/366.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Cubs - Phillies  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/483.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Dodgers - Padres  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/394.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Giants - Rockies  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/387.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Mariners - Diamondbacks  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/388.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Marlins - Pirates  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/378.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Nationals - Mets  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/393.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Rangers - Twins  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/391.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Rays - Red Sox  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/390.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Reds - Guardians  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/371.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Tigers - Orioles  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/374.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,White Sox - Astros  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/370.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Yankees - Royals  June 10, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/382.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Athletics - Angels  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/377.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Blue Jays - Cardinals  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/389.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Braves - Brewers  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/379.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Cubs - Phillies  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/384.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Dodgers - Padres  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/386.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Giants - Rockies  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/373.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Mariners - Diamondbacks  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/365.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Marlins - Pirates  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/385.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Nationals - Mets  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/381.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Rangers - Twins  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/380.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Rays - Red Sox  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/368.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Reds - Guardians  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/372.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Tigers - Orioles  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/367.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,White Sox - Astros  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/375.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Yankees - Royals  June 10, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/376.m3u8
+
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
@@ -5500,6 +5652,42 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 #EXTINF:-1  tvg-id="YES.Network.us" tvg-logo="http://lonewolftvpr.com/logos/yes.png"  radio="false",Yes Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+
+#EXTGRP:NBA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Indiana Pacers - Oklahoma City Thunder (AWAY)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/525.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Indiana Pacers - Oklahoma City Thunder (HOME)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/520.m3u8
+
+#EXTGRP:NFL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" ,Chargers - Lions  July 31, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nflwebcast.com
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.fhdsports.live/hdstream/embed/96.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" ,Chargers - Lions  July 31, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nflwebcast.com
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.fhdsports.live/hdstream/embed/106.m3u8
+
+#EXTGRP:NHL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Oilers - Panthers  May 30, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/67.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Oilers - Panthers  May 30, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/68.m3u8
 
 #EXTGRP:PixelSports
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png" ,Arizona Cardinals - New Orleans Saints (AWAY)
@@ -11621,11 +11809,21 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/3841c72cfde4cef9a22f
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/wffwehg9yklo7k3dmabqxi70sbws5w4q.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/647fb1660850c.png"  tvg-id="24.7.Dummy.us",Appalachian Mountain LM Speedweek at Path Valley Speedway (Floracing)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/6858e27661e1529de97d7c37210c5080.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/beinsport.png"  tvg-id="24.7.Dummy.us",Bein Sports USA (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/afdb73c451239369681c5e34207bf17a.m3u8
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/09/6-25-25-SN-1733778277077.png?impolicy=resize&w=1920&h=1080"  tvg-id="24.7.Dummy.us",Brownstown Bullring (Dirtvision)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/f78cebfcc01600e7655a984606231919.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png"  tvg-id="24.7.Dummy.us",Cartoon Network (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11736,11 +11934,6 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/58582ebdda51b171777a
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/ac0dfaf43b236054ea5ebe5862b68d00.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uq86yu1749404438.jpgg"  tvg-id="24.7.Dummy.us",Friendlies: Belarus vs Russia (ÐœÐÐ¢Ð§! ÐŸÑ€ÐµÐ¼ÑŒÐµÑ€)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/d8f6fe8dce42a90b29e5ba028cd5f0c5.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs1.png"  tvg-id="24.7.Dummy.us",FS1 (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11756,11 +11949,21 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/9bfdo7kxd45sst08hbuh
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/92399eaa937b3e8386b43ed0e15150e2.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png"  tvg-id="24.7.Dummy.us",Kubota High Limit Racing at Eagle Nationals (Floracing)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/d95812b4d2162050409dc9b71b935f74.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png"  tvg-id="24.7.Dummy.us",LaLiga TV (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/pajip6maru1rlcoz1qizebitocof4aP7.m3u8
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/01/13/6-10-25-Mill-1736797850075.png?impolicy=resize&w=1920&h=1080"  tvg-id="24.7.Dummy.us",Millbridge Speedway (Dirtvision)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/eadb18da5c7def89d1cc5ac11d5e3c2e.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/mlb.png"  tvg-id="24.7.Dummy.us",MLB Network (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11926,6 +12129,11 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/pA5reZusPAvispo16hUb
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/kl11IkOsWATR8duxiWrOyiprERl2hLx4.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/62b9d15d35f20.png"  tvg-id="24.7.Dummy.us",Summer Shootout Round 2 at Charlotte Motor Speedway (Floracing)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/f518228551cf2c25a574d232172d16b2.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png"  tvg-id="24.7.Dummy.us",TBS (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12016,16 +12224,16 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/SpOpusPoxiGihEZIYIth
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uq86yu1749404438.jpg"  tvg-id="24.7.Dummy.us",World Cup Qualifying: Latvia vs Albania (DAZN CA)
+#EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop tvg-id="24.7.Dummy.us" ,w_1919,h_1079,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jxb5737my51cnq1gwn.jpg" ,World Cup Qualifying: Argentina vs Colombia (Premier Sports 1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/eb714e52e0a9ed4111463d26c2f6d28a.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ltqtbl1749404439.jpg"  tvg-id="24.7.Dummy.us",World Cup Qualifying: Serbia Vs Andorra (DAZN CA)
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/aE5dT9yH2uJ8gP1zWn7fK4oL6mV3cB.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/j3oadm1642788321.jpg"  tvg-id="24.7.Dummy.us",World Cup Qualifying: Uruguay vs Venezuela (Movistar Liga de Campeones 3)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/28a463949cdf3db5799fe46371a47cc2.m3u8
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/969c433215bbe3d76b6e3a18c4ecf010.m3u8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/EwZ67HuPQsqw_g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjZAAQ==" ,A&E Crime 360
