@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-10T05:22:39.033153 UTC
+# Generated on 2025-06-10T06:33:21.165202 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-10T04:54:50.350499Z
+# Last forced update: 2025-06-10T06:22:28.812164Z
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511232.ts
 #EXTINF:-1  tvg-name="BBC Top Gear 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Top-Gear-Logo-2002.png"  radio="false",BBC Top Gear 24/7
@@ -2482,7 +2482,7 @@ https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 #EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="https://www.models-resource.com/resources/big_icons/5/4695.png?updated=1404601540"  radio="false",Classic Cube
 https://s3.us-east-005.backblazeb2.com/tvcube/hls/0/stream.m3u8?cachebust=61e8d8
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="https://pm1.narvii.com/6277/50cdc53eef8c810a09216df063e0af3a80dc04d4_hq.jpg"  radio="false",Drew Live
-http://75.163.131.149:8080/hls/0/stream.m3u8?cachebust=03bdb9
+http://drewlive24.duckdns.org:8080/hls/0/stream.m3u8?cachebust=8f6914
 #EXTINF:-1  tvg-name="Retro Blast" tvg-id="24.7.Dummy.us" tvg-logo="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2221828967.jpg"  radio="false",Retro Blast
 https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
 #EXTINF:-1  tvg-name="Retro Strange" tvg-id="24.7.Dummy.us" tvg-logo="https://retrostrange.com/wp-content/uploads/2021/11/cropped-Channel-Thumb-300x225.png"  radio="false",Retro Strange
