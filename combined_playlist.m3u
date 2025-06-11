@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-11T04:31:27.078870 UTC
+# Generated on 2025-06-11T05:22:59.024551 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-11T03:56:50.912021Z
+# Last forced update: 2025-06-11T05:19:59.656609Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -2465,6 +2465,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
 
 #EXTGRP:DrewFX - Hip Hop & R&B
+#EXTINF:-1  tvg-name="011.FM - Hip Hop Hits" tvg-id="Radio.105.Dummy.us" tvg-logo="https://011fm.com/wp-content/uploads/2021/04/011trimmed-white.png"  radio="true",011.FM - Hip Hop Hits
+https://streaming.live365.com/a37306
 #EXTINF:-1  tvg-name="100 Hip Hop and RNB FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg"  radio="true",100 Hip Hop and RNB FM
 https://ice64.securenetsystems.net/LFTM
 #EXTINF:-1  tvg-name="100.3 HD 2 RB and Hip Hop" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/aud-opsconsole-media-images-prod-prod/PHI-WRNBHD2_121622-1671467410227.jpg"  radio="true",100.3 HD 2 RB and Hip Hop
@@ -2477,6 +2479,8 @@ https://live.amperwave.net/direct/audacy-wjmhfmaac-imc
 https://stream.revma.ihrhls.com/zc293
 #EXTINF:-1  tvg-name="92.7 FM Jam Central" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wixstatic.com/media/a31f71_e71cfe156a6a41e285ec40f7b047d5b9~mv2.png/v1/fill/w_176,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png"  radio="true",92.7 FM Jam Central
 https://ice42.securenetsystems.net/KZJM
+#EXTINF:-1  tvg-name="92.9 WDUP" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/independent/logos/WDUPFM.jpg"  radio="true",92.9 WDUP
+https://s2.voscast.com:9761/stream
 #EXTINF:-1  tvg-name="93.7 The Beat Houston" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/QKI_P6Ht5fg/maxresdefault.jpg"  radio="true",93.7 The Beat Houston
 https://stream.revma.ihrhls.com/zc2265
 #EXTINF:-1  tvg-name="94.1 The Beat" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/the-fictional-radio-stations-wiki/images/c/c8/KDOD.png/revision/latest?cb=20240425024532"  radio="true",94.1 The Beat
@@ -2489,6 +2493,8 @@ https://stream.revma.ihrhls.com/zc353/hls.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC.aac
 #EXTINF:-1  tvg-name="99 Jams" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.wjmi.com/wp-content/uploads/2019/07/BL3-DefaultThumbnail-600x375-WJMI.jpg"  radio="true",99 Jams
 https://live.amperwave.net/direct/alphacorporate-wjmifmaac-ibc4
+#EXTINF:-1  tvg-name="All Underground Hip Hop Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/undergroundmafiaradio.png?version=cd7a195aa7d1d1646739743d7edb4bee"  radio="true",All Underground Hip Hop Radio
+https://stream.radiojar.com/c1912tk5rtzuv
 #EXTINF:-1  tvg-name="Bestnet Radio - Bomb Beats" tvg-id="Radio.105.Dummy.us" tvg-logo="https://image.live365.com/download/d0547470-63f8-4e3c-ada5-aed979c8a6ce.png/400/image.webp"  radio="true",Bestnet Radio - Bomb Beats
 https://streaming.live365.com/a20849
 #EXTINF:-1  tvg-name="Dash Radio - Ice Cube Presents" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/452/ice-cube-presents-big3-radio.0bfe7920.png"  radio="true",Dash Radio - Ice Cube Presents
@@ -2513,12 +2519,22 @@ https://ice24.securenetsystems.net/HOT412IH
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC.aac
 #EXTINF:-1  tvg-name="Hot 97.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/KVEGFM_1505871_config_favicon_1524621423.png"  radio="true",Hot 97.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFM.mp3
+#EXTINF:-1  tvg-name="KZBT-FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://townsquare.media/site/523/files/2022/07/attachment-256.png"  radio="true",KZBT-FM
+https://live.amperwave.net/manifest/townsquare-kzbtfmaac-hlsc3.m3u8
 #EXTINF:-1  tvg-name="KZWA 104.9 FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg"  radio="true",KZWA 104.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
 #EXTINF:-1  tvg-name="Live 101.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s26822/images/logog.jpg?t=2"  radio="true",Live 101.5
 https://live.amperwave.net/direct/audacy-kalvfmaac-imc
+#EXTINF:-1  tvg-name="Loud 101.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://loudradiopa.com/wp-content/uploads/2022/02/loudradiosquare-600x430.png"  radio="true",Loud 101.5
+https://ice23.securenetsystems.net/WZWWHD2
+#EXTINF:-1  tvg-name="Loud 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s225776/images/logog.png?t=154117"  radio="true",Loud 103.3
+https://live.amperwave.net/direct/adamsradio-wjfxhd2aac-ibc1
+#EXTINF:-1  tvg-name="Loud 98.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://loudradiopa.com/wp-content/uploads/2022/02/loug-header-1.png"  radio="true",Loud 98.5
+https://ice66.securenetsystems.net/WLEVHD4
 #EXTINF:-1  tvg-name="Majic 94.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://majic945.com/wp-content/uploads/sites/45/2017/09/1505121343869.png"  radio="true",Majic 94.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC.aac
+#EXTINF:-1  tvg-name="Power 106.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1418/2020/05/11170817/wyrb_logo_big.png"  radio="true",Power 106.3
+https://ais-sa8.cdnstream1.com/p0zbr98vu6z/ct0ziwywwym
 #EXTINF:-1  tvg-name="Power 92" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1278/2019/11/22181838/wpwx-logo.png"  radio="true",Power 92
 https://ais-sa8.cdnstream1.com/pptsa5hdbog/cjo5jxmng7u
 #EXTINF:-1  tvg-name="Q93.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/_E1Qjq7SnjE/mqdefault.jpg"  radio="true",Q93.3
@@ -2529,6 +2545,10 @@ https://stream.revma.ihrhls.com/zc181
 http://104-6-216-93.lightspeed.tukrga.sbcglobal.net:8000/wmto
 #EXTINF:-1  tvg-name="V101" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s33359/images/logog.jpg?t=4"  radio="true",V101
 https://stream.revma.ihrhls.com/zc2121/hls.m3u8
+#EXTINF:-1  tvg-name="WE 102.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.alphamediausa.com/wp-content/uploads/brand/logo/WE_1029_Primary_LightBG.png"  radio="true",WE 102.9
+https://live.amperwave.net/direct/alphacorporate-kinkhd2aac-ibc4
+#EXTINF:-1  tvg-name="WGCI-FM 107.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/107.5_WGCI.jpg/revision/latest?cb=20150322170739"  radio="true",WGCI-FM 107.5
+https://tinyurl.com/wgcifm24
 #EXTINF:-1  tvg-name="WJLB" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/LaXiSQ6pnqI/maxresdefault.jpg"  radio="true",WJLB
 https://stream.revma.ihrhls.com/zc1141
 #EXTINF:-1  tvg-name="X102.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s30919g.png"  radio="true",X102.3
@@ -12214,11 +12234,6 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/9bfdo7kxd45sst08hbuh
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/92399eaa937b3e8386b43ed0e15150e2.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png"  tvg-id="24.7.Dummy.us",Kubota High Limit Racing at Eagle Nationals (Floracing)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/d95812b4d2162050409dc9b71b935f74.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png"  tvg-id="24.7.Dummy.us",LaLiga TV (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12234,16 +12249,6 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/92ff2c60b22c6f909fee
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/dd2b541cd3c0f5e547f9a7cdd4c2cb06.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/92jthw1748769129.jpg"  tvg-id="24.7.Dummy.us",MLB: Colorado Rockies vs San Francisco Giants (NBC Sports Bay Area)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/d96a38fa00731996cd8c1bb1e01be25d.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/erabpt1748769126.jpg"  tvg-id="24.7.Dummy.us",MLB: Houston Astros vs Chicago White Sox (MLB.TV (WHITE SOX FEED))
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/90f1297b2969bdaf3b5803537a0979cd.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png"  tvg-id="24.7.Dummy.us",NBA TV (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12284,11 +12289,6 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/26f5d9d5d9c41d0a73a9
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/fY2pQ8uB5zJ1wN6aL3sC7mX0vR9dHi.m3u8
-#EXTINF:-1 tvg-logo="https://litter.catbox.moe/bke61e8waya79jmr.png"  tvg-id="24.7.Dummy.us",Red Clay Series: 44th Annual Shrine Race (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/9ccc81ad24fac5251ffae56abaf5241a.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true"  tvg-id="24.7.Dummy.us",Sky Sport 1 NZ (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12499,16 +12499,6 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/SpOpusPoxiGihEZIYIth
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ula5ct1642788322.jpg"  tvg-id="24.7.Dummy.us",World Cup Qualifying: Brazil vs Paraguay (Premier Sports 2)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/sY1bX6cA8rM3wQ7iN9jV2pE5hU0lGf.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5dkfo61642788323.jpg"  tvg-id="24.7.Dummy.us",World Cup Qualifying: Peru vs Ecuador (Movistar Liga de Campeones 3)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/969c433215bbe3d76b6e3a18c4ecf010.m3u8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/EwZ67HuPQsqw_g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjZAAQ==" ,A&E Crime 360
