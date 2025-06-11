@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-11T20:24:18.977356 UTC
+# Generated on 2025-06-11T21:21:34.454227 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-11T20:17:17.611089Z
+# Last forced update: 2025-06-11T21:10:29.461465Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3455,16 +3455,26 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTg3YTRhMjU3NTlhLTA4MGI
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Cleveland Guardians - Cincinnati Reds
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Arizona Diamondbacks - Seattle Mariners
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmYzY2E0MjU3Yzc0LTg5ZGItMDdmNC00NWI5LTM1MmRmN2Fl/master.m3u8
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzQxODRjMGMyNDU5LTkzNGEtMjgyNC03NWIwLTM0ZWJiNGY2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Brazil - Iran
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Italy U21 - Romania U21
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWNmNjMwNGM1YWY2LThiOTktYWNhNC1jZDYyLTIwMzU3YzRl/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Los Angeles Angels - Athletics
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjhlMWI2ZDMxZTBiLTg2YzgtMzM2NC1hZDdjLTUyODMzZTU2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Milwaukee Brewers - Atlanta Braves
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -3485,16 +3495,6 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmI
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Philadelphia Phillies - Chicago Cubs
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjQ1NWMxNzY0YjViLWE2OWItODYwNC04MTM1LTQyNTJjZmFj/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Pittsburgh Pirates - Miami Marlins
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTgxZTQxNjM4N2RmLWUxZDgtNDgwNC1mZDEyLTljZTIwZjY2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Poland U21 - Georgia U21
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -3505,6 +3505,11 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWE
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGUxYzEzMWY3MTU1LTMxMDgtYjE1NC0yOTFiLTc1OTk4Y2Y2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| San Diego Padres - Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzJjMTBjYjRmOTljLTc4MDgtM2JkNC00ZDI1LTFmY2U0ODg1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| St.Louis Cardinals - Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -11398,11 +11403,6 @@ https://x3.xplorebrav.space/playlist/34537/load-playlist
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34538?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34538/load-playlist
-#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Cleveland Guardians vs Cincinnati Reds
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34536?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34536/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Colorado Rockies vs San Francisco Giants
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34540?newa=111
@@ -11448,21 +11448,11 @@ https://x3.xplorebrav.space/playlist/34548/load-playlist
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34539?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34539/load-playlist
-#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Philadelphia Phillies vs Chicago Cubs
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34549?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34549/load-playlist
 #EXTINF:-1  tvg-id="24.7.Dummy.us",Phoenix Mercury vs Dallas Wings
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34532?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34532/load-playlist
-#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Pittsburgh Pirates vs Miami Marlins
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34534?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34534/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",San Diego Padres vs Los Angeles Dodgers
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34547?newa=111
