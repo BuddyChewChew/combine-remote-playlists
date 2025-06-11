@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-11T16:29:50.808574 UTC
+# Generated on 2025-06-11T17:20:21.886038 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-11T15:56:36.905743Z
+# Last forced update: 2025-06-11T16:53:33.980215Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11393,11 +11393,21 @@ https://x3.xplorebrav.space/playlist/34542/load-playlist
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34533?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34533/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Los Angeles Angels vs Athletics
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34546?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34546/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Milwaukee Brewers vs Atlanta Braves
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34543?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34543/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Minnesota Twins vs Texas Rangers
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34548?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34548/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",New York Mets vs Washington Nationals
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34539?newa=111
@@ -11418,6 +11428,11 @@ https://x3.xplorebrav.space/playlist/34532/load-playlist
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34534?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34534/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",San Diego Padres vs Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34547?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34547/load-playlist
 #EXTINF:-1  tvg-id="24.7.Dummy.us",Seattle Storm vs Minnesota Lynx
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34531?newa=111
