@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-11T18:32:49.174438 UTC
+# Generated on 2025-06-11T19:17:49.365483 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-11T17:59:41.830143Z
+# Last forced update: 2025-06-11T18:55:50.978553Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3460,6 +3460,11 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWI
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmYzY2E0MjU3Yzc0LTg5ZGItMDdmNC00NWI5LTM1MmRmN2Fl/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Italy U21 - Romania U21
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWNmNjMwNGM1YWY2LThiOTktYWNhNC1jZDYyLTIwMzU3YzRl/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Milwaukee Brewers - Atlanta Braves
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -3475,6 +3480,11 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmE
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Oviedo - Almeria
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Philadelphia Phillies - Chicago Cubs
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -3485,6 +3495,16 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjQ1NWMxNzY0YjViLWE2OWI
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTgxZTQxNjM4N2RmLWUxZDgtNDgwNC1mZDEyLTljZTIwZjY2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Poland U21 - Georgia U21
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Portugal U21 - France U21
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGUxYzEzMWY3MTU1LTMxMDgtYjE1NC0yOTFiLTc1OTk4Y2Y2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| St.Louis Cardinals - Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -11378,6 +11398,11 @@ https://x3.xplorebrav.space/playlist/34537/load-playlist
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34538?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://x3.xplorebrav.space/playlist/34538/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Cleveland Guardians vs Cincinnati Reds
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34536?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34536/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Colorado Rockies vs San Francisco Giants
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34540?newa=111
@@ -11425,9 +11450,9 @@ https://x3.xplorebrav.space/playlist/34548/load-playlist
 https://x3.xplorebrav.space/playlist/34539/load-playlist
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Philadelphia Phillies vs Chicago Cubs
 #EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34535?newa=111
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34549?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34535/load-playlist
+https://x3.xplorebrav.space/playlist/34549/load-playlist
 #EXTINF:-1  tvg-id="24.7.Dummy.us",Phoenix Mercury vs Dallas Wings
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34532?newa=111
@@ -11545,6 +11570,26 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/hN9eS4rZ1wM7fC3vJ0aX
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/oI3uC8jF6yP2bW0zQ9nA5sM7lX1eRt.m3u8
+#EXTINF:-1 tvg-logo="https://assets.lemans.org/explorer/news/2021/24-heures-du-mans/affiche/affiche-FR-24h-lemans-2021.jpg"  tvg-id="24.7.Dummy.us",FIA WEC: 24 Hours at Le Mans - Continuous Broadcast (FIA WEC.TV (ENGLISH))
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/a7c4a177141413b9af79e4a951b59e6c.m3u8
+#EXTINF:-1 tvg-logo="https://assets.lemans.org/explorer/news/2021/24-heures-du-mans/affiche/affiche-FR-24h-lemans-2021.jpg"  tvg-id="24.7.Dummy.us",FIA WEC: 24 Hours at Le Mans - Continuous Broadcast (FIA WEC.TV (FRANCE))
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/60c5fdc550ed45f66bde8f06ce3d7398.m3u8
+#EXTINF:-1 tvg-logo="https://assets.lemans.org/explorer/news/2021/24-heures-du-mans/affiche/affiche-FR-24h-lemans-2021.jpg"  tvg-id="24.7.Dummy.us",FIA WEC: 24 Hours at Le Mans - Continuous Broadcast (FIA WEC.TV (NO COMMENTARY))
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/4da9667af52b8a8f2089d82e76104895.m3u8
+#EXTINF:-1 tvg-logo="https://assets.lemans.org/explorer/news/2021/24-heures-du-mans/affiche/affiche-FR-24h-lemans-2021.jpg"  tvg-id="24.7.Dummy.us",FIA WEC: 24 Hours at Le Mans - Continuous Broadcast (FIA WEC.TV (SPANISH))
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/579880c3f91a30a7cd54e2e65d40231d.m3u8
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/60b6f7e0608ec.png?width=1920"  tvg-id="24.7.Dummy.us",Floracing TV 24/7 (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11765,7 +11810,7 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/zuw3aYlboraPaStUP4o5
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/juDiYAyaWljAtH55usw2sWogINI49kIY.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymainevent.png"  tvg-id="24.7.Dummy.us",Sky Sports Main Event (SOURCE 1)
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymainevent.png"  tvg-id="24.7.Dummy.us",Sky Sports Main Event (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -11800,16 +11845,36 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/pA5reZusPAvispo16hUb
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/kl11IkOsWATR8duxiWrOyiprERl2hLx4.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"  tvg-id="24.7.Dummy.us",Sony Sports Network 1 (TEN)  (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/b53b4402c2d2d4966485a66d9126d02c.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"  tvg-id="24.7.Dummy.us",Sony Sports Network 2 (TEN)  (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/3d03d2e1612c5769c713f8ee1f49d666.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png"  tvg-id="24.7.Dummy.us",Sony Sports Network 3 (TEN)  (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/0f7039088a47586eb57dbebc4a7ff05e.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"  tvg-id="24.7.Dummy.us",Sony Sports Network 4 (TEN)  (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/41a8afa7c52405ebe2214d26f3d47e9e.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png"  tvg-id="24.7.Dummy.us",Sony Sports Network 5 (TEN)  (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/e58f21ced67b9c60a2efb749565b235c.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png"  tvg-id="24.7.Dummy.us",TBS (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/prLbr6tHLvozlcehLbrIb5crU2awoklC.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/4scisuqefw3i6pcdy8vb054vf_image-header_pCa_1748872568000/fill/center/top/none/85/1918/1078/webp/image"  tvg-id="24.7.Dummy.us",The HSBC Championships Women's Singles: London Open - Day 3 (DAZN)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/eb714e52e0a9ed4111463d26c2f6d28a.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tnt.png"  tvg-id="24.7.Dummy.us",TNT (FHD)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
