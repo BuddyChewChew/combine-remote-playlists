@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-11T15:25:40.625285 UTC
+# Generated on 2025-06-11T16:29:50.808574 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-11T14:58:49.032960Z
+# Last forced update: 2025-06-11T15:56:36.905743Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3535,6 +3535,11 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDg
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png"  tvg-id="24.7.Dummy.us",Racing| Slovakia U21 - Spain U21
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODAwYTRhNzEzNjZjLWRmNWEtMWFmNC1iN2JkLTljMWFhYjY2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png"  tvg-id="24.7.Dummy.us",SEC Network
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -11346,6 +11351,83 @@ https://jmp2.uk/str-5308.m3u8
 #EXTGRP:StirrTV 
 #EXTINF:-1  tvg-name="10 NBC WJAR - (Providence, RI*)" tvg-id="6513" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351091BkRmYuNTOi-632x395-Xc06SyPK.png" tvg-chno="924" ,10 NBC WJAR - (Providence, RI*)
 https://jmp2.uk/str-6513.m3u8
+
+#EXTGRP:StreamEast
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Arizona Diamondbacks vs Seattle Mariners
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34545?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34545/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Baltimore Orioles vs Detroit Tigers
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34537?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34537/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Boston Red Sox vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34538?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34538/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Colorado Rockies vs San Francisco Giants
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34540?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34540/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Houston Astros vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34541?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34541/load-playlist
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/classic/nba-logo.jpg"  tvg-id="24.7.Dummy.us",Indiana Pacers vs Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34530?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34530/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Kansas City Royals vs New York Yankees
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34542?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34542/load-playlist
+#EXTINF:-1  tvg-id="24.7.Dummy.us",Las Vegas Aces vs Los Angeles Sparks
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34533?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34533/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Milwaukee Brewers vs Atlanta Braves
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34543?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34543/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",New York Mets vs Washington Nationals
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34539?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34539/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Philadelphia Phillies vs Chicago Cubs
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34535?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34535/load-playlist
+#EXTINF:-1  tvg-id="24.7.Dummy.us",Phoenix Mercury vs Dallas Wings
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34532?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34532/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Pittsburgh Pirates vs Miami Marlins
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34534?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34534/load-playlist
+#EXTINF:-1  tvg-id="24.7.Dummy.us",Seattle Storm vs Minnesota Lynx
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34531?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34531/load-playlist
+#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",St. Louis Cardinals vs Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34544?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/34544/load-playlist
 
 #EXTGRP:Tims247Live
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ba2044576c78df97b62c9f9ffb77511bf368d85d5acef4911a0cebf30f68544e.jpg"  tvg-id="24.7.Dummy.us",24/7: Dragon Ball (1)
