@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-12T21:21:27.450830 UTC
+# Generated on 2025-06-12T22:21:25.363732 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-12T20:53:56.224861Z
+# Last forced update: 2025-06-12T21:55:10.728954Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -1027,6 +1027,12 @@ https://a1xs.vip/8000011
 https://a1xs.vip/8000012
 
 #EXTGRP:AM. FOOTBALL
+#EXTINF:-1 tvg-id="5f46d834414dd96fef817887ca0c0490" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" ,CFL : Ottawa Redblacks vs Montreal Alouettes (RDS CA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODM5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="5f46d834414dd96fef817887ca0c0490" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" ,CFL : Ottawa Redblacks vs Montreal Alouettes (TSN1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="5f46d834414dd96fef817887ca0c0490" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" ,CFL : Ottawa Redblacks vs Montreal Alouettes (TSN5)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="12539b1cdb21c28febe323c462fe8783" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" ,CFL : Winnipeg Blue Bombers vs BC Lions (BBC 3 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNTgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="12539b1cdb21c28febe323c462fe8783" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" ,CFL : Winnipeg Blue Bombers vs BC Lions (CBS SPORTS NETWORK)
@@ -1045,22 +1051,68 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODMvbW9uby5tM3U4.m3u8
 
 #EXTGRP:BASEBALL
+#EXTINF:-1 tvg-id="35376e274dd804a7ed3fce11a0f66373" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,2025 Men's College World Series : Arizona vs Coastal Carolina (ESPN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="159820c1795095c7cd37a12de32715fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,2025 Men's College World Series : Louisville vs. Oregon State (ESPN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="91fc548897cf41429083c4173cb93627" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Talons vs Blaze (FANDUEL SPORTS NETWORK MIDWEST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="91fc548897cf41429083c4173cb93627" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Talons vs Blaze (FANDUEL SPORTS NETWORK SUN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="91fc548897cf41429083c4173cb93627" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Talons vs Blaze (MARQUEE SPORTS NETWORK USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="91fc548897cf41429083c4173cb93627" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Talons vs Blaze (SPORTSNET PITTSBURGH)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Volts vs Bandits (ESPN2 USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Volts vs Bandits (FANDUEL SPORTS NETWORK MIDWEST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Volts vs Bandits (FANDUEL SPORTS NETWORK SUN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Volts vs Bandits (MSG USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Athletes Unlimited Softball League : Volts vs Bandits (SPORTSNET PITTSBURGH)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="8ed3e336f336683e240d8b175859c545" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Minor League Baseball : Akron RubberDucks vs Hartford Yard Goats (NESN USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="d202f20e90d3cd0a0b207f260642705a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" ,Minor League Baseball : Asheville Tourists vs Brooklyn Cyclones (SPORTSNET NEW YORK USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="8d6bd8a412b521a2402d8f7d4af46082" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Arizona Diamondbacks vs San Diego Padres (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cef7e984ea5cb20822bea25415020da9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Atlanta Braves vs Colorado Rockies (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c52bb1cf3533f4b194105feda90f898a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Baltimore Orioles vs Detroit Tigers (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="c52bb1cf3533f4b194105feda90f898a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Baltimore Orioles vs Detroit Tigers (TNT SPORTS 1 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a165f1b211b2a77ccdc4f148d7f68069" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Baltimore Orioles vs Los Angeles Angels (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs New York Yankees (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs New York Yankees (NESN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs New York Yankees (SPORTSNET ONE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Boston Red Sox vs New York Yankees (YES USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (ARENA SPORT 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (ARENA SPORT 6 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (BEIN SPORTS 5 MAX FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (MARQUEE SPORTS NETWORK USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (MLB NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (SPORTSNET PITTSBURGH)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (TNT SPORTS 2 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="930d7fff411eaf57d8f31c75e2e6abec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Chicago Cubs vs Pittsburgh Pirates (TSN2)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d1b2d440124abaa09c01a81d7cf1c00f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Colorado Rockies vs San Francisco Giants (MLB LEAGUE PASS)
@@ -1069,11 +1121,17 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d1b2d440124abaa09c01a81d7cf1c00f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Colorado Rockies vs San Francisco Giants (NBCS BAY AREA USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ccc5a377eb0ad077b3e1cc1a21e78a9b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Detroit Tigers vs Cincinnati Reds (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (CHICAGO SPORTS NETWORK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NzYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="0048a2caf04eb581349fe406acd9a153" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Chicago White Sox (SPACE CITY HOME NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Minnesota Twins (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Houston Astros vs Minnesota Twins (SPACE CITY HOME NETWORK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (FANDUEL SPORTS NETWORK KANSAS CITY)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTUvbW9uby5tM3U4.m3u8
@@ -1085,10 +1143,36 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs New York Yankees (YES USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs Oakland Athletics (FANDUEL SPORTS NETWORK KANSAS CITY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs Oakland Athletics (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Kansas City Royals vs Oakland Athletics (NBCS CALIFORNIA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (MLB NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (NBCS BAY AREA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (SPECTRUM SPORTSNET LA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (SPORTSNET EAST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (SPORTSNET ONE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (SPORTSNET ONTARIO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4e6ab729d547ca44fccd68fea3b8d2e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Los Angeles Dodgers vs San Francisco Giants (SPORTSNET WEST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (BEIN SPORTS 4 MAX FRANCE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (FANDUEL SPORTS NETWORK MIDWEST)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (FANDUEL SPORTS NETWORK OKLAHOMA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Milwaukee Brewers vs St. Louis Cardinals (SPORT 5 LIVE ISRAEL)
@@ -1099,6 +1183,12 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="5ff3886fcd5650f81be0b70819e5afe1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Minnesota Twins vs Texas Rangers (TNT SPORTS 3 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Tampa Bay Rays (BALLY SPORTS SUN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Tampa Bay Rays (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Tampa Bay Rays (SPORTSNET NEW YORK USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (MASN USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtODI5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (MLB LEAGUE PASS)
@@ -1113,12 +1203,50 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : New York Mets vs Washington Nationals (SPORTSNET WEST)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (NBCS PHILADELPHIA USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET EAST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET ONTARIO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET WEST)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Philadelphia Phillies vs Toronto Blue Jays (TVA SPORTS CA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="409d40424e54b18dc499bd3b129ee4f6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Seattle Mariners vs Cleveland Guardians (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="409d40424e54b18dc499bd3b129ee4f6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Seattle Mariners vs Cleveland Guardians (ROOT SPORTS NW USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="4a6f8f3908df88b381b6685e2842c1a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Texas Rangers vs Chicago White Sox (CHICAGO SPORTS NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4a6f8f3908df88b381b6685e2842c1a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Texas Rangers vs Chicago White Sox (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Washington Nationals vs Miami Marlins (MASN USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtODI5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,MLB : Washington Nationals vs Miami Marlins (MLB LEAGUE PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
 
 #EXTGRP:BASKETBALL
 #EXTINF:-1 tvg-id="7c809b6bcccc140923c2e04183fdcd5f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ABA League : Partizan vs Buducnost (ARENA 1 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="7c809b6bcccc140923c2e04183fdcd5f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ABA League : Partizan vs Buducnost (ARENA SPORT 1 CROATIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (ARENA PREMIUM 1 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (COSMOTE SPORT 7 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (DAZN ELEVEN 1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (MOVISTAR DEPORTES SPAIN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (SPORT 1 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (SPORT KLUB 3 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Real Madrid vs. CB Malaga (SPORTDIGITAL+ DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (ARENA 2 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (CANAL+ SPORT POLAND HD)
@@ -1135,6 +1263,8 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="12f1b01061e060c77fa1b2c99029a768" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,ACB : Valencia vs Tenerife (SPORTKLUB 1 CROATIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="aff9234cc77665e3cceb00243c63d990" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete (ESPN2 BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04My9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="d51583a483e3bbdb4f0fa15831b58629" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,French League: Playoffs - 1/2 Final (G5) : Paris vs Bourg (DAZN FRANCE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d51583a483e3bbdb4f0fa15831b58629" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,French League: Playoffs - 1/2 Final (G5) : Paris vs Bourg (SPORT KLUB 4 CROATIA)
@@ -1149,6 +1279,8 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZH
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="6f5577d47c07ebeb53797dae7de99bf5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,GERMAN LEAGUE : Bayern vs Heidelberg (SPORTKLUB 1 CROATIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d8c3fb4c372ca9fc94158100ae702615" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (RAI SPORT 1 IT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04ODIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="70984b50a53d3579051ca707838b637c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Lega A : Virtus Bologna vs Brescia (ARENA 3 PREMIUM SERBIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="70984b50a53d3579051ca707838b637c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Lega A : Virtus Bologna vs Brescia (COSMOTE SPORT 8 GREECE)
@@ -1161,10 +1293,74 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="a9acf0cb891f4754f32681ea31d7906b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Lithuanian League : Zalgiris vs Rytas (SPORT KLUB 3 CROATIA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e26d8c56e7e42d061bff7a91c9c0b080" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,LPB : FC Porto vs. Benfica Lisboa (PORTO CANAL PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e26d8c56e7e42d061bff7a91c9c0b080" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,LPB : FC Porto vs. Benfica Lisboa (RTP 2 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="aab1a6bb9e2cdf018ad0c520a2168d40" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Men's Basketball National League (DIGI SPORTS 3 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="23863fda16ffa62da737f93e0dc8c605" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,MTS Streetball League : Sokobanja (ARENA SPORT 3 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ABC NY USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ABC USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ARENA 1 PREMIUM SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ARENA SPORT 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (AWAY FEED)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (BEIN SPORTS 1 FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (CANAL+ SPORT POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (COSMOTE SPORT 4 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (CYTAVISION SPORTS 6 CYPRUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (DIEMA SPORT 2 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ESPN 1 NL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ESPN 2 ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ESPN 2 MEXICO)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (ESPN DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (HOME FEED)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (MOVISTAR DEPORTES SPAIN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (RDS 2 CA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODQwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (SPORT 5 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (TNT SPORTS 1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (TSN3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (TSN4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (TV2 SPORT X DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,NBA : Oklahoma City Thunder vs Indiana Pacers (TV4 SPORTKANALEN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c3008283a73383e7c1642bd9b5991e0c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,NBB : Franca vs Minas (ESPN2 BR)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04Mi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="bd8682c90f45551035476727e63a3f10" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,NBL : Auckland Tuatara vs Manawatu Jets (SKY SPORT 3 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="435254e1624af48f98453f95b00ab288" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,NBL : Otago Nuggets vs Nelson Giants (SKY SPORT 4 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="9c90217036f10840707752efd3b406f0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Polish Basketball League : Anwil Wroclawek vs. Trefl Sopot (POLSAT SPORT 3 POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="eef228cb819f3c34bc57f60cc18d4967" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Romania LNBM Mozzart : Clubul Sportiv Vâlcea 1924 vs CSO Voluntari (DIGI SPORT 3 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="c8ad56439e8e40090507de0a9b23e242" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca (DIGI SPORT 1 ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="60cdf33d8d91734753c0fe416a1850e4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Super League : Hapoel M. Jerusalem vs Maccabi Tel Aviv (SPORT 5 ISRAEL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="60cdf33d8d91734753c0fe416a1850e4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Super League : Hapoel M. Jerusalem vs Maccabi Tel Aviv (SPORT KLUB 3 CROATIA)
@@ -1181,6 +1377,34 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b315ee39871f1c392616299da803d909" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" ,Toyrnoya Vaso Mpeskaki : Lithoyandia vs Greece (ERT 2 GREECE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="fb65b824e3334aeac5c17687ac77fc99" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : Chicago Sky vs Atlanta Dream Live (ION USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9b6bf6f08922ad8a85aea55af880c3f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,WNBA : Dallas Wings vs Las Vegas Aces Live (ION USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjUvbW9uby5tM3U4.m3u8
+
+#EXTGRP:BOXING
+#EXTINF:-1 tvg-id="1ed21cae1ef9d45a96b12863bc5d2070" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" ,Boxing : Andrew Tabiti vs Jacob Dickson (DAZN PPV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="3a7ed9fc875a6386a81de12e271d73e3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" ,Boxing : LeAnna Cruz vs Regina Chavez (DAZN PPV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f821696c8c148a9b1eeb7bc68ea209b3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" ,Polish Boxing League : KKB Rushh Kielce vs RKB Wisłok 1995 Rzeszow (TVP SPORT POLAND)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
+
+#EXTGRP:COMBAT SPORTS
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (COMBATE BRAZIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (MATCH BOX RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzk1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (MATCH TV RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (RMC SPORT 1 FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (SPORT 5 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Final Rounds. (SPORT TV3 PORTUGAL (CH-454) } SPORTV2 BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="5084fd8128da1a760547f72c98727f74" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,Judo: World Championships World Championships. Day 1. Playoffs. (RMC SPORT 1 FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTkvbW9uby5tM3U4.m3u8
 
 #EXTGRP:DaddyLive AU
 #EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" ,beIN SPORTS Australia 1
@@ -3423,31 +3647,21 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTg3YTRhMjU3NTlhLTA4MGI
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Brazil - Cuba
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Colorado Rockies - San Francisco Giants
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWY1MGJjOTczOTIzLWRjMzktZGQwNC1iNDMzLTRhYjdkNTEw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Czech Republic U21 - England U21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Germany - Italy
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWNmNjMwNGM1YWY2LThiOTktYWNhNC1jZDYyLTIwMzU3YzRl/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Finland U21 - Netherlands U21
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Germany U21 - Slovenia U21
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| Mirandes - Racing Santander
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"  tvg-id="24.7.Dummy.us",MLB| None - None
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
@@ -3799,16 +4013,24 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,LPGA Tour Meijer LPGA Classic for Simply Give (SKY SPORTS+)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (ESPN 2 ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (GOLF CHANNEL USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (MAX SPORT 4 BULGARIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (MOVISTAR GOLF)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (NBC USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORT 1 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTg4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORT 4 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORT 5 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORT 6 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORT 7 NZ)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTk0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (SKY SPORTS GOLF DE)
@@ -3821,6 +4043,8 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (TSN4)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (TV3+ DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (USA NETWORK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" ,Major Championship U.S. Open (VODAFONE SPORT)
@@ -4061,6 +4285,22 @@ https://live.webcastserver.online/hdstream/embed/375.m3u8
 https://live.webcastserver.online/hdstream/embed/376.m3u8
 
 #EXTGRP:MMA
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (BANDSPORTS BRASIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (BEIN SPORTS 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (BEIN SPORTS ENGLISH 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (MATCH BOX RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzk1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (MATCH TV RUSSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (NOVA SPORTS 5 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (PPV FEED)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,ONE Friday Fights (RMC SPORT 2 FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="bff05c387daf014c3e35a0749171ecc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,Professional Fighters League (PFL) : Jason Jackson vs Thad Jean (COMBATE BRAZIL)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04OS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="bff05c387daf014c3e35a0749171ecc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" ,Professional Fighters League (PFL) : Jason Jackson vs Thad Jean (ESPN USA)
@@ -4069,6 +4309,22 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
 
 #EXTGRP:MOTORSPORT
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,European Rally Championship Poland: Stage 1 (RALLY TV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,European Rally Championship Poland: Stage 1 (TV4 MOTOR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Practice Session - Montreal (BANDSPORTS BRASIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Practice Session - Montreal (BEIN SPORTS 1 MALAYSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Practice Session - Montreal (SKY SPORTS F1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Qualifying Session - Montreal (BANDSPORTS BRASIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Qualifying Session - Montreal (BEIN SPORTS 1 MALAYSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" ,F1 Academy : Canadian Grand Qualifying Session - Montreal (SKY SPORTS F1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 FRANCE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 GREECE)
@@ -4111,8 +4367,104 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01MjQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="cd5694cc8dd0cdbf5775cbfea5e6a023" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole (TNT SPORTS 2 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 5 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (ANT+ F1 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (ARENA PREMIUM 2 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (BANDSPORTS BRASIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (BEIN SPORTS 1 MALAYSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (BEIN SPORTS MENA 8)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (CANAL+ FORMULA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (CANAL+ SPORT FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (DAZN F1 ES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTM3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (ESPN DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (ESPNU USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (FOX SPORTS 1 MX)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORT 3 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORT F1 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORTS F1 ITALY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTc3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORTS F1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SPORT KLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (TV3 SPORT DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (V SPORT MOTOR SWEDEN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (VODAFONE SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (ANT+ F1 GREECE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (ARENA PREMIUM 2 SERBIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (BANDSPORTS BRASIL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (BEIN SPORTS 1 MALAYSIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (BEIN SPORTS MENA 8)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (CANAL+ FORMULA 1)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (CANAL+ SPORT FRANCE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (DAZN F1 ES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTM3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (ESPN DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (ESPNU USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (FOX SPORTS 1 MX)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORT 3 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORT F1 DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORTS F1 ITALY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTc3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORTS F1 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SPORT KLUB 1 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (TSN3)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (TSN5)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (TV3 SPORT DENMARK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (V SPORT MOTOR SWEDEN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" ,Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (VODAFONE SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="3f74733f81f829d9c5dc50ad94df503a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" ,Le Mans Cup Motor Racing - Road To Le Mans: Race 1 (TNT SPORTS 5 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="bee9d4f2c34bae265d22d363daa38081" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSBK | Round 6 | Misano Free Practice 1 (SKY SPORT 5 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="bee9d4f2c34bae265d22d363daa38081" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSBK | Round 6 | Misano Free Practice 1 (TNT SPORTS 2 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="495eb9e4de83c4de469c3034f9d332b6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSBK | Round 6 | Misano Free Practice 2 (SKY SPORT 9 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTk2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="495eb9e4de83c4de469c3034f9d332b6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSBK | Round 6 | Misano Free Practice 2 (TNT SPORTS 2 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="127ad8003212a2c0919587e793191423" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSSP | Round 6 | Misano Superpole (SKY SPORT 9 NZ)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTk2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="127ad8003212a2c0919587e793191423" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" ,WorldSSP | Round 6 | Misano Superpole (TNT SPORTS 2 UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
@@ -9028,6 +9380,20 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="4030" ,Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
+#EXTGRP:PPV EVENTS
+#EXTINF:-1 tvg-id="d650930e209037eb5062a5f2bb497f51" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,2025 Appalachian Mountain LM Speedweek at Selinsgrove Speedway (FLORACING)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="70644e2847c94616fab12c943433dfbe" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,2025 NARC 410 Sprints at The Douglas County Dirtrack (FLORACING)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7ed143c69d2ce1687734b787fca05e41" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,2025 PDRA North vs South Shootout (FLORACING)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f37a488dc51d98fb577852a8e9f3f136" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" ,2025 Weekly Racing at Thunder Road Speedbowl (FLORACING)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="9ba5ae8a2a6b3ccae4753b1610338e5b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,DIRTcar Summer Nationals Late Models (DIRTVISION)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f735fde73b99eccba9a882b528512f0f" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" ,OVW Live #1348 (TRILLER TV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
+
 #EXTGRP:PPVLand
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.imgur.com/CnphStu.png" ,(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://ppvs.su
@@ -11042,6 +11408,10 @@ https://jmp2.uk/sam-USBC2400019EF.m3u8
 https://jmp2.uk/sam-US270000298.m3u8
 
 #EXTGRP:SOCCER
+#EXTINF:-1 tvg-id="d081dd7afc8ff4b0ce5e9bd09467bf8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Argentina - Primera Nacional : Gimnasia y Tiro vs Quilmes (TYC SPORTS ARGENTINA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="07ed7ae38521a813a4a092d2df3be86c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brasileirão Série B : Paysandu SC vs Botafogo-SP (ESPN BR)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="58030c592e12d1b884435580a6ed0f64" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brazil - Brasileirão : Atlético Mineiro vs Internacional (PREMIERE 4 BR)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="cc2027bc93cc36143bc6c2d9f5bd8745" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brazil - Brasileirão : Fortaleza vs Santos (PREMIERE 6 BR)
@@ -11059,6 +11429,8 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 #EXTINF:-1 tvg-id="b99961a9e61b7faece06acafd8d22de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Brazil - Brasileirão : Vitória vs Cruzeiro (SPORTV BR)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="8da45944c09658e53d7806ff3366e29c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Chile - Primera Division : Deportes Iquique vs Colo-Colo (TNT SPORTS PREMIUM CHILE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="58ad3c2aa0eea48e3d99c76743378b60" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Chile - Primera Division : Deportes Limache vs Unión La Calera (TNT SPORTS PREMIUM HD CHILE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (BEIN SPORTS 1 FRANCE)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
@@ -11142,8 +11514,52 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (ČT SPORT CZECH)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="8cd7d6d7f0fad5859a3b488594f981c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - First Division : Athlone Town vs Kerry (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="8cd722d04b486980c1d59d63dbfdc140" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - First Division : Dundalk vs UCD (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="8c1d2ee925a8bcaeb3cdcd54691b3174" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - First Division : Finn Harps vs Wexford (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU3L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="8ed8e2c04bcc92f76cf15b8013bbaa9c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - First Division : Treaty United vs Bray Wanderers (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU4L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="2044191e03e99ba0c51a234dfeca3747" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - Premier Division : Cork City vs Bohemians (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="f98883316614f49f5a528ffce71da405" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - Premier Division : Derry City vs Galway United (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="53d2141b1fb2b23428a93168c01c368f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTUzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="3d97141e0504e6dad7e233314dd7ebc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Ireland Republic - Premier Division : St Patrick's vs Drogheda United (LOITV)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7420ad9b33a8afd06f3cfe2b2dfd504e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Korea Republic - K League 1 : Gwangju vs Seoul (ASTRO FOOTBALL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="780668f290a35b3e7ca35b893b3fb8cb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Lithuania - A Lyga : Džiugas Telšiai vs Panevėžys (LRT PLIUS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f75db45f949136f476376fb8d33747f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Lithuanian League : Suduva vs Zalgiris Kaunas (SPORT KLUB 4 CROATIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="12d67e45e4902d9a559dee95defc8f61" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Major League Soccer : Los Angeles FC vs Toronto FC (MLS SEASON PASS)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="30ceef23267d3da89bb8f0593f1a9215" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Major League Soccer : New York City vs Atlanta United (MLS SEASON PASS)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX SPORTS 1 USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : France U20 vs Mexico U20 (FOX DEPORTES)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Maurice Revello Tournament : France U20 vs Mexico U20 (SPORT TV1 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="0e58c9e0f78e8aab690970c3487d64ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,NWSL : Bay FC vs Orlando Pride (OPTUS SPORT)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,NWSL : Houston Dash vs San Diego Wave (CBS SPORTS GOLAZO USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,NWSL : Houston Dash vs San Diego Wave (TSN2)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1c53c42f6d37085e76edc97c732839d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,NWSL : Utah Royals vs NJ/NY Gotham FC (MSG USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="db93efc74e07d513d943c56a80d35b45" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Poland II Liga : MKS Chojniczanka Chojnice vs. OKS Swit Skolwin Szczecin (TVP SPORT POLAND HD)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="ffda96f8a6b03a53a5f7dd8203db73c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Poland II Liga : Wieczysta Krakow vs. KKS 1925 Kalisz - Poland II Liga (TVP SPORT POLAND HD)
@@ -11188,6 +11604,36 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZH
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzQ3L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Spain - Segunda Division : Mirandés vs Racing Santander (VIAPLAY SPORTS 1 UK)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="3bcd1c45a5b47479bb0dced828e737ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Sweden - Superettan : Örebro vs Sandviken (MAX EXTRA 1 SWEDEN)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Romania U19 vs Montenegro U19 (BEIN SPORTS MENA 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Romania U19 vs Montenegro U19 (CANAL 11 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Romania U19 vs Montenegro U19 (PRO ARENA ROMANIA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Romania U19 vs Montenegro U19 (SPORT 2 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Romania U19 vs Montenegro U19 (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Spain U19 vs Denmark U19 (4SEVEN UK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Spain U19 vs Denmark U19 (BEIN SPORTS MENA 4)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Spain U19 vs Denmark U19 (CANAL 11 PORTUGAL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORT 2 ISRAEL)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" ,UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORTDIGITAL FUSSBALL DE)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="7ab5c9282c87cb49a4c89d31aa9f33d1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Uruguay - Primera Division : Cerro Largo vs Wanderers (VTV+ URUGUAY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzkxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="8895c280a22496bc79ffaad679767450" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Uruguay - Primera Division : Plaza Colonia vs Cerro (GOLTV USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Uruguay - Primera Division : Torque vs Progreso (GOLTV USA)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Uruguay - Primera Division : Torque vs Progreso (VTV+ URUGUAY)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzkxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="6b117efb778ec5bed8a4c390934dffcd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" ,Uruguayan First Division Football: Cerro Largo vs Montevideo Wanderers (GOLTV USA)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
 
@@ -11519,6 +11965,16 @@ https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/3841c72cfde4cef9a22f
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/wffwehg9yklo7k3dmabqxi70sbws5w4q.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-cricket-my.png?raw=true"  tvg-id="24.7.Dummy.us",Astro Cricket (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/220c77f52471faf24fa6d694e69bd1b1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true"  tvg-id="24.7.Dummy.us",Axs TV (1)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/3271469af3414e0e303060c2251484c8.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/beinsport.png"  tvg-id="24.7.Dummy.us",Bein Sports USA (1)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -13822,6 +14278,8 @@ http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ3&p=8c4321
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzQyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="b2bfd3b8668600066d6c98d1466f82c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,TNA iMPACT! (SPORTSNET 360)
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="24dde087aca702c22c4603951faec885" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" ,WWE Friday Night SmackDown (USA NETWORK)
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQzL21vbm8ubTN1OA==.m3u8
 
 # 📺 Source: https://cdn.djdoolky76.net/udptv.m3u
 
