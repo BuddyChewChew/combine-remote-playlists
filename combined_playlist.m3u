@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-12T10:25:27.886992 UTC
+# Generated on 2025-06-12T11:19:24.770205 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-12T09:57:35.703020Z
+# Last forced update: 2025-06-12T11:07:21.072933Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11341,33 +11341,6 @@ https://jmp2.uk/str-5308.m3u8
 #EXTGRP:StirrTV 
 #EXTINF:-1  tvg-name="10 NBC WJAR - (Providence, RI*)" tvg-id="6513" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351091BkRmYuNTOi-632x395-Xc06SyPK.png" tvg-chno="924" ,10 NBC WJAR - (Providence, RI*)
 https://jmp2.uk/str-6513.m3u8
-
-#EXTGRP:StreamEast
-#EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/05/MLB-LOGO-2019_1559173330562_89779335_ver1.0.png?w=570&h=375&crop=1"  tvg-id="24.7.Dummy.us",Colorado Rockies vs San Francisco Giants
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34540?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34540/load-playlist
-#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/classic/nba-logo.jpg"  tvg-id="24.7.Dummy.us",Indiana Pacers vs Oklahoma City Thunder
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34530?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34530/load-playlist
-#EXTINF:-1  tvg-id="24.7.Dummy.us",Las Vegas Aces vs Los Angeles Sparks
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34533?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34533/load-playlist
-#EXTINF:-1  tvg-id="24.7.Dummy.us",Phoenix Mercury vs Dallas Wings
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34532?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34532/load-playlist
-#EXTINF:-1  tvg-id="24.7.Dummy.us",Seattle Storm vs Minnesota Lynx
-#EXTVLCOPT:http-origin=https://googlapisapi.com
-#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/34531?newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/34531/load-playlist
 
 #EXTGRP:Tims247Live
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ba2044576c78df97b62c9f9ffb77511bf368d85d5acef4911a0cebf30f68544e.jpg"  tvg-id="24.7.Dummy.us",24/7: Dragon Ball (1)
