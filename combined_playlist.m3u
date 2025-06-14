@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-14T19:16:40.943407 UTC
+# Generated on 2025-06-14T20:22:42.081442 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-14T19:08:32.937763Z
+# Last forced update: 2025-06-14T19:58:53.106686Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3767,6 +3767,68 @@ http://luong.utako.moe/ytv/index.m3u8
 #EXTINF:-1  tvg-id="yormuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
 http://luong.utako.moe/ytv/index.m3u8
 
+#EXTGRP:MLB
+#EXTINF:-1  tvg-name="Chicago White Sox @ Texas Rangers (06/14 4:06 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Chicago White Sox @ Texas Rangers (06/14 4:06 PM ET) HD
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1  tvg-name="Chicago White Sox @ Texas Rangers (06/14 4:06 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Chicago White Sox @ Texas Rangers (06/14 4:06 PM ET) SD
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1  tvg-name="Cincinnati Reds @ Detroit Tigers (06/14 1:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Cincinnati Reds @ Detroit Tigers (06/14 1:11 PM ET) HD
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1  tvg-name="Cincinnati Reds @ Detroit Tigers (06/14 1:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Cincinnati Reds @ Detroit Tigers (06/14 1:11 PM ET) SD
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1  tvg-name="Cleveland Guardians @ Seattle Mariners (06/14 9:41 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Cleveland Guardians @ Seattle Mariners (06/14 9:41 PM ET) HD
+https://tvpass.org/live/mlb-10/hd
+#EXTINF:-1  tvg-name="Cleveland Guardians @ Seattle Mariners (06/14 9:41 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Cleveland Guardians @ Seattle Mariners (06/14 9:41 PM ET) SD
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1  tvg-name="Colorado Rockies @ Atlanta Braves (06/14 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Colorado Rockies @ Atlanta Braves (06/14 4:11 PM ET) HD
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1  tvg-name="Colorado Rockies @ Atlanta Braves (06/14 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Colorado Rockies @ Atlanta Braves (06/14 4:11 PM ET) SD
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1  tvg-name="Los Angeles Angels @ Baltimore Orioles (06/14 4:05 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Los Angeles Angels @ Baltimore Orioles (06/14 4:05 PM ET) HD
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1  tvg-name="Los Angeles Angels @ Baltimore Orioles (06/14 4:05 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Los Angeles Angels @ Baltimore Orioles (06/14 4:05 PM ET) SD
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1  tvg-name="Miami Marlins @ Washington Nationals (06/14 1:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Miami Marlins @ Washington Nationals (06/14 1:11 PM ET) HD
+https://tvpass.org/live/mlb-01/hd
+#EXTINF:-1  tvg-name="Miami Marlins @ Washington Nationals (06/14 1:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Miami Marlins @ Washington Nationals (06/14 1:11 PM ET) SD
+https://tvpass.org/live/mlb-01/sd
+#EXTINF:-1  tvg-name="Minnesota Twins @ Houston Astros (06/14 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Minnesota Twins @ Houston Astros (06/14 4:11 PM ET) HD
+https://tvpass.org/live/mlb-06/hd
+#EXTINF:-1  tvg-name="Minnesota Twins @ Houston Astros (06/14 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Minnesota Twins @ Houston Astros (06/14 4:11 PM ET) SD
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1  tvg-name="New York Yankees @ Boston Red Sox (06/14 7:16 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,New York Yankees @ Boston Red Sox (06/14 7:16 PM ET) HD
+https://tvpass.org/live/mlb-22/hd
+#EXTINF:-1  tvg-name="New York Yankees @ Boston Red Sox (06/14 7:16 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,New York Yankees @ Boston Red Sox (06/14 7:16 PM ET) SD
+https://tvpass.org/live/mlb-22/sd
+#EXTINF:-1  tvg-name="Oakland Athletics @ Kansas City Royals (06/14 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Oakland Athletics @ Kansas City Royals (06/14 4:11 PM ET) HD
+https://tvpass.org/live/mlb-05/hd
+#EXTINF:-1  tvg-name="Oakland Athletics @ Kansas City Royals (06/14 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Oakland Athletics @ Kansas City Royals (06/14 4:11 PM ET) SD
+https://tvpass.org/live/mlb-05/sd
+#EXTINF:-1  tvg-name="Pittsburgh Pirates @ Chicago Cubs (06/14 2:21 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Pittsburgh Pirates @ Chicago Cubs (06/14 2:21 PM ET) HD
+https://tvpass.org/live/mlb-23/hd
+#EXTINF:-1  tvg-name="Pittsburgh Pirates @ Chicago Cubs (06/14 2:21 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Pittsburgh Pirates @ Chicago Cubs (06/14 2:21 PM ET) SD
+https://tvpass.org/live/mlb-23/sd
+#EXTINF:-1  tvg-name="San Diego Padres @ Arizona Diamondbacks (06/14 7:16 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,San Diego Padres @ Arizona Diamondbacks (06/14 7:16 PM ET) HD
+https://tvpass.org/live/mlb-09/hd
+#EXTINF:-1  tvg-name="San Diego Padres @ Arizona Diamondbacks (06/14 7:16 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,San Diego Padres @ Arizona Diamondbacks (06/14 7:16 PM ET) SD
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1  tvg-name="San Francisco Giants @ Los Angeles Dodgers (06/14 10:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,San Francisco Giants @ Los Angeles Dodgers (06/14 10:11 PM ET) HD
+https://tvpass.org/live/mlb-14/hd
+#EXTINF:-1  tvg-name="San Francisco Giants @ Los Angeles Dodgers (06/14 10:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,San Francisco Giants @ Los Angeles Dodgers (06/14 10:11 PM ET) SD
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1  tvg-name="St. Louis Cardinals @ Milwaukee Brewers (06/14 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,St. Louis Cardinals @ Milwaukee Brewers (06/14 4:11 PM ET) HD
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1  tvg-name="St. Louis Cardinals @ Milwaukee Brewers (06/14 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,St. Louis Cardinals @ Milwaukee Brewers (06/14 4:11 PM ET) SD
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1  tvg-name="Tampa Bay Rays @ New York Mets (06/14 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Tampa Bay Rays @ New York Mets (06/14 4:11 PM ET) HD
+https://tvpass.org/live/mlb-24/hd
+#EXTINF:-1  tvg-name="Tampa Bay Rays @ New York Mets (06/14 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Tampa Bay Rays @ New York Mets (06/14 4:11 PM ET) SD
+https://tvpass.org/live/mlb-24/sd
+#EXTINF:-1  tvg-name="Toronto Blue Jays @ Philadelphia Phillies (06/14 4:06 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Toronto Blue Jays @ Philadelphia Phillies (06/14 4:06 PM ET) HD
+https://tvpass.org/live/mlb-18/hd
+#EXTINF:-1  tvg-name="Toronto Blue Jays @ Philadelphia Phillies (06/14 4:06 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Toronto Blue Jays @ Philadelphia Phillies (06/14 4:06 PM ET) SD
+https://tvpass.org/live/mlb-18/sd
+
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
@@ -5358,6 +5420,12 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 #EXTINF:-1  tvg-id="YES.Network.us" tvg-logo="http://lonewolftvpr.com/logos/yes.png"  radio="false",Yes Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+
+#EXTGRP:NHL
+#EXTINF:-1  tvg-name="Florida Panthers @ Edmonton Oilers (06/14 8:10 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Florida Panthers @ Edmonton Oilers (06/14 8:10 PM ET) HD
+https://tvpass.org/live/TNTEast/hd
+#EXTINF:-1  tvg-name="Florida Panthers @ Edmonton Oilers (06/14 8:10 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Florida Panthers @ Edmonton Oilers (06/14 8:10 PM ET) SD
+https://tvpass.org/live/TNTEast/sd
 
 #EXTGRP:PlexTV
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" ,123GO!
@@ -8343,6 +8411,12 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="4030" ,Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
+#EXTGRP:PPV
+#EXTINF:-1  tvg-name="UFC Fight Night: Kamaru Usman v Joaquin Buckley (06/14 8:10 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,UFC Fight Night: Kamaru Usman v Joaquin Buckley (06/14 8:10 PM ET) HD
+https://tvpass.org/live/tnt-sports-1/hd
+#EXTINF:-1  tvg-name="UFC Fight Night: Kamaru Usman v Joaquin Buckley (06/14 8:10 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,UFC Fight Night: Kamaru Usman v Joaquin Buckley (06/14 8:10 PM ET) SD
+https://tvpass.org/live/tnt-sports-1/sd
+
 #EXTGRP:SamsungTVPlus Canada
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" ,21 Jump Street
 https://jmp2.uk/sam-CABB26000082J.m3u8
@@ -11228,53 +11302,41 @@ http://drewlive24.duckdns.org:4042/tubi/watch/400000093
 http://drewlive24.duckdns.org:4042/tubi/watch/702892
 
 #EXTGRP:TVPass
-#EXTINF:-1  tvg-name="A&E US Eastern Feed HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/aande.png" ,A&E US Eastern Feed HD
+#EXTINF:-1  tvg-name="A&E US Eastern Feed HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" ,A&E US Eastern Feed HD
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1  tvg-name="A&E US Eastern Feed SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/aande.png" ,A&E US Eastern Feed SD
+#EXTINF:-1  tvg-name="A&E US Eastern Feed SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" ,A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
-#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles HD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" ,ABC (KABC) Los Angeles HD
+#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles HD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,ABC (KABC) Los Angeles HD
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
-#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles SD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" ,ABC (KABC) Los Angeles SD
+#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles SD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,ABC (KABC) Los Angeles SD
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="acc-network" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/acc-network.png" ,ACC Network HD
+#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" ,ACC Network HD
 https://tvpass.org/live/ACCNetwork/hd
-#EXTINF:-1  tvg-name="ACC Network SD" tvg-id="acc-network" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/acc-network.png" ,ACC Network SD
+#EXTINF:-1  tvg-name="ACC Network SD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" ,ACC Network SD
 https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1  tvg-name="Altitude Sports Denver HD" tvg-id="altitude-sports-denver" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/altitude-sports.png" ,Altitude Sports Denver HD
+#EXTINF:-1  tvg-name="Altitude Sports Denver HD" tvg-id="altitude-sports-denver" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" ,Altitude Sports Denver HD
 https://tvpass.org/live/altitude-sports-denver/hd
-#EXTINF:-1  tvg-name="Altitude Sports Denver SD" tvg-id="altitude-sports-denver" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/altitude-sports.png" ,Altitude Sports Denver SD
+#EXTINF:-1  tvg-name="Altitude Sports Denver SD" tvg-id="altitude-sports-denver" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" ,Altitude Sports Denver SD
 https://tvpass.org/live/altitude-sports-denver/sd
-#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" ,AMC Eastern Feed HD
+#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" ,AMC Eastern Feed HD
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" ,AMC Eastern Feed SD
+#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" ,AMC Eastern Feed SD
 https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1  tvg-name="American Heroes Channel HD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" ,American Heroes Channel HD
 https://tvpass.org/live/AmericanHeroesChannel/hd
 #EXTINF:-1  tvg-name="American Heroes Channel SD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" ,American Heroes Channel SD
 https://tvpass.org/live/AmericanHeroesChannel/sd
-#EXTINF:-1  tvg-name="Animal Planet US East HD" tvg-id="animal-planet-us-east" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/animal-planet.png" ,Animal Planet US East HD
+#EXTINF:-1  tvg-name="Animal Planet US East HD" tvg-id="animal-planet-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" ,Animal Planet US East HD
 https://tvpass.org/live/AnimalPlanetEast/hd
-#EXTINF:-1  tvg-name="Animal Planet US East SD" tvg-id="animal-planet-us-east" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/animal-planet.png" ,Animal Planet US East SD
+#EXTINF:-1  tvg-name="Animal Planet US East SD" tvg-id="animal-planet-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" ,Animal Planet US East SD
 https://tvpass.org/live/AnimalPlanetEast/sd
-#EXTINF:-1  tvg-name="Arizona Diamondbacks @ Cincinnati Reds (06/08 1:41 PM ET) HD" ,Arizona Diamondbacks @ Cincinnati Reds (06/08 1:41 PM ET) HD
-https://tvpass.org/live/WNBA02/hd
-#EXTINF:-1  tvg-name="Arizona Diamondbacks @ Cincinnati Reds (06/08 1:41 PM ET) SD" ,Arizona Diamondbacks @ Cincinnati Reds (06/08 1:41 PM ET) SD
-https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1  tvg-name="Atlanta Braves @ San Francisco Giants (06/08 4:06 PM ET) HD" ,Atlanta Braves @ San Francisco Giants (06/08 4:06 PM ET) HD
-https://tvpass.org/live/mlb-09/hd
-#EXTINF:-1  tvg-name="Atlanta Braves @ San Francisco Giants (06/08 4:06 PM ET) SD" ,Atlanta Braves @ San Francisco Giants (06/08 4:06 PM ET) SD
-https://tvpass.org/live/mlb-09/sd
-#EXTINF:-1  tvg-name="Baltimore Orioles @ Oakland Athletics (06/08 4:06 PM ET) HD" ,Baltimore Orioles @ Oakland Athletics (06/08 4:06 PM ET) HD
-https://tvpass.org/live/mlb-22/hd
-#EXTINF:-1  tvg-name="Baltimore Orioles @ Oakland Athletics (06/08 4:06 PM ET) SD" ,Baltimore Orioles @ Oakland Athletics (06/08 4:06 PM ET) SD
-https://tvpass.org/live/mlb-22/sd
-#EXTINF:-1  tvg-name="BBC America East HD" tvg-id="bbc-america-east" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-america.png" ,BBC America East HD
+#EXTINF:-1  tvg-name="BBC America East HD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" ,BBC America East HD
 https://tvpass.org/live/BBCAmericaEast/hd
-#EXTINF:-1  tvg-name="BBC America East SD" tvg-id="bbc-america-east" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-america.png" ,BBC America East SD
+#EXTINF:-1  tvg-name="BBC America East SD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" ,BBC America East SD
 https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1  tvg-name="BBC News North America HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-news.png" ,BBC News North America HD HD
+#EXTINF:-1  tvg-name="BBC News North America HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" ,BBC News North America HD HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
-#EXTINF:-1  tvg-name="BBC News North America HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-news.png" ,BBC News North America HD SD
+#EXTINF:-1  tvg-name="BBC News North America HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" ,BBC News North America HD SD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 #EXTINF:-1  tvg-name="BET Eastern Feed HD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" ,BET Eastern Feed HD
 https://tvpass.org/live/BETEast/hd
@@ -11284,50 +11346,42 @@ https://tvpass.org/live/BETEast/sd
 https://tvpass.org/live/BETHerEast/hd
 #EXTINF:-1  tvg-name="BET Her SD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" ,BET Her SD
 https://tvpass.org/live/BETHerEast/sd
-#EXTINF:-1  tvg-name="Big Ten Network HD" tvg-id="big-ten-network" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/big-ten-network.png" ,Big Ten Network HD
+#EXTINF:-1  tvg-name="Big Ten Network HD" tvg-id="big-ten-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" ,Big Ten Network HD
 https://tvpass.org/live/BTN/hd
-#EXTINF:-1  tvg-name="Big Ten Network SD" tvg-id="big-ten-network" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/big-ten-network.png" ,Big Ten Network SD
+#EXTINF:-1  tvg-name="Big Ten Network SD" tvg-id="big-ten-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" ,Big Ten Network SD
 https://tvpass.org/live/BTN/sd
 #EXTINF:-1  tvg-name="Bloomberg TV USA HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" ,Bloomberg TV USA HD
 https://tvpass.org/live/BloombergTV/hd
 #EXTINF:-1  tvg-name="Bloomberg TV USA SD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" ,Bloomberg TV USA SD
 https://tvpass.org/live/BloombergTV/sd
-#EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" ,Boomerang HD
+#EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" ,Boomerang HD
 https://tvpass.org/live/Boomerang/hd
-#EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" ,Boomerang SD
+#EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" ,Boomerang SD
 https://tvpass.org/live/Boomerang/sd
-#EXTINF:-1  tvg-name="Boston Red Sox @ New York Yankees (06/08 7:11 PM ET) HD" ,Boston Red Sox @ New York Yankees (06/08 7:11 PM ET) HD
-https://tvpass.org/live/tnt-sports-1/hd
-#EXTINF:-1  tvg-name="Boston Red Sox @ New York Yankees (06/08 7:11 PM ET) SD" ,Boston Red Sox @ New York Yankees (06/08 7:11 PM ET) SD
-https://tvpass.org/live/tnt-sports-1/sd
-#EXTINF:-1  tvg-name="Bravo USA Eastern Feed HD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bravo.png" ,Bravo USA Eastern Feed HD
+#EXTINF:-1  tvg-name="Bravo USA Eastern Feed HD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" ,Bravo USA Eastern Feed HD
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1  tvg-name="Bravo USA Eastern Feed SD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bravo.png" ,Bravo USA Eastern Feed SD
+#EXTINF:-1  tvg-name="Bravo USA Eastern Feed SD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" ,Bravo USA Eastern Feed SD
 https://tvpass.org/live/BravoEast/sd
-#EXTINF:-1  tvg-name="C-SPAN 2 HD" tvg-id="cspan-2" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/c-span2-logo.png" ,C-SPAN 2 HD
+#EXTINF:-1  tvg-name="C-SPAN 2 HD" tvg-id="cspan-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" ,C-SPAN 2 HD
 https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1  tvg-name="C-SPAN 2 SD" tvg-id="cspan-2" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/c-span2-logo.png" ,C-SPAN 2 SD
+#EXTINF:-1  tvg-name="C-SPAN 2 SD" tvg-id="cspan-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" ,C-SPAN 2 SD
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1  tvg-name="C-SPAN HD" tvg-id="cspan" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-span-1.png" ,C-SPAN HD
+#EXTINF:-1  tvg-name="C-SPAN HD" tvg-id="cspan" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" ,C-SPAN HD
 https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1  tvg-name="C-SPAN SD" tvg-id="cspan" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-span-1.png" ,C-SPAN SD
+#EXTINF:-1  tvg-name="C-SPAN SD" tvg-id="cspan" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" ,C-SPAN SD
 https://tvpass.org/live/CSPAN/sd
-#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cartoon-network.png" ,Cartoon Network USA Eastern Feed HD
+#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" ,Cartoon Network USA Eastern Feed HD
 https://tvpass.org/live/CartoonNetworkEast/hd
-#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed SD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cartoon-network.png" ,Cartoon Network USA Eastern Feed SD
+#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed SD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" ,Cartoon Network USA Eastern Feed SD
 https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles HD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-usa.png" ,CBS (KCBS) Los Angeles HD
+#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles HD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,CBS (KCBS) Los Angeles HD
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles SD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-usa.png" ,CBS (KCBS) Los Angeles SD
+#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles SD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,CBS (KCBS) Los Angeles SD
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1  tvg-name="CBS Sports Network USA HD" tvg-id="cbs-sports-network-usa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-network.png" ,CBS Sports Network USA HD
+#EXTINF:-1  tvg-name="CBS Sports Network USA HD" tvg-id="cbs-sports-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" ,CBS Sports Network USA HD
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
-#EXTINF:-1  tvg-name="CBS Sports Network USA SD" tvg-id="cbs-sports-network-usa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-network.png" ,CBS Sports Network USA SD
+#EXTINF:-1  tvg-name="CBS Sports Network USA SD" tvg-id="cbs-sports-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" ,CBS Sports Network USA SD
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1  tvg-name="Chicago Cubs @ Detroit Tigers (06/08 1:41 PM ET) HD" ,Chicago Cubs @ Detroit Tigers (06/08 1:41 PM ET) HD
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1  tvg-name="Chicago Cubs @ Detroit Tigers (06/08 1:41 PM ET) SD" ,Chicago Cubs @ Detroit Tigers (06/08 1:41 PM ET) SD
-https://tvpass.org/live/mlb-17/sd
 #EXTINF:-1  tvg-name="Chicago Sports Network HD" tvg-id="chicago-sports-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png?20240916040544" ,Chicago Sports Network HD
 https://tvpass.org/live/chicago-sports-network/hd
 #EXTINF:-1  tvg-name="Chicago Sports Network SD" tvg-id="chicago-sports-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png?20240916040544" ,Chicago Sports Network SD
@@ -11336,26 +11390,22 @@ https://tvpass.org/live/chicago-sports-network/sd
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1  tvg-name="Cinemax Eastern Feed SD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" ,Cinemax Eastern Feed SD
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1  tvg-name="CMT US Eastern Feed HD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmt.png" ,CMT US Eastern Feed HD
+#EXTINF:-1  tvg-name="CMT US Eastern Feed HD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" ,CMT US Eastern Feed HD
 https://tvpass.org/live/CMTEast/hd
-#EXTINF:-1  tvg-name="CMT US Eastern Feed SD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmt.png" ,CMT US Eastern Feed SD
+#EXTINF:-1  tvg-name="CMT US Eastern Feed SD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" ,CMT US Eastern Feed SD
 https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1  tvg-name="CNBC USA HD" tvg-id="cnbc-usa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-usa.png" ,CNBC USA HD
+#EXTINF:-1  tvg-name="CNBC USA HD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" ,CNBC USA HD
 https://tvpass.org/live/CNBC/hd
-#EXTINF:-1  tvg-name="CNBC USA SD" tvg-id="cnbc-usa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-usa.png" ,CNBC USA SD
+#EXTINF:-1  tvg-name="CNBC USA SD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" ,CNBC USA SD
 https://tvpass.org/live/CNBC/sd
-#EXTINF:-1  tvg-name="CNN US HD" tvg-id="cnn" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cnn.png" ,CNN US HD
+#EXTINF:-1  tvg-name="CNN US HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" ,CNN US HD
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1  tvg-name="CNN US SD" tvg-id="cnn" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cnn.png" ,CNN US SD
+#EXTINF:-1  tvg-name="CNN US SD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" ,CNN US SD
 https://tvpass.org/live/CNN/sd
-#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed HD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/comedy-central.png" ,Comedy Central (US) Eastern Feed HD
+#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed HD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" ,Comedy Central (US) Eastern Feed HD
 https://tvpass.org/live/ComedyCentralEast/hd
-#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed SD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/comedy-central.png" ,Comedy Central (US) Eastern Feed SD
+#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed SD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" ,Comedy Central (US) Eastern Feed SD
 https://tvpass.org/live/ComedyCentralEast/sd
-#EXTINF:-1  tvg-name="Connecticut Sun @ Washington Mystics (06/08 3:00 PM ET) HD" ,Connecticut Sun @ Washington Mystics (06/08 3:00 PM ET) HD
-https://tvpass.org/live/mlb-05/hd
-#EXTINF:-1  tvg-name="Connecticut Sun @ Washington Mystics (06/08 3:00 PM ET) SD" ,Connecticut Sun @ Washington Mystics (06/08 3:00 PM ET) SD
-https://tvpass.org/live/mlb-05/sd
 #EXTINF:-1  tvg-name="Crime & Investigation Network USA HD HD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" ,Crime & Investigation Network USA HD HD
 https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1  tvg-name="Crime & Investigation Network USA HD SD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" ,Crime & Investigation Network USA HD SD
@@ -11496,9 +11546,9 @@ https://tvpass.org/live/fanduel-sports-sun/sd
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-name="Fanduel Sports Tennessee East SD" tvg-id="fanduel-sports-tennessee-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" ,Fanduel Sports Tennessee East SD
 https://tvpass.org/live/fanduel-sports-tennessee-east/sd
-#EXTINF:-1  tvg-name="Food Network USA Eastern Feed HD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-food-network-us.png" ,Food Network USA Eastern Feed HD
+#EXTINF:-1  tvg-name="Food Network USA Eastern Feed HD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" ,Food Network USA Eastern Feed HD
 https://tvpass.org/live/FoodNetworkEast/hd
-#EXTINF:-1  tvg-name="Food Network USA Eastern Feed SD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-food-network-us.png" ,Food Network USA Eastern Feed SD
+#EXTINF:-1  tvg-name="Food Network USA Eastern Feed SD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" ,Food Network USA Eastern Feed SD
 https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1  tvg-name="FOX (KTTV) Los Angeles HD" tvg-id="fox-kttv-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,FOX (KTTV) Los Angeles HD
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
@@ -11600,18 +11650,10 @@ https://tvpass.org/live/HistoryEast/sd
 https://tvpass.org/live/HLN/hd
 #EXTINF:-1  tvg-name="HLN SD" tvg-id="hln" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" ,HLN SD
 https://tvpass.org/live/HLN/sd
-#EXTINF:-1  tvg-name="Houston Astros @ Cleveland Guardians (06/08 1:41 PM ET) HD" ,Houston Astros @ Cleveland Guardians (06/08 1:41 PM ET) HD
-https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1  tvg-name="Houston Astros @ Cleveland Guardians (06/08 1:41 PM ET) SD" ,Houston Astros @ Cleveland Guardians (06/08 1:41 PM ET) SD
-https://tvpass.org/live/mlb-13/sd
 #EXTINF:-1  tvg-name="Independent Film Channel US HD" tvg-id="independent-film-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" ,Independent Film Channel US HD
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1  tvg-name="Independent Film Channel US SD" tvg-id="independent-film-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" ,Independent Film Channel US SD
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1  tvg-name="Indiana Pacers @ Oklahoma City Thunder (06/08 8:00 PM ET) HD" ,Indiana Pacers @ Oklahoma City Thunder (06/08 8:00 PM ET) HD
-https://tvpass.org/live/WNBA03/hd
-#EXTINF:-1  tvg-name="Indiana Pacers @ Oklahoma City Thunder (06/08 8:00 PM ET) SD" ,Indiana Pacers @ Oklahoma City Thunder (06/08 8:00 PM ET) SD
-https://tvpass.org/live/WNBA03/sd
 #EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" ,Investigation Discovery USA Eastern HD
 https://tvpass.org/live/InvestigationDiscoveryEast/hd
 #EXTINF:-1  tvg-name="Investigation Discovery USA Eastern SD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" ,Investigation Discovery USA Eastern SD
@@ -11620,10 +11662,6 @@ https://tvpass.org/live/InvestigationDiscoveryEast/sd
 https://tvpass.org/live/IONTVEast/hd
 #EXTINF:-1  tvg-name="ION Eastern Feed SD" tvg-id="ion-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" ,ION Eastern Feed SD
 https://tvpass.org/live/IONTVEast/sd
-#EXTINF:-1  tvg-name="Kansas City Royals @ Chicago White Sox (06/08 2:11 PM ET) HD" ,Kansas City Royals @ Chicago White Sox (06/08 2:11 PM ET) HD
-https://tvpass.org/live/mlb-28/hd
-#EXTINF:-1  tvg-name="Kansas City Royals @ Chicago White Sox (06/08 2:11 PM ET) SD" ,Kansas City Royals @ Chicago White Sox (06/08 2:11 PM ET) SD
-https://tvpass.org/live/mlb-28/sd
 #EXTINF:-1  tvg-name="Lifetime Movies East HD" tvg-id="lifetime-movies-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" ,Lifetime Movies East HD
 https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1  tvg-name="Lifetime Movies East SD" tvg-id="lifetime-movies-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" ,Lifetime Movies East SD
@@ -11636,10 +11674,6 @@ https://tvpass.org/live/LifetimeEast/sd
 https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1  tvg-name="LOGO East SD" tvg-id="logo-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" ,LOGO East SD
 https://tvpass.org/live/LogoEast/sd
-#EXTINF:-1  tvg-name="Los Angeles Dodgers @ St. Louis Cardinals (06/08 2:16 PM ET) HD" ,Los Angeles Dodgers @ St. Louis Cardinals (06/08 2:16 PM ET) HD
-https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1  tvg-name="Los Angeles Dodgers @ St. Louis Cardinals (06/08 2:16 PM ET) SD" ,Los Angeles Dodgers @ St. Louis Cardinals (06/08 2:16 PM ET) SD
-https://tvpass.org/live/mlb-06/sd
 #EXTINF:-1  tvg-name="Marquee Sports Network HD" tvg-id="marquee-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" ,Marquee Sports Network HD
 https://tvpass.org/live/marquee-sports-network/hd
 #EXTINF:-1  tvg-name="Marquee Sports Network SD" tvg-id="marquee-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" ,Marquee Sports Network SD
@@ -11652,18 +11686,10 @@ https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTINF:-1  tvg-name="MeTV Wjlp New Jerseynew York SD" tvg-id="metv-wjlp-new-jerseynew-york" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" ,MeTV Wjlp New Jerseynew York SD
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1  tvg-name="Miami Marlins @ Tampa Bay Rays (06/08 12:11 PM ET) HD" ,Miami Marlins @ Tampa Bay Rays (06/08 12:11 PM ET) HD
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1  tvg-name="Miami Marlins @ Tampa Bay Rays (06/08 12:11 PM ET) SD" ,Miami Marlins @ Tampa Bay Rays (06/08 12:11 PM ET) SD
-https://tvpass.org/live/WNBA01/sd
 #EXTINF:-1  tvg-name="Midatlantic Sports Network HD" tvg-id="midatlantic-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" ,Midatlantic Sports Network HD
 https://tvpass.org/live/midatlantic-sports-network/hd
 #EXTINF:-1  tvg-name="Midatlantic Sports Network SD" tvg-id="midatlantic-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" ,Midatlantic Sports Network SD
 https://tvpass.org/live/midatlantic-sports-network/sd
-#EXTINF:-1  tvg-name="Minnesota Lynx @ Dallas Wings (06/08 4:00 PM ET) HD" ,Minnesota Lynx @ Dallas Wings (06/08 4:00 PM ET) HD
-https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1  tvg-name="Minnesota Lynx @ Dallas Wings (06/08 4:00 PM ET) SD" ,Minnesota Lynx @ Dallas Wings (06/08 4:00 PM ET) SD
-https://tvpass.org/live/mlb-24/sd
 #EXTINF:-1  tvg-name="MLB Network HD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB Network HD
 https://tvpass.org/live/MLBNetwork/hd
 #EXTINF:-1  tvg-name="MLB Network SD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB Network SD
@@ -11740,10 +11766,6 @@ https://tvpass.org/live/nbc-sports-philadelphia/sd
 https://tvpass.org/live/new-england-sports-network/hd
 #EXTINF:-1  tvg-name="New England Sports Network SD" tvg-id="new-england-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" ,New England Sports Network SD
 https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1  tvg-name="New York Mets @ Colorado Rockies (06/08 3:11 PM ET) HD" ,New York Mets @ Colorado Rockies (06/08 3:11 PM ET) HD
-https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1  tvg-name="New York Mets @ Colorado Rockies (06/08 3:11 PM ET) SD" ,New York Mets @ Colorado Rockies (06/08 3:11 PM ET) SD
-https://tvpass.org/live/mlb-16/sd
 #EXTINF:-1  tvg-name="NewsMax TV HD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" ,NewsMax TV HD
 https://tvpass.org/live/NewsmaxTV/hd
 #EXTINF:-1  tvg-name="NewsMax TV SD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" ,NewsMax TV SD
@@ -11772,25 +11794,25 @@ https://tvpass.org/live/NickelodeonEast/sd
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons East SD
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1  tvg-name="ABC (WABC) New York , NY HD" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" ,NY HD
+#EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1  tvg-name="CBS (WCBS) New York , NY HD" tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-usa.png" ,NY HD
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1  tvg-name="FOX (WNYW) New York , NY HD" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY HD
+#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York , NY HD" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY HD
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1  tvg-name="PBS (WNET) New York , NY HD" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY HD
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="ABC (WABC) New York , NY SD" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" ,NY SD
+#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1  tvg-name="CBS (WCBS) New York , NY SD" tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-usa.png" ,NY SD
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1  tvg-name="FOX (WNYW) New York , NY SD" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY SD
+#EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York , NY SD" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY SD
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1  tvg-name="PBS (WNET) New York , NY SD" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY SD
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" ,Oprah Winfrey Network USA Eastern HD
 https://tvpass.org/live/OWNEast/hd
@@ -11804,26 +11826,14 @@ https://tvpass.org/live/OutdoorChannel/sd
 https://tvpass.org/live/OxygenEast/hd
 #EXTINF:-1  tvg-name="Oxygen Eastern Feed SD" tvg-id="oxygen-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" ,Oxygen Eastern Feed SD
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1  tvg-name="Philadelphia Phillies @ Pittsburgh Pirates (06/08 1:36 PM ET) HD" ,Philadelphia Phillies @ Pittsburgh Pirates (06/08 1:36 PM ET) HD
-https://tvpass.org/live/mlb-01/hd
-#EXTINF:-1  tvg-name="Philadelphia Phillies @ Pittsburgh Pirates (06/08 1:36 PM ET) SD" ,Philadelphia Phillies @ Pittsburgh Pirates (06/08 1:36 PM ET) SD
-https://tvpass.org/live/mlb-01/sd
 #EXTINF:-1  tvg-name="ReelzChannel HD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" ,ReelzChannel HD
 https://tvpass.org/live/Reelz/hd
 #EXTINF:-1  tvg-name="ReelzChannel SD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" ,ReelzChannel SD
 https://tvpass.org/live/Reelz/sd
-#EXTINF:-1  tvg-name="San Diego Padres @ Milwaukee Brewers (06/08 1:06 PM ET) HD" ,San Diego Padres @ Milwaukee Brewers (06/08 1:06 PM ET) HD
-https://tvpass.org/live/mlb-21/hd
-#EXTINF:-1  tvg-name="San Diego Padres @ Milwaukee Brewers (06/08 1:06 PM ET) SD" ,San Diego Padres @ Milwaukee Brewers (06/08 1:06 PM ET) SD
-https://tvpass.org/live/mlb-21/sd
 #EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" ,Science HD
 https://tvpass.org/live/Science/hd
 #EXTINF:-1  tvg-name="Science SD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" ,Science SD
 https://tvpass.org/live/Science/sd
-#EXTINF:-1  tvg-name="Seattle Mariners @ Los Angeles Angels (06/08 4:08 PM ET) HD" ,Seattle Mariners @ Los Angeles Angels (06/08 4:08 PM ET) HD
-https://tvpass.org/live/TNTEast/hd
-#EXTINF:-1  tvg-name="Seattle Mariners @ Los Angeles Angels (06/08 4:08 PM ET) SD" ,Seattle Mariners @ Los Angeles Angels (06/08 4:08 PM ET) SD
-https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1  tvg-name="SEC Network HD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" ,SEC Network HD
 https://tvpass.org/live/SECN/hd
 #EXTINF:-1  tvg-name="SEC Network SD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" ,SEC Network SD
@@ -11904,10 +11914,6 @@ https://tvpass.org/live/TeenNickEast/sd
 https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1  tvg-name="Telemundo Eastern Feed SD" tvg-id="telemundo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" ,Telemundo Eastern Feed SD
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1  tvg-name="Texas Rangers @ Washington Nationals (06/08 1:36 PM ET) HD" ,Texas Rangers @ Washington Nationals (06/08 1:36 PM ET) HD
-https://tvpass.org/live/mlb-23/hd
-#EXTINF:-1  tvg-name="Texas Rangers @ Washington Nationals (06/08 1:36 PM ET) SD" ,Texas Rangers @ Washington Nationals (06/08 1:36 PM ET) SD
-https://tvpass.org/live/mlb-23/sd
 #EXTINF:-1  tvg-name="The Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" ,The Cooking Channel HD
 https://tvpass.org/live/CookingChannel/hd
 #EXTINF:-1  tvg-name="The Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" ,The Cooking Channel SD
@@ -11932,10 +11938,6 @@ https://tvpass.org/live/TheMovieChannelEast/sd
 https://tvpass.org/live/TNTEast/hd
 #EXTINF:-1  tvg-name="TNT Eastern Feed SD" tvg-id="tnt-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" ,TNT Eastern Feed SD
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1  tvg-name="Toronto Blue Jays @ Minnesota Twins (06/08 2:11 PM ET) HD" ,Toronto Blue Jays @ Minnesota Twins (06/08 2:11 PM ET) HD
-https://tvpass.org/live/mlb-18/hd
-#EXTINF:-1  tvg-name="Toronto Blue Jays @ Minnesota Twins (06/08 2:11 PM ET) SD" ,Toronto Blue Jays @ Minnesota Twins (06/08 2:11 PM ET) SD
-https://tvpass.org/live/mlb-18/sd
 #EXTINF:-1  tvg-name="Travel US East HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" ,Travel US East HD
 https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1  tvg-name="Travel US East SD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" ,Travel US East SD
@@ -11972,9 +11974,9 @@ https://tvpass.org/live/TCMEast/sd
 https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1  tvg-name="TV Land Eastern SD" tvg-id="tv-land-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" ,TV Land Eastern SD
 https://tvpass.org/live/tv-land-eastern/sd
-#EXTINF:-1  tvg-name="TV One HD" tvg-id="tv-one" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv-one-usa.png" ,TV One HD
+#EXTINF:-1  tvg-name="TV One HD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" ,TV One HD
 https://tvpass.org/live/TVOne/hd
-#EXTINF:-1  tvg-name="TV One SD" tvg-id="tv-one" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv-one-usa.png" ,TV One SD
+#EXTINF:-1  tvg-name="TV One SD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" ,TV One SD
 https://tvpass.org/live/TVOne/sd
 #EXTINF:-1  tvg-name="Universal Kids HD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" ,Universal Kids HD
 https://tvpass.org/live/UniversalKidsEast/hd
@@ -12728,6 +12730,20 @@ http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=8c43
 https://ott.udptv.org/stream/astro/wsport/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 #EXTINF:-1  tvg-name="Warner TV" tvg-id="Warnertv.Hd.ph" tvg-logo="https://i.imgur.com/L6Ta5te.png" ,Warner TV
 http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTGRP:WNBA
+#EXTINF:-1  tvg-name="Los Angeles Sparks @ Minnesota Lynx (06/14 1:00 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Los Angeles Sparks @ Minnesota Lynx (06/14 1:00 PM ET) HD
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1  tvg-name="Los Angeles Sparks @ Minnesota Lynx (06/14 1:00 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Los Angeles Sparks @ Minnesota Lynx (06/14 1:00 PM ET) SD
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1  tvg-name="New York Liberty @ Indiana Fever (06/14 3:00 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,New York Liberty @ Indiana Fever (06/14 3:00 PM ET) HD
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1  tvg-name="New York Liberty @ Indiana Fever (06/14 3:00 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,New York Liberty @ Indiana Fever (06/14 3:00 PM ET) SD
+https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1  tvg-name="Seattle Storm @ Golden State Valkyries (06/14 8:30 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Seattle Storm @ Golden State Valkyries (06/14 8:30 PM ET) HD
+https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1  tvg-name="Seattle Storm @ Golden State Valkyries (06/14 8:30 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.thetvapp.png" ,Seattle Storm @ Golden State Valkyries (06/14 8:30 PM ET) SD
+https://tvpass.org/live/WNBA03/sd
 
 # 📺 Source: https://cdn.djdoolky76.net/udptv.m3u
 
