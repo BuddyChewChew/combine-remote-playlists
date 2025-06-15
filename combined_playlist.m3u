@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-15T15:21:18.297917 UTC
+# Generated on 2025-06-15T16:26:16.374610 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-15T15:11:18.864605Z
+# Last forced update: 2025-06-15T15:57:43.835896Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3045,15 +3045,15 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zack.and.Miri.Make.a.Porno.2
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv
 
 #EXTGRP:FIFA Club World Cup
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="RUSH Sports" tvg-logo="https://i.imgur.com/BAzTqQp.png" ,CAR: RUSH Sports
+#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="RUSH Sports" tvg-logo="https://i.imgur.com/BAzTqQp.png" ,CAR: RUSH Sports
 https://a1xs.vip/2501
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" ,UK: Channel 5
+#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" ,UK: Channel 5
 https://a1xs.vip/1000030
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" ,US: TBS
+#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" ,US: TBS
 https://a1xs.vip/300038
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" ,US: TNT
+#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" ,US: TNT
 https://a1xs.vip/300001
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="truTV FH" tvg-logo="https://i.imgur.com/D9Ofkf5.png" ,US: truTV
+#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="truTV FH" tvg-logo="https://i.imgur.com/D9Ofkf5.png" ,US: truTV
 https://a1xs.vip/300002
 
 #EXTGRP:FSTVLive
@@ -4635,6 +4635,10 @@ https://dfecjp0pnemzw.cloudfront.net/out/v1/17ebe8fca7604907ae99719663dd2519/ind
 https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
 #EXTINF:-1  tvg-id="ParliamentTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/parliament-tv-nz.png?raw=true"  radio="false",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+
+#EXTGRP:Mystique Presents: Web Channels
+#EXTINF:-1  tvg-id="24.7.Dummy.us"  tvg-logo="https://www.citypng.com/public/uploads/preview/walt-disney-company-black-logo-png-7017516947749550qmvjmawwx.png",Disney Channel DB (DoneBetter)
+https://de.bnkd.xyz/memfs/0b2776c9-95ef-4e43-ab2c-aadb73ee2f32_output_0.m3u8?session=WDmrTFsHf2q53pE7x7WzWq
 
 #EXTGRP:Mystique UK
 #EXTINF:-1  tvg-id="4seven.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-seven-uk.png?raw=true"  radio="false",UK | 4seven
@@ -11638,23 +11642,23 @@ https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons East SD
 https://tvpass.org/live/NicktoonsEast/sd
 #EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,NY HD
-https://tvpass.org/live/WABCDT1/hd
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,NY HD
-https://tvpass.org/live/WCBSDT1/hd
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY HD
-https://tvpass.org/live/WNYWDT1/hd
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY HD
-https://tvpass.org/live/WNBCDT1/hd
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" ,NY SD
-https://tvpass.org/live/WABCDT1/sd
+https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,NY SD
-https://tvpass.org/live/WCBSDT1/sd
+https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,NY SD
-https://tvpass.org/live/WNYWDT1/sd
+https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" ,NY SD
-https://tvpass.org/live/WNBCDT1/sd
+https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" ,NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" ,Oprah Winfrey Network USA Eastern HD
