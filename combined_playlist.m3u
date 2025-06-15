@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-15T02:04:18.154383 UTC
+# Generated on 2025-06-15T03:52:26.583408 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-15T01:40:18.884576Z
+# Last forced update: 2025-06-15T03:16:02.112950Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3057,618 +3057,455 @@ https://a1xs.vip/300001
 https://a1xs.vip/300002
 
 #EXTGRP:FSTVLive
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png"  tvg-id="24.7.Dummy.us",ABC
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" ,ABC
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTliNGZhYjg0M2E1LWM0OGItMmM1NC02ZGQxLWZmMDA2NGI4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s"  tvg-id="24.7.Dummy.us",ABC News
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ABC.NEWS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" ,ABC News
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDY0Y2NjYjlhM2U2LTVkNGItZmJkNC1hODc2LTlmOGZiOWE5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png"  tvg-id="24.7.Dummy.us",ACC Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png" ,ACC Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjJjNmE5YjVlNzFjLTdmZWItOWNkNC00ZWQ5LTQ4ZmVlNmE2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png"  tvg-id="24.7.Dummy.us",BBC News
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png"  tvg-id="24.7.Dummy.us",BBC One
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="BBC.One.EastHD.uk" tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" ,BBC One
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzJmNzY2NGE1MmQ2LTgzNDgtMzU4NC03ZDk1LWJjZTk5ODU2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png"  tvg-id="24.7.Dummy.us",BBC Two
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" ,BBC Two
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTVkYzFhNDNkNGI2LWUwMWItNDBmNC1jZDQwLTdhZmIxYWNl/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png"  tvg-id="24.7.Dummy.us",beIN SPORTS Español
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" ,beIN SPORTS Español
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports_logo-freelogovectors.net_.png"  tvg-id="24.7.Dummy.us",beIN SPORTS USA
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="beIN.Sport.USA.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports_logo-freelogovectors.net_.png" ,beIN SPORTS USA
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png"  tvg-id="24.7.Dummy.us",beIN SPORTS Xtra
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="beIN.Sports.Xtra.(WXAX-CD6).Tampa,.FL.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" ,beIN SPORTS Xtra
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png"  tvg-id="24.7.Dummy.us",beIN SPORTS Xtra en Español
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" ,beIN SPORTS Xtra en Español
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg"  tvg-id="24.7.Dummy.us",Big Ten Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Big.Ten.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" ,Big Ten Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMzMGI1OTk1YjA2LTIyYjgtNDc1NC1mMzYzLWRhZmUzM2Q1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvz-YL19S_2yNbgLcba9CjUEDQfRosFbJECM9-n5VkH4TVkeO47oSkivTl-1vIyT5tHk&usqp=CAU"  tvg-id="24.7.Dummy.us",Billiard TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvz-YL19S_2yNbgLcba9CjUEDQfRosFbJECM9-n5VkH4TVkeO47oSkivTl-1vIyT5tHk&usqp=CAU" ,Billiard TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjZjNmZjOTYzYmMyLWEwOTgtMjBjNC0zNWE4LWYzZWMwOGM5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBS_Los_Angeles_logo.svg"  tvg-id="24.7.Dummy.us",CBS Los Angeles
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBS_Los_Angeles_logo.svg" ,CBS Los Angeles
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTgxYmU5ZDA3ZjQwLTc3NGItZGU5NC01MWY5LTNmMDNkMDNi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj"  tvg-id="24.7.Dummy.us",CBS Sports Golazo Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" ,CBS Sports Golazo Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png"  tvg-id="24.7.Dummy.us",CBS Sports Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" ,CBS Sports Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDJhM2Q4MmIzYTc3LWJhMjgtMGM2NC0yN2IwLTA4M2Q2NDkz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"  tvg-id="24.7.Dummy.us",Cinemax
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" ,Cinemax
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjBiZDYyOWZhNTExLWIwZWEtMGY2NC00NmZiLTE3MzZiZDc5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png"  tvg-id="24.7.Dummy.us",CNBC
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="CNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" ,CNBC
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDJhNDYwMTRlYWY0LWFiOTktNTg2NC1hYWE4LThlY2NmNDk2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png"  tvg-id="24.7.Dummy.us",CNN
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" ,CNN
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTZkNzY5ZDhjNGQzLTJkNjktZGY4NC1iYmEzLWE3ZWJkMjEy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg"  tvg-id="24.7.Dummy.us",DAZN 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="UK:.DAZN.Combat.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" ,DAZN 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg"  tvg-id="24.7.Dummy.us",DAZN 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="UK:.DAZN.Combat.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" ,DAZN 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png"  tvg-id="24.7.Dummy.us",Discovery Channel
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" ,Discovery Channel
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NWExMzY5ZGNlNGIzLTI1MmItNDZhNC1kMTJlLTQ2NDBlODZi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"  tvg-id="24.7.Dummy.us",ESPN
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png"  tvg-id="24.7.Dummy.us",ESPN Deportes
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ESPN.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" ,ESPN Deportes
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png"  tvg-id="24.7.Dummy.us",ESPN2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" ,ESPN2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png"  tvg-id="24.7.Dummy.us",ESPNews
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ESPN.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" ,ESPNews
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTNmNzQ2YmUwYzk0LTU3OGEtOTM1NC1lZDBhLTVhODk0ODM4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png"  tvg-id="24.7.Dummy.us",ESPNU
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ESPN.U.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" ,ESPNU
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDg5NTVmYzNlZjA1LWQzNmItYmI1NC0yNmQ3LWYyZDZjNDhi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png"  tvg-id="24.7.Dummy.us",Eurosport 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Eurosport.1.HD.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" ,Eurosport 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGY2ODAzOWY3ZDE5LThkMmEtNWY0NC0zZjViLTJiZDEwNjQ5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png"  tvg-id="24.7.Dummy.us",Eurosport 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Eurosport.2.HD.ba" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" ,Eurosport 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzgwZjU4MzNjMTk4LWE4OGEtN2MwNC1lNjRkLTk4N2JhMDA2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg"  tvg-id="24.7.Dummy.us",Fanduel Sport
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="FanDuel.Sports.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" ,Fanduel Sport
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMxOWViZWI1ODVjLWNiYmItOTgzNC01ZWEwLTkwMGJlMThl/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg"  tvg-id="24.7.Dummy.us",Fight Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" ,Fight Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmVlYmEzMGU4MjBlLTFlOWEtZjgxNC1iY2I1LTExZGU0MjJi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Fox_Channel_logo.svg"  tvg-id="24.7.Dummy.us",Fox
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Fox_Channel_logo.svg" ,Fox
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2E1MWVlYmZkMWYwLWYzODktMWUyNC0xYzZkLTY2MjU0NmEw/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg"  tvg-id="24.7.Dummy.us",Fox 502
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="FoxFooty.au" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" ,Fox 502
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTQwNmNiOTQ4MGU3LWQ3ZTgtYzBmNC1kODJiLWQ0MTc3MjVh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png"  tvg-id="24.7.Dummy.us",Fox Deportes
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Fox.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" ,Fox Deportes
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png"  tvg-id="24.7.Dummy.us",Fox News
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" ,Fox News
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTc2YjM2MGRlYWVkLTkzNmEtMjNiNC0yMTY1LWZkMjYzMGUy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png"  tvg-id="24.7.Dummy.us",Fox Soccer Plus
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" ,Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png"  tvg-id="24.7.Dummy.us",FS1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Fox.Sports.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" ,FS1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png"  tvg-id="24.7.Dummy.us",FS2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Fox.Sports.2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" ,FS2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg"  tvg-id="24.7.Dummy.us",Fubo Sports Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Fubo.Sports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" ,Fubo Sports Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzZiYTA0MjhmMmQ0LTgxNjgtNDYzNC04ZWFmLTI4YTQ5ODE1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png"  tvg-id="24.7.Dummy.us",GOL TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="GOL.TV.HD.(GolTV.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" ,GOL TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png"  tvg-id="24.7.Dummy.us",Golf Channel
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" ,Golf Channel
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg"  tvg-id="24.7.Dummy.us",HBO
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" ,HBO
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YmI1MzMyYmI0YjJjLTdmMGEtZTlkNC0wNDhiLWY3YTQyODI4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png"  tvg-id="24.7.Dummy.us",ION
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" ,ION
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjQ0Y2U1OWU3ZTVlLWU3NDktNWFkNC02MjljLTIyNzYzYTk3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png"  tvg-id="24.7.Dummy.us",ITV1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" ,ITV1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODA1MzBhZDU3MTIyLWVmZGEtZjdkNC0xN2FkLWZkMTRjZTkz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png"  tvg-id="24.7.Dummy.us",ITV2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ITV2.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png" ,ITV2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTU2ZDRjYmIxZjUyLTE1YWItN2UwNC1hYzJlLTQ1MTBjMGIy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png"  tvg-id="24.7.Dummy.us",ITV3
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ITV3.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png" ,ITV3
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDY1MWYyNzcxNjk2LWZlOWEtZGVhNC1hYWJiLWY3MTBjNjZk/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png"  tvg-id="24.7.Dummy.us",ITV4
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="ITV4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" ,ITV4
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjU2N2I3NTU1MGZkLTdmMzgtYTkyNC1kYjk3LWMwN2NlYTVi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"  tvg-id="24.7.Dummy.us",LaLiga TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="DAZN.LALIGA.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" ,LaLiga TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png"  tvg-id="24.7.Dummy.us",LFCTV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="LFCTV.HD.uk" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" ,LFCTV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2VkZWNhNDhmNWIyLWM1YzgtMTNjNC0zZjBjLTk4YWQwMGNh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s"  tvg-id="24.7.Dummy.us",Marquee Sports Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Marquee.Sports.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" ,Marquee Sports Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTg3YTRhMjU3NTlhLTA4MGItM2ZlNC1lZmNmLTI0MmU4OWVj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png"  tvg-id="24.7.Dummy.us",MLB Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png"  tvg-id="24.7.Dummy.us",MSNBC
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="MSNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" ,MSNBC
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGQ4YzMwOTdlOTI4LWMxZWItMzdhNC0zN2U3LTIxMWIyZjhk/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png"  tvg-id="24.7.Dummy.us",MUTV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="MUTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" ,MUTV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDMwOTE5YTA2YTJmLTNjNGItZWVjNC0xZDE1LTAyNTQwMjk0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-logo-png_seeklogo-329250.png"  tvg-id="24.7.Dummy.us",NBA TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" ,NBA TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODM4YjkzYzRjZGQ1LTg1ZmItN2M1NC1mZmE4LWY0YTA5NTdl/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png"  tvg-id="24.7.Dummy.us",NBC
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" ,NBC
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png"  tvg-id="24.7.Dummy.us",NFL Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" ,NFL Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzhjOTY4MTkxNGM2LWIyMDktOTJlNC1iNThkLWMxNDQwOTRh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg"  tvg-id="24.7.Dummy.us",NFL RedZone
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NFL.RedZone.us" tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" ,NFL RedZone
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODc4ZGFjNjdhOGNmLTA2MGEtZTgzNC04MDZiLTk2NWVmNjU1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/NHL_Network_2007_print.svg"  tvg-id="24.7.Dummy.us",NHL Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NHL.Network.USA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/NHL_Network_2007_print.svg" ,NHL Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTQzZTE2MTc0NmExLTg3ZjktYTdjNC00OThkLTE4NDRjODBh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OneSoccer_logo.svg"  tvg-id="24.7.Dummy.us",OneSoccer
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="One.Soccer.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OneSoccer_logo.svg" ,OneSoccer
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDY4NGMzM2Q5MTkzLTAwN2EtN2I0NC1lOTFmLTM3ZTAyMTEy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg"  tvg-id="24.7.Dummy.us",Paramount Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" ,Paramount Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGM4MzE4YTY3ZTMwLTY2NjktNTNhNC0zM2RlLTRhZjQ3NjM4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| Arizona Diamondbacks - San Diego Padres
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzQxODRjMGMyNDU5LTkzNGEtMjgyNC03NWIwLTM0ZWJiNGY2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| Brisbane Lions - Greater Western Sydney Giants
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| Los Angeles Dodgers - San Francisco Giants
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NWZiMmE2ZDhjMjY5LWYzYmEtYjdlNC02ZTk2LTQzYjFlMzNh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| None - None
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTlmZWNmYTNiYTI4LTI0M2EtYjI5NC1lNDQ4LWNiMjk4YmI5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| None - None
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDk3ZGUwYjNiNmQ4LTY4YmEtM2ZjNC0zYjMwLTAxMjYxYmJk/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| None - None
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2RkMDY2NzUxZmZmLWY1OTgtNjI2NC1hMDJkLWEzOWMyMDBm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| None - None
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjI4MTAyZGNhOWVmLWM5NGItNDhhNC00MTU4LTBiZmExYTBm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| None - None
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjRmZmVjNzJmMTc1LWFkYzktMDRiNC00MWQ0LWQ4MTczMGM3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| Portland Timbers - San Jose Earthquakes
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"  tvg-id="24.7.Dummy.us",Pay-Per-View| Seattle Mariners - Cleveland Guardians
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjQ1OWJkOTg2M2QwLTY2YjgtZDFmNC0yYTMwLWNkYzUxNjk2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png"  tvg-id="24.7.Dummy.us",Premier Sports 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" ,Premier Sports 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s"  tvg-id="24.7.Dummy.us",Premier Sports 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" ,Premier Sports 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png"  tvg-id="24.7.Dummy.us",Racing TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Racing.TV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" ,Racing TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzA3MTQyNDY5ODg0LWY1Y2EtY2M1NC0wOTc0LTA3NzU4MTk0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png"  tvg-id="24.7.Dummy.us",SEC Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="SEC.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" ,SEC Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTRhYTk4ODliNWFmLTFmNDgtY2U4NC1hYTUxLTA1Nzg4ZDU3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png"  tvg-id="24.7.Dummy.us",Sky Cinema Comedy
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" ,Sky Cinema Comedy
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmRkNjU2YTRjODE2LTBhN2EtYzk0NC05OTMzLWZhZDQyZTI5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlsGahjoTNHKbzyFUQHjq-7_gFiffzXaPfA&s"  tvg-id="24.7.Dummy.us",Sky Cinema Family
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Family.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlsGahjoTNHKbzyFUQHjq-7_gFiffzXaPfA&s" ,Sky Cinema Family
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzkzNTZiMjY3YzBhLTE4ZjgtN2M3NC1jOGYzLWQ1YzVlZjli/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"  tvg-id="24.7.Dummy.us",Sky Sport Bundesliga 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sport.Bundesliga.1.HD.at" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" ,Sky Sport Bundesliga 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NWMxZDMyMzRlNDMzLWQ4YTgtNjE2NC1jZTIzLWY0NThmYjcw/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg"  tvg-id="24.7.Dummy.us",Sky Sport Mix
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sport.Mix.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" ,Sky Sport Mix
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTBkYjk1MTkzMTFmLTAzNDgtZWVkNC0xZDRjLWM1YmY5MWEx/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png"  tvg-id="24.7.Dummy.us",Sky Sport News
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sport.News.de" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" ,Sky Sport News
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmE0NzI3MGU5ZmRmLTMwMTktYWFhNC1mZDNhLWI5YjFkZGE2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png"  tvg-id="24.7.Dummy.us",Sky Sport Top Event
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sport.Top.Event.HD.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" ,Sky Sport Top Event
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg"  tvg-id="24.7.Dummy.us",Sky Sports Action
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Action.HD.ie" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" ,Sky Sports Action
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzhjYzNjYTZjODJjLTYzZGItNDM3NC00YjFmLTQyYjZjYWM3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports Arena
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Action.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" ,Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWIyNGYyOWFkMTNmLWM4M2ItNTljNC0zNGUzLTg2YmUwYzgz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s"  tvg-id="24.7.Dummy.us",Sky Sports Cricket
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Cricket.ie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" ,Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605130863527747584/eSldZSMh_400x400.jpg"  tvg-id="24.7.Dummy.us",Sky Sports Darts
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://pbs.twimg.com/profile_images/1605130863527747584/eSldZSMh_400x400.jpg" ,Sky Sports Darts
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTFhYjY4MDllNTZhLTIyMDgtNGUxNC0wNzEwLTc2NmI0ODhk/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports F1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.F1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" ,Sky Sports F1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports Football
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjY1NWIyOTgyOTRjLTlhZWEtOTc3NC04NTE3LWI1OGU2NWI4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports Golf
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Golf.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" ,Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg"  tvg-id="24.7.Dummy.us",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Main.Event.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" ,Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports Mix
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Mix.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Mzk2Y2I3ZWM1YjU4LWU4YzgtNzQ3NC02OTc0LTljMDdiOTM3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png"  tvg-id="24.7.Dummy.us",Sky Sports News
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.News.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,Sky Sports News
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWRkMzJhZDNhMTUwLWQ4OWEtMGUyNC0yYzBjLWMyZGYyYjli/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png"  tvg-id="24.7.Dummy.us",Sky Sports Plus
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Plus.ie" tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" ,Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDJkMDJjZTY1N2VmLTA5MGEtZDIwNC1kNjAwLTFlMWUzMzdj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png"  tvg-id="24.7.Dummy.us",Sky Sports Racing
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Sky.Sports.Racing.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" ,Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDc0M2VhZjdhMjM2LWY5ZmEtZWMxNC1hZWM4LTVmODE2ZjEz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png"  tvg-id="24.7.Dummy.us",Sky Sports Tennis
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" ,Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg"  tvg-id="24.7.Dummy.us",Sport TV 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" ,Sport TV 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png"  tvg-id="24.7.Dummy.us",Sportdigital
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="DE:.Sportdigital.Free.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" ,Sportdigital
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png"  tvg-id="24.7.Dummy.us",TBS
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" ,TBS
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjM3NmYzZWJiZGE0LTIxYzgtYzBkNC0zNDc2LTlmODM2NzFj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"  tvg-id="24.7.Dummy.us",Telemundo
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,Telemundo
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjVjN2YyNTQwN2UwLWYxMGItZTE3NC00MWM0LWQyNGY2MWRj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png"  tvg-id="24.7.Dummy.us",Tennis TV
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="The.Tennis.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" ,Tennis TV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png"  tvg-id="24.7.Dummy.us",Tennis TV 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Tennis.Dummy.us" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" ,Tennis TV 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmYzNTJiMzc5NTdmLWIwYzgtNGY4NC0xMTdhLTI0OWE5Mjcy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png"  tvg-id="24.7.Dummy.us",TNT
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" ,TNT
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png"  tvg-id="24.7.Dummy.us",TNT 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png"  tvg-id="24.7.Dummy.us",TNT 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" ,TNT 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png"  tvg-id="24.7.Dummy.us",TNT 3
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" ,TNT 3
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png"  tvg-id="24.7.Dummy.us",TNT 4
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" ,TNT 4
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp"  tvg-id="24.7.Dummy.us",TNT Sports 5
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" ,TNT Sports 5
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png"  tvg-id="24.7.Dummy.us",TSN 1
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" ,TSN 1
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDExYmYxYjFiZDhkLWVkMTktNzhkNC0xMTBiLWIyZGZjODNm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png"  tvg-id="24.7.Dummy.us",TSN 2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TSN2.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" ,TSN 2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://apsiscom.com/images/channels/935.webp"  tvg-id="24.7.Dummy.us",TSN 3
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TSN3.ca" tvg-logo="https://apsiscom.com/images/channels/935.webp" ,TSN 3
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzA3ZGVjOWEzMGU3LTg3NmItOGM2NC05ZGI4LTZiZDIxOTA1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png"  tvg-id="24.7.Dummy.us",TSN 4
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TSN4.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" ,TSN 4
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1N2M3NDM4YWNiYTc4LTJmMzktNDcwNC1hNDExLWQyMzAzNTY0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png"  tvg-id="24.7.Dummy.us",TSN 5
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TSN5.ca" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" ,TSN 5
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  tvg-id="24.7.Dummy.us",TUDN
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Canal.TUDN.(MÃ©xico).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDYyNjQzMDkzOWYxLTg0ODktNzlmNC03MDIxLWRjNWFmZDI0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg"  tvg-id="24.7.Dummy.us",TyC Sports
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="TyC.Sports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" ,TyC Sports
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg"  tvg-id="24.7.Dummy.us",UniMás
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="UniMas.(KTFF-LD).Fresno,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" ,UniMás
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjhmYmJlNjYzNjYwLTcwNWItMDRhNC1mMWJkLTA5NTczNTE3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png"  tvg-id="24.7.Dummy.us",Universo
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="NBC.Universo.-.Eastern.feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" ,Universo
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png"  tvg-id="24.7.Dummy.us",Univision 34
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png" ,Univision 34
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTc4ZWUyMjY1NGU1LTk4NGEtNDk0NC1iMGZhLTc3ZDRjZjI5/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png"  tvg-id="24.7.Dummy.us",USA Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" ,USA Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s"  tvg-id="24.7.Dummy.us",VE- uk - sky sport premier league
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="SkyPremiereHD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" ,VE- uk - sky sport premier league
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg"  tvg-id="24.7.Dummy.us",VE-de-sky premier league
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="SkyPremiereHD.uk" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" ,VE-de-sky premier league
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzlmYzMwMWU3ZjZlLTE0NmItMjljNC0xODRhLTU2MTg5YmM0/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg"  tvg-id="24.7.Dummy.us",VE-usa-hbo2
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" ,VE-usa-hbo2
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MWEzM2Y4MDQ5ZGQ3LTMzOWItMDFkNC1jNjgzLTRjMTc3YmMy/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/W_Network_2002_3D.svg"  tvg-id="24.7.Dummy.us",W Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/W_Network_2002_3D.svg" ,W Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Q5MjYyNTEyMTI4LTkwNjgtNGVhNC1mYjMyLTI2ZDdkYjdi/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s"  tvg-id="24.7.Dummy.us",Willow HD
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" ,Willow HD
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjRkZjRhNmI5NWUyLTg5YmItMDAwNC01MjEyLWY3ODBiNmE3/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg"  tvg-id="24.7.Dummy.us",Willow Xtra
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="Willow.Xtra.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg" ,Willow Xtra
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/World_Fishing_Network_OD.svg"  tvg-id="24.7.Dummy.us",World Fishing Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/World_Fishing_Network_OD.svg" ,World Fishing Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjYxZGEyZjg1YmZkLWJhMmItYTM4NC1lZGY2LWRmMjkyNzJl/master.m3u8?t=1749921996
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s"  tvg-id="24.7.Dummy.us",YES Network
-#EXTVLCOPT:http-origin=https://fstv.us
+#EXTINF:-1  tvg-id="YES.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" ,YES Network
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjUyYmM3NjUzMTFhLWNjMWEtN2M5NC01NjEzLTEwNThhNDE1/master.m3u8?t=1749921996
