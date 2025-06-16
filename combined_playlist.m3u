@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-16T03:25:06.583585 UTC
+# Generated on 2025-06-16T04:34:26.811559 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-16T02:41:50.679340Z
+# Last forced update: 2025-06-16T04:20:21.758036Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -2657,15 +2657,15 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zack.and.Miri.Make.a.Porno.2
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv
 
 #EXTGRP:FIFA Club World Cup
-#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="RUSH Sports" tvg-logo="https://i.imgur.com/BAzTqQp.png" ,CAR: RUSH Sports
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png"  radio="false",CAR: RUSH Sports
 https://a1xs.vip/2501
-#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" ,UK: Channel 5
+#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png"  radio="false",UK: Channel 5
 https://a1xs.vip/1000030
-#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" ,US: TBS
+#EXTINF:-1  tvg-name="TBS" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Ks8htcP.png"  radio="false",US: TBS
 https://a1xs.vip/300038
-#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" ,US: TNT
+#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png"  radio="false",US: TNT
 https://a1xs.vip/300001
-#EXTINF:-1  tvg-id="Live.Football.us" tvg-name="truTV FH" tvg-logo="https://i.imgur.com/D9Ofkf5.png" ,US: truTV
+#EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png"  radio="false",US: truTV
 https://a1xs.vip/300002
 
 #EXTGRP:JapanTV
@@ -3811,8 +3811,12 @@ https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/ind
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 
 #EXTGRP:Mystique Presents: Web Channels
-#EXTINF:-1  tvg-id="24.7.Dummy.us"  tvg-logo="https://tinyurl.com/disneydb24",Disney Channel DB (DoneBetter)
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://logomoose.com/wp-content/uploads/2013/04/LMA.jpg"  radio="false",Animania
+https://cdn.webvision.fun/memfs/b2748cbb-a572-4fa0-979b-1277fd050167_output_0.m3u8?session=LsuM3Zsi6eesDemRhBMjt3
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://tinyurl.com/disneydb24"  radio="false",Disney Channel DB (DoneBetter)
 https://de.bnkd.xyz/memfs/0b2776c9-95ef-4e43-ab2c-aadb73ee2f32_output_0.m3u8?session=WDmrTFsHf2q53pE7x7WzWq
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/spark-5-logo-png-transparent.png"  radio="false",Spark
+https://useast-1.webchnl.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
 
 #EXTGRP:Mystique UK
 #EXTINF:-1  tvg-id="4seven.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-seven-uk.png?raw=true"  radio="false",UK | 4seven
