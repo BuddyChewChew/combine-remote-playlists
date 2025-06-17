@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-17T22:21:15.904311 UTC
+# Generated on 2025-06-17T23:21:11.174351 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-17T21:50:44.967174Z
+# Last forced update: 2025-06-17T23:00:01.160519Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -1226,7 +1226,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-witness-uk.png?raw=true" ,Sky Witness HD
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium361%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" ,TNT Sports 1 UK
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv4%2Fvariant%2FVE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMlZjN1AjNkBTZxcTLjFWYh1SMkVGNtQWY3IWL5EWNhJzYjRzL.m3u8%3Fmd5%3DhOkVOJjSfNaU08_7mdK-ag%26expires%3D1750240390%26t%3D1750197190&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MWU2NjUwNmQwZTE3LWNhYWEtMWRlNC1kYTdiLTlhNWEyY2M0/master.m3u8?md5=4soseisT-1VJHwpL0Q-NZw&expires=1750240697&t=1750197497
 #EXTINF:-1  tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" ,TNT Sports 2 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium32%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" ,TNT Sports 3 UK
@@ -1239,6 +1242,38 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium451%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="Viaplay2(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-2-hz-uk.png?raw=true" ,Viaplay Sports 2 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium550%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+#EXTGRP:DaddyLive USA
+#EXTINF:-1  tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" ,A&E USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium302%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="ABC.(WSB).Atlanta,.GA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABC USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium51%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABCNY USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium766%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" ,ACC Network USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium664%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/adult-swim-us.png?raw=true" ,Adult Swim
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium295%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" ,Altitude Sports
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium923%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" ,AMC USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium303%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" ,Animal Planet
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium304%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true" ,AXS TV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium742%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="BBC.America.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" ,BBC America (BBCA)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium305%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-world-news-hz-uk.png?raw=true" ,BBC News Channel HD
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium349%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="beINSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,BeIN SPORTS USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium425%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" ,BET USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium306%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" ,BIG TEN Network (BTN USA)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium397%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Boomerang.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" ,Boomerang
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium648%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
 #EXTGRP:DaddyLive XXX
 #EXTINF:-1  tvg-name="18+ (Player-01)" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://i.imgur.com/B4sHlAb.png"  radio="false",18+ (Player-01)
