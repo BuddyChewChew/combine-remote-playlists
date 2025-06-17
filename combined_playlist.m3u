@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-17T04:31:03.681710 UTC
+# Generated on 2025-06-17T05:22:54.886304 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-17T03:59:25.565298Z
+# Last forced update: 2025-06-17T05:19:23.189635Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -1905,8 +1905,16 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTGRP:DrewLive Anime - DBZ
-#EXTINF:-1  tvg-name="Dragon Ball Z - S01E01 - The Arrival of Raditz" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E01%20-%20The%20Arrival%20of%20Raditz%20(Uncut)-thumb.jpg"  radio="false",Dragon Ball Z - S01E01 - The Arrival of Raditz (Uncut)
+#EXTINF:-1  tvg-name="Dragon Ball Z - S01E01 - The Arrival of Raditz" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/b/ba/DBZ_ep._1_Titlecard_%28Ocean_dub%29.jpg/revision/latest?cb=20120919132220"  radio="false",Dragon Ball Z - S01E01 - The Arrival of Raditz (Uncut)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E01%20-%20The%20Arrival%20of%20Raditz%20(Uncut).mp4
+#EXTINF:-1  tvg-name="Dragon Ball Z - S01E02 - The World's Strongest Team" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/9/97/DBZ_ep._2_Titlecard_%28Ocean_dub%29.jpg/revision/latest?cb=20191116185730"  radio="false",Dragon Ball Z - S01E02 - The World's Strongest Team (Uncut)
+http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E02%20-%20The%20World's%20Strongest%20Team%20(Uncut).mp4
+#EXTINF:-1  tvg-name="Dragon Ball Z - S01E03 - Gohan's Hidden Powers (Uncut)" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/b/bf/Episode_3_z.jpg/revision/latest?cb=20191116185925"  radio="false",Dragon Ball Z - S01E03 - Gohan's Hidden Powers (Uncut)
+http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E03%20-%20Gohan's%20Hidden%20Powers%20(Uncut).mp4
+#EXTINF:-1  tvg-name="Dragon Ball Z - S01E04 - Goku's Unusual Journey" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/1/14/Episode_4_z.jpg/revision/latest?cb=20191116190159"  radio="false",Dragon Ball Z - S01E04 - Goku's Unusual Journey
+http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E04%20-%20Goku's%20Unusual%20Journey.mp4
+#EXTINF:-1  tvg-name="Dragon Ball Z - S01E05 - Gohan's Metamorphosis" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/b/be/Episode_5_z.jpg/revision/latest/scale-to-width-down/1000?cb=20191116190349"  radio="false",Dragon Ball Z - S01E05 - Gohan's Metamorphosis
+http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E05%20-%20Gohan's%20Metamorphosis.mp4
 
 #EXTGRP:DrewLive Fan Made TV
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo"  radio="false",Cannabis Grow
