@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-18T04:31:27.132362 UTC
+# Generated on 2025-06-18T05:22:52.088296 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-18T04:17:40.979740Z
+# Last forced update: 2025-06-18T04:59:41.152599Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -1505,6 +1505,58 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjViOWU1N2E3MDQwLTMwZjk
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzAyMWIwZWZhNGRkLTczZmItNjYwNC0zNjMzLWU0NGVjOGNi/master.m3u8?md5=Mb0hlvyWXXoWnhqFLnt_lw&expires=1750260432&t=1750217232
+#EXTINF:-1  tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" ,Lifetime Movies Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTA3ZGIyZjlkNDEzLTgzNWItYTc0NC1kZWFhLWQ2ZDY5MGM2/master.m3u8?md5=6eHzr1is2Kj70T5cQFtayA&expires=1750262083&t=1750218883
+#EXTINF:-1  tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" ,Lifetime Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmY5ZjdlOWYzNTcyLTJlMzktM2E0NC1hN2IwLTQxZWIyNTM4/master.m3u8?md5=wBKzqm-TQPurE5mjszCTZw&expires=1750262141&t=1750218941
+#EXTINF:-1  tvg-id="Magnolia.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" ,Magnolia Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmU1NjNiMGM0NTdhLWRjNmEtNTc5NC1lYmZmLTUxNTlmNjEz/master.m3u8?md5=oXISZdBdP_g3zU8iErH1Gw&expires=1750262174&t=1750218974
+#EXTINF:-1  tvg-id="Marquee.Sports.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" ,Marquee Sports Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium770%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Mid-Atlantic.Sports.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" ,MASN USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium829%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="plex.tv.MAVTV.Select.plex" tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" ,MAVTV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium646%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Me.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" ,METV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium662%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" ,MGM+ USA / Epix
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium791%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="MLB.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB Network USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Monumental.Sports.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/monumental-sports-network-us.png?raw=true" ,Monumental Sports Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium778%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Motor.Trend.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" ,Motor Trend
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium661%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="MSG.-.Syracuse.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" ,MSG USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium765%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="MSNBC.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" ,MSNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmIyMzc5ZTZhZTgxLTg5ZWEtZWYwNC0wMmU4LTM2YTNkZWU5/master.m3u8?md5=wE4tk9ltqFf7TlixY1VClw&expires=1750266601&t=1750223401
+#EXTINF:-1  tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" ,MTV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWZkMzFkZDkzYzJiLTRkMjgtMzExNC1kMjc4LWJlMzkxYzdj/master.m3u8?md5=1u5wnvmD4b7LqF7AhDYvTQ&expires=1750266646&t=1750223446
+#EXTINF:-1  tvg-id="MNT.(WWOR).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/my-network-tv-us.png?raw=true" ,MY9TV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium654%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="National.Geographic.Wild.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" ,Nat Geo Wild USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium745%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" ,National Geographic (NGC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWNkODlhMTNmYTM5LWQzNWItMTUyNC00ODVjLWM3MjY1Yzlk/master.m3u8?md5=mpHv1Jy_er5S5RBFTz3TpA&expires=1750266833&t=1750223633
 
 #EXTGRP:DaddyLive XXX
 #EXTINF:-1  tvg-name="18+ (Player-01)" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://i.imgur.com/B4sHlAb.png"  radio="false",18+ (Player-01)
