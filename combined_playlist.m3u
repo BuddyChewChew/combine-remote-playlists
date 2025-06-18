@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-18T05:22:52.088296 UTC
+# Generated on 2025-06-18T06:33:41.823498 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-18T04:59:41.152599Z
+# Last forced update: 2025-06-18T05:57:57.918574Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -1295,7 +1295,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1  tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-us.png?raw=true" ,CMT USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium647%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="CNBC.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-us.png?raw=true" ,CNBC USA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium309%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NThlZWIyNzVhNTg1LTZkMjgtODczNC00NmE0LWNkOWY1YTEy/master.m3u8?md5=ttglz7Vx7rm8MkSo0f4mBQ&expires=1750267909&t=1750224709
 #EXTINF:-1  tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" ,CNN USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium345%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" ,Comedy Central
@@ -1557,6 +1560,76 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWNkODlhMTNmYTM5LWQzNWItMTUyNC00ODVjLWM3MjY1Yzlk/master.m3u8?md5=mpHv1Jy_er5S5RBFTz3TpA&expires=1750266833&t=1750223633
+#EXTINF:-1  tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" ,NBA TV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium404%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-hz-us.png?raw=true" ,NBC Sports Bay Area
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium753%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NBC.Sports.Boston.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-hz-us.png?raw=true" ,NBC Sports Boston
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium754%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-hz-us.png?raw=true" ,NBC Sports California
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium755%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" ,NBC Sports Philadelphia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjBjNDBhYmIzY2M2LWJmMTktZTBjNC03MmYyLWYyMGQ5YjMy/master.m3u8?md5=tqdvjxdGLAWMj8n-UwsZ0Q&expires=1750267729&t=1750224529
+#EXTINF:-1  tvg-id="NBC.(WMAQ).Chicago,.IL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBC USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NThlZWIyNzVhNTg1LTZkMjgtODczNC00NmE0LWNkOWY1YTEy/master.m3u8?md5=ttglz7Vx7rm8MkSo0f4mBQ&expires=1750267909&t=1750224709
+#EXTINF:-1  tvg-id="NBC.(WCAU).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBC10 Philadelphia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTM5ODRjNDBkMjhlLTVmYTktNGUyNC01ZjM4LWUyMzdmMzhm/master.m3u8?md5=8ByuJ9RMr3SDZpqsqAYHbQ&expires=1750267964&t=1750224764
+#EXTINF:-1  tvg-id="NBC.(WNBC).New.York,.NY.us   " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBCNY USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium769%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="New.England.Sports.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-hz-us.png?raw=true" ,NESN USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium762%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NewsMax.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" ,Newsmax USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium613%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-hz-us.png?raw=true" ,NewsNation USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzZiOTVlNmNjMDA1LTEwNGItZWY3NC1iZmIwLWY3NzJiYTY4/master.m3u8?md5=g95ymmY3pZ4BuBEh8R94LQ&expires=1750269230&t=1750226030
+#EXTINF:-1  tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" ,NFL Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium405%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" ,NHL Network USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium663%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" ,NICK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjU2YmY2ZDE4MTQxLTE5NzktZDQxNC05ZWE1LTFjMzlhOWU1/master.m3u8?md5=JG5hh8XBXNiYcs9DpXMw_A&expires=1750269379&t=1750226179
+#EXTINF:-1  tvg-id="Nick.Jr..-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" ,NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjU2YmY2ZDE4MTQxLTE5NzktZDQxNC05ZWE1LTFjMzlhOWU1/master.m3u8?md5=JG5hh8XBXNiYcs9DpXMw_A&expires=1750269379&t=1750226179
+#EXTINF:-1  tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium649%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" ,Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTI0Y2JmMDBjYjhjLWJhYjktMTcxNC1kMTc5LTYxNWQ4OWI0/master.m3u8?md5=nrTehy-jIwGu-i45K9XkqA&expires=1750269488&t=1750226288
+#EXTINF:-1  tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" ,Oxygen True Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGM5Nzk2OTE1ZDJjLTA5MWItNzE5NC1hYThlLTFjNmI5ODI4/master.m3u8?md5=cr2wkuPi3Spks1oGdYjrPQ&expires=1750269517&t=1750226317
+#EXTINF:-1  tvg-id="plex.tv.Pac-12.Insider.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-hz-us.png?raw=true" ,Pac-12 Network USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MWUzM2M5ODc0NmIzLWQ4NDgtOGI5NC0yMGVlLWVmMzljODg1/master.m3u8?md5=AI-BUo1mPixj6SvCQOQAzA&expires=1750269560&t=1750226360
+#EXTINF:-1  tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" ,Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGZhMjkxYWIwYzE3LTYzM2EtNWVmNC1lY2ZjLTkyN2RkZjUy/master.m3u8?md5=TVT58EPc-9hrngdioRAb4Q&expires=1750269592&t=1750226392
 
 #EXTGRP:DaddyLive XXX
 #EXTINF:-1  tvg-name="18+ (Player-01)" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://i.imgur.com/B4sHlAb.png"  radio="false",18+ (Player-01)
