@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-23T20:25:56.114951 UTC
+# Generated on 2025-06-23T21:21:38.130001 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -523,9 +523,9 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 # ---------------Backup Channels----------------
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (East)
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (West)
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1  tvg-id="",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -537,13 +537,13 @@ https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 https://streamer1.nexgen.bz//FOOD/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="",FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",HBO FAMILY (WEST)
+#EXTINF:-1  tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true",HBO FAMILY (WEST)
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV
+#EXTINF:-1  tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 #EXTINF:-1  tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",Laff
+#EXTINF:-1  tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)1
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-23T19:58:28.195979Z
+# Last forced update: 2025-06-23T20:57:41.428851Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -2690,7 +2690,7 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final.Destination.2.2003.108
 #EXTINF:-1  tvg-name="Final Destination 3 (2006)" tvg-id="Movie.Dummy.us" tvg-logo="https://i.ebayimg.com/images/g/AmUAAOSwUEVYCpFR/s-l1200.jpg"  radio="false",Final Destination 3 (2006)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final Destination 3 2006 (1080p x265 10bit Tigole).mkv
 #EXTINF:-1  tvg-name="Final Destination Bloodlines (2025)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI0ZjgwOWItNDc0Mi00MmMxLWIyMGMtZTlhMTc1ZDg2ZDM2XkEyXkFqcGc@._V1_.jpg"  radio="false",Final Destination Bloodlines (2025)
-http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final.Destination.BloodLines.2025.1080p.10bit.WEB-DL.DD5.1.x265.HEVC-AdL.mkv
+http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final%20Destination%20Bloodlines%202025%201080p%20WebRip%20EAC3%205%201%20x265-Lootera.mkv
 #EXTINF:-1  tvg-name="Finding Nemo (2003)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_.jpg"  radio="false",Finding Nemo (2003)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Finding Nemo 2003 1080p BluRay AV1 Opus 5.1 [981].mkv
 #EXTINF:-1  tvg-name="Freaky Friday (1995)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNhNDAyZWUtNmU3My00ZWRlLTkwYTgtMzZiYmNjNmM0MzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  radio="false",Freaky Friday (1995)
