@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-23T18:32:49.571612 UTC
+# Generated on 2025-06-23T19:18:14.012385 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -521,45 +521,45 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 
 
 # ---------------Backup Channels----------------
-#EXTINF:-1  tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (East)
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (West)
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 ,CNN
+#EXTINF:-1  tvg-id="",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,Charge
+#EXTINF:-1  tvg-id="",Charge
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
-#EXTINF:-1 ,Comet
+#EXTINF:-1  tvg-id="",Comet
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 ,FOOD
+#EXTINF:-1  tvg-id="",FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
-#EXTINF:-1  tvg-logo="",FX (SP/EN)
+#EXTINF:-1  tvg-id="" tvg-logo="",FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
-#EXTINF:-1  tvg-logo="",HBO FAMILY (WEST)
+#EXTINF:-1  tvg-id="" tvg-logo="",HBO FAMILY (WEST)
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1  tvg-logo="",HGTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV
 https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1710370016016/20240314T115242_hgtvlogo.png",HGTV (CA)
+#EXTINF:-1  tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
-#EXTINF:-1  tvg-logo="",Laff
+#EXTINF:-1  tvg-id="" tvg-logo="",Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1  tvg-logo="",TBS (East)
+#EXTINF:-1  tvg-id="" tvg-logo="",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-logo="",TBS (West)
+#EXTINF:-1  tvg-id="" tvg-logo="",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-logo="",TNT (East)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-logo="",TNT
+#EXTINF:-1  tvg-id="" tvg-logo="",TNT (East)1
 https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1  tvg-logo="",TNT (West)
+#EXTINF:-1  tvg-id="" tvg-logo="",TNT (East)2
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="",TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-logo="",TruTV (East)
+#EXTINF:-1  tvg-id="" tvg-logo="",TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-logo="",TruTV (West)
+#EXTINF:-1  tvg-id="" tvg-logo="",TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,USA NETWORK
+#EXTINF:-1  tvg-id="",USA NETWORK
 https://streamer1.nexgen.bz/USA/index.m3u8
 #EXTINF:-1  tvg-name="Hunt Fish TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",Hunt Fish TV (Stirr)
 https://jmp2.uk/str-5747.m3u8
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-23T18:16:07.424252Z
+# Last forced update: 2025-06-23T18:59:50.468702Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
