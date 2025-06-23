@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-23T19:18:14.012385 UTC
+# Generated on 2025-06-23T20:25:56.114951 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
@@ -545,15 +545,15 @@ https://streamer1.nexgen.bz/HGTV/index.m3u8
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="",Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",TBS (East)
+#EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)1
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",TBS (West)
+#EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)2
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",TNT (East)1
+#EXTINF:-1  tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)
 https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",TNT (East)2
+#EXTINF:-1  tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (West)1
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",TNT (West)
+#EXTINF:-1  tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (West)2
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="",TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
@@ -594,7 +594,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-23T18:59:50.468702Z
+# Last forced update: 2025-06-23T19:58:28.195979Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -611,22 +611,22 @@ http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=23lhYRMg_zD9MvEW0DX2Uw&expires=1750735609&t=1750692409
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=mblkh9hCtgShm00mCK127w&expires=1750749883&t=1750706683
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Q01UDaMIyvac0tvVhiLoAg&expires=1750735616&t=1750692416
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Fqj42G1n3iTF9MPcbJWimQ&expires=1750749892&t=1750706692
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=RkoBWurlnXo5xi1Ipuf_7w&expires=1750735601&t=1750692401
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=JfU0acwKFrjQrfULSg7LkQ&expires=1750749873&t=1750706673
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=b8bMcIG7OXj64gmzXIs7uA&expires=1750735624&t=1750692424
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ILWqtvQR6TCzsrdLmlo_6Q&expires=1750749900&t=1750706700
 
 #EXTGRP:A1xmedia AU Sports
 #EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png"  radio="false",Fox Sports 501 FHD
@@ -3071,6 +3071,48 @@ https://a1xs.vip/300038
 https://a1xs.vip/300001
 #EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png"  radio="false",US: truTV
 https://a1xs.vip/300002
+
+#EXTGRP:Football
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Al Ahly vs. FC Porto
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=BpknT4f2EKk_jExi-wQS0A&expires=1750749746&t=1750706546
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Bayern Munich vs. Benfica
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTg2OTU0ZWZiODYxLTkwOWEtMjA3NC01MmE1LTY5ZjJkZWY2/master.m3u8?md5=InEzCss9_buFJ3MP0MexpA&expires=1750749775&t=1750706575
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Boca Juniors vs. Auckland City
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=5rlhtHPKRXZQkCq_3IyglA&expires=1750749765&t=1750706565
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Botafogo vs. Atlético Madrid
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=W5ArvRx2S4Uv5XnNuAxexA&expires=1750749728&t=1750706528
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Chelsea vs. Esperance Sportive de Tunis
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=mL2L_191DBvlvYZJX1Ud_w&expires=1750749784&t=1750706584
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Flamengo vs. LAFC
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTg2OTU0ZWZiODYxLTkwOWEtMjA3NC01MmE1LTY5ZjJkZWY2/master.m3u8?md5=h_d8jDBpDluuYzo6FoHasg&expires=1750749795&t=1750706595
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Palmeiras vs. Inter Miami CF
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTg2OTU0ZWZiODYxLTkwOWEtMjA3NC01MmE1LTY5ZjJkZWY2/master.m3u8?md5=gwbUt1FBfmV2dDDEZWZX2g&expires=1750749756&t=1750706556
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Paris Saint-Germain vs. Seattle Sounders FC
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTg2OTU0ZWZiODYxLTkwOWEtMjA3NC01MmE1LTY5ZjJkZWY2/master.m3u8?md5=_e9MmElk92oo1xh096feFQ&expires=1750749737&t=1750706537
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,2025 Kaulig Companies Championship Final Round - GOLF Channel USA
