@@ -5,7 +5,8 @@ import re
 # Playlist URLs to combine
 playlists = [
     "https://tinyurl.com/drewall8",
-    "https://cdn.djdoolky76.net/udptv.m3u"
+    "https://cdn.djdoolky76.net/udptv.m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u"
 ]
 
 # Combined EPG URL
