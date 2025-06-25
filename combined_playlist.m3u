@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-25T01:56:01.585209 UTC
+# Generated on 2025-06-25T03:22:15.678529 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-24T23:47:27.352756Z
+# Last forced update: 2025-06-25T02:17:56.149777Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -14,33 +14,6 @@ https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/30731.ts
 #EXTINF:-1  tvg-name="Family Guy 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Image-420x236.png"  radio="false",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-
-#EXTGRP:24/7 Streams
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,(North) Korean Central Television
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=ZxNby6VaYDYF0gikJrxGpA&expires=1750681033&t=1750637833
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 COWS
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=SvraS6j1nk6rZijrF6BmWw&expires=1750681007&t=1750637807
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family Guy
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=1rYfNJ9aq8NTqCl9LAgFCw&expires=1750681016&t=1750637816
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 South Park
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=PdI0zJAMOHyuqYiQWY5TxA&expires=1750680999&t=1750637799
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 The Simpsons
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=r_0zT0tdkINjdqXLfO1MxQ&expires=1750681025&t=1750637825
 
 #EXTGRP:A1xmedia AU Sports
 #EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png"  radio="false",Fox Sports 501 FHD
@@ -462,22 +435,27 @@ https://a1xs.vip/8000011
 #EXTINF:-1  tvg-name="Star Sports Select 2 FHD" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png"  radio="false",Star Sports Select 2 FHD
 https://a1xs.vip/8000012
 
-#EXTGRP:Basketball
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" ,Liberty at Storm
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjMwNGFhYzBmNDQwLWFlYTktNjViNC0yZWJkLWQ1OTg3NzZk/master.m3u8?md5=lwWYPRIR5GGE3a4uFIzjNg&expires=1750680956&t=1750637756
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" ,Pacers at Thunder (Game 7)
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=dixJIa8J63UzoHPz66qJzA&expires=1750680966&t=1750637766
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" ,Sun at Valkyries
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzVkMGEyYmZiODBkLWQwYmItZGE1NC1kNjhmLTMxZDkyNjkz/master.m3u8?md5=gI5uH_NkhjkrQAXoJ7a-FQ&expires=1750680974&t=1750637774
+#EXTGRP:Baseball Action HD
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Arizona Diamondbacks vs. Chicago White Sox
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5%2Fmaster.m3u8%3Fmd5%3Dy-C-2j-vjYzYcIm1KC24HQ%26expires%3D1750860866%26t%3D1750817666&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Boston Red Sox vs. Los Angeles Angels
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm%2Fmaster.m3u8%3Fmd5%3D4IZLsYZ4JesB0FWSWPVReA%26expires%3D1750860932%26t%3D1750817732&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Chicago Cubs vs. St. Louis Cardinals
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4%2Fmaster.m3u8%3Fmd5%3DazYwxN57AnDy1SGSjDoN6w%26expires%3D1750860907%26t%3D1750817707&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Los Angeles Dodgers vs. Colorado Rockies
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4%2Fmaster.m3u8%3Fmd5%3DFOR2clif0D6T-R8I1_DVWQ%26expires%3D1750860924%26t%3D1750817724&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Miami Marlins vs. San Francisco Giants
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1%2Fmaster.m3u8%3Fmd5%3DWuHeGRjOMq_uvRzIF-I4jw%26expires%3D1750860948%26t%3D1750817748&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Philadelphia Phillies vs. Houston Astros
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl%2Fmaster.m3u8%3Fmd5%3DH4-CPML_2tC3S0ChskvrKA%26expires%3D1750860915%26t%3D1750817715&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Pittsburgh Pirates vs. Milwaukee Brewers
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj%2Fmaster.m3u8%3Fmd5%3DJALsNnqTCH4sXknDZ3StuQ%26expires%3D1750860879%26t%3D1750817679&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Seattle Mariners vs. Minnesota Twins
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0%2Fmaster.m3u8%3Fmd5%3DzZxvKaaxbUjr-Pp4do18hQ%26expires%3D1750860890%26t%3D1750817690&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Tampa Bay Rays vs. Kansas City Royals
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm%2Fmaster.m3u8%3Fmd5%3Dgy9nZXkge_pNymq0Z3Y4Ow%26expires%3D1750860898%26t%3D1750817698&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Washington Nationals vs. San Diego Padres
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5%2Fmaster.m3u8%3Fmd5%3DnuXOJ7RWVzVwzfI5Up76hQ%26expires%3D1750860940%26t%3D1750817740&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
 
 #EXTGRP:DaddyLive AU
 #EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,beIN SPORTS Australia 1
@@ -2227,17 +2205,11 @@ https://a1xs.vip/300001
 #EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png"  radio="false",US: truTV
 https://a1xs.vip/300002
 
-#EXTGRP:Football
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football.png" ,Al Ain vs. Manchester City
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=kNAPu8lbHEoGES7Ejj8pPw&expires=1750680991&t=1750637791
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football.png" ,Al Hilal vs. RB Salzburg
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=YhyqyrZHt6pNq893EMoU5g&expires=1750680983&t=1750637783
+#EXTGRP:Global Football Streams
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Chelsea vs. Esperance Sportive de Tunis
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz%2Fmaster.m3u8%3Fmd5%3DSrfNQse7eVuaksq9uRCLhA%26expires%3D1750860991%26t%3D1750817791&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" ,Flamengo vs. LAFC
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1OTg2OTU0ZWZiODYxLTkwOWEtMjA3NC01MmE1LTY5ZjJkZWY2%2Fmaster.m3u8%3Fmd5%3DqnQWmklU2rs7qhyXnHPBZw%26expires%3D1750860999%26t%3D1750817799&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
 
 #EXTGRP:Hoops Central
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's 3x3 Basketball : Mongolia Australia vs Madagascar, China vs Poland - TVP Sport Poland
@@ -2413,6 +2385,26 @@ http://vthanh.utako.moe/wprime/index.m3u8
 #EXTINF:-1  tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png" ,ytv
 http://vthanh.utako.moe/ytv/index.m3u8
 
+#EXTGRP:Live Basketball Hub
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball3.png" ,Fever at Storm
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZjMwNGFhYzBmNDQwLWFlYTktNjViNC0yZWJkLWQ1OTg3NzZk%2Fmaster.m3u8%3Fmd5%3DcC-U7be-vz6-DrWGHZlVww%26expires%3D1750860983%26t%3D1750817783&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball3.png" ,Lynx at Mystics
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ODJmYjIwOWQ2OWI1LTgzYWItODk2NC0zZmNjLTExYTdjOWM3%2Fmaster.m3u8%3Fmd5%3DUXRvRSPH1N0wUaBA3ZD5Fg%26expires%3D1750860957%26t%3D1750817757&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball3.png" ,Sparks at Sky
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MDEzNjFmNjFkYjBiLTA5NmItNWJkNC0wMDczLTJlNTZjOWQ5%2Fmaster.m3u8%3Fmd5%3DX2-5478G5FqCGMbTl7CfUw%26expires%3D1750860965%26t%3D1750817765&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+
+#EXTGRP:Live Channels 24/7
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,(North) Korean Central Television
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0%2Fmaster.m3u8%3Fmd5%3DJJKwo9NXVo5lfL9hRi-ezg%26expires%3D1750861129%26t%3D1750817929&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 COWS
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz%2Fmaster.m3u8%3Fmd5%3DiiAhzpqt4wYxsDE7ZEfmvg%26expires%3D1750861105%26t%3D1750817905&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family Guy
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk%2Fmaster.m3u8%3Fmd5%3DoCDS0wPGw-DdElo4KnR94A%26expires%3D1750861113%26t%3D1750817913&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 South Park
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz%2Fmaster.m3u8%3Fmd5%3D2sWrrxADZR8XC-l5w48gHg%26expires%3D1750861097%26t%3D1750817897&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 The Simpsons
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4%2Fmaster.m3u8%3Fmd5%3DFDsnYKSvv2dQjdnKxK240A%26expires%3D1750861121%26t%3D1750817921&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+
 #EXTGRP:MLB
 #EXTINF:-1  tvg-name="Arizona Diamondbacks @ Chicago White Sox (06/24 7:40 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Arizona Diamondbacks @ Chicago White Sox (06/24 7:40 PM ET) HD
 https://tvpass.org/live/mlb-03/hd
@@ -2474,6 +2466,18 @@ https://tvpass.org/live/mlb-30/sd
 https://tvpass.org/live/mlb-02/hd
 #EXTINF:-1  tvg-name="Washington Nationals @ San Diego Padres (06/24 9:41 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Washington Nationals @ San Diego Padres (06/24 9:41 PM ET) SD
 https://tvpass.org/live/mlb-02/sd
+
+#EXTGRP:Motorsport Live
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" ,F1: Austrian Grand Prix (Practice 1)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy%2Fmaster.m3u8%3Fmd5%3Ddne7Uy_2glC1veZ1MJiLbQ%26expires%3D1750861007%26t%3D1750817807&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" ,F1: Austrian Grand Prix (Practice 2)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy%2Fmaster.m3u8%3Fmd5%3DlZLqRhoowvWbBS4u-JXsDQ%26expires%3D1750861015%26t%3D1750817815&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" ,F1: Austrian Grand Prix (Practice 3)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy%2Fmaster.m3u8%3Fmd5%3DJ25FqZi7yV-FjmW1dnchSQ%26expires%3D1750861023%26t%3D1750817823&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" ,F1: Austrian Grand Prix (Qualifying)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy%2Fmaster.m3u8%3Fmd5%3Dhw6N4EHPyPvWlTMf6Xk4KA%26expires%3D1750861031%26t%3D1750817831&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" ,F1: Austrian Grand Prix (Race)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhipaf6u2j3pwygg.nice-flower.store%2Fv3%2Fdirector%2FVE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy%2Fmaster.m3u8%3Fmd5%3Dl6fWbSpRHRmhHQWhSozgIg%26expires%3D1750861040%26t%3D1750817840&data=T3JpZ2luPWh0dHBzOi8vdmVwbGF5LnRvcHxSZWZlcmVyPWh0dHBzOi8vdmVwbGF5LnRvcC98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDAuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDAuMA%3D%3D
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
