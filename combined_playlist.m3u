@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-27T04:31:28.215587 UTC
+# Generated on 2025-06-27T05:22:55.247587 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-27T03:23:29.533177Z
+# Last forced update: 2025-06-27T04:56:27.990627Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12335,13 +12335,13 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1  tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 http://cord-cutter.net:8080/bn80NG/909467/59056
-#EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC Network
+#EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
 https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
-#EXTINF:-1  tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heros Channel
+#EXTINF:-1  tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",AMERICAN HEROS CHANNEL
 http://143.244.60.30/American_Heroes_Channel/index.m3u8
-#EXTINF:-1  tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
+#EXTINF:-1  tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",ANIMAL PLANET
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1  tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",(Broken)
 http://143.244.60.30/Antenna/index.m3u8
@@ -12369,7 +12369,7 @@ http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
 http://143.244.60.30/BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",BOOMERANG
 http://143.244.60.30/BOOMERANG/index.m3u8
-#EXTINF:-1  tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",(Broken)
+#EXTINF:-1  tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",BOUNCE
 http://143.244.60.30/BOUNCE_TV/index.m3u8
 #EXTINF:-1  tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
 http://143.244.60.30/BRAVO/index.m3u8
@@ -12556,8 +12556,6 @@ http://143.244.60.30/MTV_LIVE/index.m3u8
 http://143.244.60.30/MTV_2/index.m3u8
 #EXTINF:-1  tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",MTVU
 http://143.244.60.30/MTV_U/index.m3u8
-#EXTINF:-1  tvg-id="Much.Music.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH MUSIC",MUCH MUSIC
-http://cord-cutter.net:8080/bn80NG/909467/215268
 #EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",NATIONAL GEOGRAPHIC CHANNEL
 http://143.244.60.30/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",NATIONAL GEOGRAPHIC WILD
