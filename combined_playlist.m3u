@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-27T06:34:12.179288 UTC
+# Generated on 2025-06-27T07:22:41.785475 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-27T05:56:31.935371Z
+# Last forced update: 2025-06-27T06:56:22.507412Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12590,7 +12590,7 @@ http://143.244.60.30/NBA_8/index.m3u8
 http://143.244.60.30/NBA_9/index.m3u8
 #EXTINF:-1  tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1  tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC GOLF
+#EXTINF:-1  tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",(Broken)
 http://143.244.60.30/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NEWSNATION
 http://143.244.60.30/NEWS_NATION/index.m3u8
@@ -12654,8 +12654,10 @@ http://143.244.60.30/NHL_8/index.m3u8
 http://143.244.60.30/NHL_9/index.m3u8
 #EXTINF:-1  tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL NETWORK
 http://143.244.60.30/NHL_NETWORK/index.m3u8
-#EXTINF:-1  tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON
+#EXTINF:-1  tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON 1
 http://cord-cutter.net:8080/bn80NG/909467/38
+#EXTINF:-1  tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON 2
+https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 #EXTINF:-1  tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NICKJR
 http://143.244.60.30/NICK_JR/index.m3u8
 #EXTINF:-1  tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NICKMUSIC
@@ -12716,12 +12718,14 @@ http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 #EXTINF:-1  tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel",SPORTSMAN CHANNEL
 http://143.244.60.30/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM
+#EXTINF:-1  tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",(Broken)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
 #EXTINF:-1  tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",(Broken)
 http://143.244.60.30/Start_Tv/index.m3u8
-#EXTINF:-1  tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS
+#EXTINF:-1  tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS (EAST)
 http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1  tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ (WEST)
+http://143.244.60.30/STARZ_WEST/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY
 http://143.244.60.30/STARZ_COMEDY/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",STARS EDGE
@@ -12734,8 +12738,6 @@ http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
 http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" tvg-name="Starz Encore Westerns",STARS ENCORE WESTERNS
 http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1  tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ WEST
-http://143.244.60.30/STARZ_WEST/index.m3u8
 #EXTINF:-1  tvg-id="SundanceTV.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" tvg-name="SundanceTV",SUNDANCE
 http://143.244.60.30/SUNDANCE/index.m3u8
 #EXTINF:-1  tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
@@ -12814,6 +12816,8 @@ https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 http://143.244.60.30/Comedy_Central/index.m3u8
 #EXTINF:-1  tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",Comet
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1  tvg-id="Deja.View.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dejaview-ca.png?raw=true",DEJA VIEW
+https://tvnow.best/api/stream/burns/burns/livetv.epg/deja.view.ca.m3u8
 #EXTINF:-1  tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true",FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
 #EXTINF:-1  tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true",FX (SP/EN)
