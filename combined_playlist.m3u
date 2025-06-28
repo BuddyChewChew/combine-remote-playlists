@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-28T15:21:36.765881 UTC
+# Generated on 2025-06-28T16:26:24.366042 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-28T15:14:02.336401Z
+# Last forced update: 2025-06-28T15:56:38.013282Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12676,10 +12676,8 @@ http://143.244.60.30/ION_TV/index.m3u8
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1  tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1  tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",LAFF TV 1
+#EXTINF:-1  tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",LAFF TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1  tvg-id="Laff.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",LAFF TV 2
-http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1  tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",LIFETIME
 http://143.244.60.30/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-name="Lifetime Movies Network",LIFETIME MOVIE NETWORK
