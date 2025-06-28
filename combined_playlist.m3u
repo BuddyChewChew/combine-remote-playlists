@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-28T07:20:34.866948 UTC
+# Generated on 2025-06-28T08:27:42.451972 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-28T07:11:57.378597Z
+# Last forced update: 2025-06-28T08:21:49.093535Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12824,12 +12824,48 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 
 
 # -----------24/7--------------------
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTINF:-1  tvg-id="ACLCornholeTV.us",ACL Cornhole TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
 #EXTINF:-1  tvg-id="BilliardTV.us",Billiard TV (1080p)
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
+http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Off The Air / Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Your Pretty Face is Going to Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Tim and Eric Awesome Show
+http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 # -------------------------------
 
 
