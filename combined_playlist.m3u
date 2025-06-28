@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-28T05:22:40.592257 UTC
+# Generated on 2025-06-28T06:30:45.037358 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-28T04:58:45.627147Z
+# Last forced update: 2025-06-28T05:56:16.070893Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12711,22 +12711,36 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 http://143.244.60.30/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",(Broken)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
-#EXTINF:-1  tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",(Broken)
+#EXTINF:-1  tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",START TV
 http://143.244.60.30/Start_Tv/index.m3u8
-#EXTINF:-1  tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS (EAST)
+#EXTINF:-1  tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS (EAST) 1
+http://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1  tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS (EAST) 2
 http://143.244.60.30/STARZ/index.m3u8
-#EXTINF:-1  tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ (WEST)
+#EXTINF:-1  tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ (WEST) 1
+http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1  tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ (WEST) 2
 http://143.244.60.30/STARZ_WEST/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY
+http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1  tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY
 http://143.244.60.30/STARZ_COMEDY/index.m3u8
-#EXTINF:-1  tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",STARS EDGE
+#EXTINF:-1  tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",STARS EDGE 1
+http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1  tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",STARS EDGE 2
 http://143.244.60.30/STARZ_EDGE/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore",STARS ENCORE
+http://fl1.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1  tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",STARS ENCORE ACTION 1
 http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1  tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",STARS ENCORE ACTION
+#EXTINF:-1  tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",STARS ENCORE ACTION 2
 http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1  tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC
+#EXTINF:-1  tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC 1
 http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC 2
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" tvg-name="Starz Encore Westerns",STARS ENCORE WESTERNS
+http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1  tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" tvg-name="Starz Encore Westerns",STARS ENCORE WESTERNS
 http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1  tvg-id="SundanceTV.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" tvg-name="SundanceTV",SUNDANCE
