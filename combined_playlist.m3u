@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-28T08:27:42.451972 UTC
+# Generated on 2025-06-28T09:24:07.805887 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-28T08:21:49.093535Z
+# Last forced update: 2025-06-28T08:43:24.685689Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12826,8 +12826,10 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 # -----------24/7--------------------
 #EXTINF:-1  tvg-id="ACLCornholeTV.us",ACL Cornhole TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
-#EXTINF:-1  tvg-id="BilliardTV.us",Billiard TV (1080p)
+#EXTINF:-1  tvg-id="BilliardTV.us",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1  tvg-id="World.Poker.Tour.distro"  tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/World_Poker_Tourin_logo.svg.png?raw=true",WORLD POKER TOUR
+https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
