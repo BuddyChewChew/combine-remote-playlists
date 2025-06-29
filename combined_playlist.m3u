@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-29T06:32:20.304882 UTC
+# Generated on 2025-06-29T07:20:52.151863 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-29T05:38:19.473813Z
+# Last forced update: 2025-06-29T06:46:13.158228Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12739,14 +12739,18 @@ http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK 3
 http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore",DARCIZZLE OFFSHORE
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore",DARCIZZLE OFFSHORE
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",HUNT&FISH TV (STIRR)
 https://jmp2.uk/str-5747.m3u8
 # -----------
 
+#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="",-
+https://jmp2.uk/str-5747.m3u8
 
 # -----------24/7--------------------
+#EXTINF:-1  tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1  tvg-id="ACLCornholeTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/cornhole.png?raw=true",ACL CORNHOLE TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
 #EXTINF:-1  tvg-id="BilliardTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true",BILLIARD TV
@@ -12760,19 +12764,6 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",FAMILY GUY
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-
-#EXTINF:-1  tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-
-#EXTINF:-1 tvg-id="InfoWars.us",InfoWars Network
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars The Alex Jones Show
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars The American Journal
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars War Room With Owen Shroyer
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us",Aqua Teen Hunger Force
@@ -12811,6 +12802,16 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 
 
 # ------------NEWS-------------------
+#EXTINF:-1  tvg-id="InfoWars.us",InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1  tvg-id="",InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="",InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1  tvg-id="",InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" ,News 12 ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" ,News 12+ ("New Jersey" Edison NJ)
