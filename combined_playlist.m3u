@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-30T18:32:40.580423 UTC
+# Generated on 2025-06-30T19:17:32.419103 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-30T17:54:11.720348Z
+# Last forced update: 2025-06-30T19:10:48.703892Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12142,15 +12142,8 @@ http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 
 
-
-
-
-#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" ,SONY CHANNEL
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" ,SONY CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1  tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM CHANNEL
