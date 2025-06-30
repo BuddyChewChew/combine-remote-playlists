@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-30T06:35:16.772955 UTC
+# Generated on 2025-06-30T07:24:20.940679 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-30T06:14:11.688879Z
+# Last forced update: 2025-06-30T07:01:05.804784Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11734,7 +11734,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC",ABC (WABC) 2
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS (WCBS)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" ,CBS (WCBS) 1
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1  tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS (WCBS) 2
@@ -11918,32 +11917,74 @@ http://143.244.60.30/CNBC/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1  tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL
+
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" ,CNN INTERNATIONAL 1
+http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1  tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL 2
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
+
 #EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (EAST)
 https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4.m3u8
+
 #EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (WEST)1
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (WEST)2
 http://143.244.60.30/Comedy_Central/index.m3u8
-#EXTINF:-1  tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",COMET 1
+
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" ,COMET 1
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1  tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",COMET 2
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1  tvg-id="Comet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET 2
+#EXTINF:-1  tvg-id="Comet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET 3
 http://143.244.60.30/COMET/index.m3u8
-#EXTINF:-1  tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="COOKING CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" ,COOKING CHANNEL 1
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING CHANNEL 2
 http://143.244.60.30/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-id="Court.TV.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV
+
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="COURT TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" ,COURT TV 1
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1  tvg-id="Court.TV.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV 2
 http://143.244.60.30/COURT_TV/index.m3u8
-#EXTINF:-1  tvg-id="COZITV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV",COZI TV
+
+#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="COZI TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" ,COZI TV 1
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1  tvg-id="COZITV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV",COZI TV 2
 http://143.244.60.30/COZI_TV/index.m3u8
+
 #EXTINF:-1  tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
 http://143.244.60.30/CRAVE_1/index.m3u8
-#EXTINF:-1  tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
+
+#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-name="CRAVE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" ,CRAVE 2a
+http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1  tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2b
 http://143.244.60.30/CRAVE_2/index.m3u8
+
 #EXTINF:-1  tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
 http://143.244.60.30/CRAVE_3/index.m3u8
-#EXTINF:-1  tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+
+http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CRAVE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" ,CRAVE 4a
+#EXTINF:-1  tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4b
 http://143.244.60.30/CRAVE_4/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation",CRIME+INVESTIGATION
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1  tvg-id="CTV.Nature.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-nature-channel-ca.png?raw=true" tvg-name="CTV NATURE",CTV NATURE
@@ -11989,8 +12030,12 @@ http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1750259767-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-2d0e00aa737194ef8afd0c44ff8c512c|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 #EXTINF:-1  tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://143.244.60.30/FOX_SOUL/index.m3u8
-#EXTINF:-1  tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM",FREEFORM
+
+#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="FREEFORM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" ,FREEFORM (WEST)1
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1  tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM",FREEFORM (WEST)2
 http://143.244.60.30/FREE_FORM/index.m3u8
+
 #EXTINF:-1  tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/freemoviesplus.png?raw=true",FREE MOVIES PLUS (LG)
 https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1  tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
@@ -12163,7 +12208,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 
 
 
-#EXTINF:-1 tvg-id="Sony.Channel.ch" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" ,SONY CHANNEL
+#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" ,SONY CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
