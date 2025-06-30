@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-30T16:29:25.338049 UTC
+# Generated on 2025-06-30T17:20:04.222388 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-30T16:15:21.944257Z
+# Last forced update: 2025-06-30T16:44:41.208750Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11793,12 +11793,12 @@ http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1  tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",ASPIRE 2
 http://143.244.60.30/Aspire/index.m3u8
 
-#EXTINF:-1 tvg-shift="+3" tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" ,--- BBC AMERICA (WEST) 1
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" ,BBC AMERICA (WEST) 1
 http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1  tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA (WEST) 2
 http://143.244.60.30/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" ,BBC WORLD NEWS 1
+#EXTINF:-1 tvg-shift="3" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" ,BBC WORLD NEWS 1
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1  tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS 2
 http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
@@ -12420,7 +12420,7 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1  tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",-
+#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- LOCAL NEWS ---
 https://jmp2.uk/str-5747.m3u8
 
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" ,News 12 ("New Jersey" Edison NJ)
@@ -12451,149 +12451,126 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 # -------------------------------
 
-#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",-
+#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- EVENTS ---
 https://jmp2.uk/str-5747.m3u8
 
 # -------------EVENTS------------------
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 1",PPV 1
 http://fl1.moveonjoy.com/PPV_1/index.m3u8
-
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 2",PPV 2
 http://fl1.moveonjoy.com/PPV_2/index.m3u8
-
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 3",PPV 3
 http://fl1.moveonjoy.com/PPV_3/index.m3u8
-
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 4",PPV 4
 http://fl1.moveonjoy.com/PPV_4/index.m3u8
-
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 5",PPV 5
 http://fl1.moveonjoy.com/PPV_5/index.m3u8
-
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6",PPV 6
 http://fl3.moveonjoy.com/PPV_6/index.m3u8
 
 
+
+
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 01
+http://fl1.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 02
+http://fl1.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 03" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 03
+http://fl1.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 04" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 04
+http://fl1.moveonjoy.com/MLB_4/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 05" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 05
+http://fl1.moveonjoy.com/MLB_5/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 06" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 06
+http://fl1.moveonjoy.com/MLB_6/index.m3u8
+#EXTINF:-1  tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 07" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB 07
+http://fl1.moveonjoy.com/MLB_7/index.m3u8
+
+
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 1",NBA 1
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 2",NBA 2
 http://fl5.moveonjoy.com/NBA_2/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 3",NBA 3
 http://fl5.moveonjoy.com/NBA_3/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 4",NBA 4
 http://fl5.moveonjoy.com/NBA_4/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 5",NBA 5
 http://fl5.moveonjoy.com/NBA_5/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 6",NBA 6
 http://fl5.moveonjoy.com/NBA_6/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 7",NBA 7
 http://fl5.moveonjoy.com/NBA_7/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 8",NBA 8
 http://fl5.moveonjoy.com/NBA_8/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 9",NBA 9
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 10",NBA 10
 http://fl5.moveonjoy.com/NBA_10/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 11",NBA 11
 http://fl5.moveonjoy.com/NBA_11/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
 http://fl1.moveonjoy.com/NBA_12/index.m3u8
-
 #EXTINF:-1  tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
 http://fl1.moveonjoy.com/NBA_13/index.m3u8
 
+
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 1",NFL 1
 http://fl3.moveonjoy.com/NFL_1/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 2",NFL 2
 http://fl3.moveonjoy.com/NFL_2/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 3",NFL 3
 http://fl3.moveonjoy.com/NFL_3/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 4",NFL 4
 http://fl3.moveonjoy.com/NFL_4/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 5",NFL 5
 http://fl2.moveonjoy.com/NFL_5/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 6",NFL 6
 http://fl3.moveonjoy.com/NFL_6/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 7",NFL 7
 http://fl3.moveonjoy.com/NFL_7/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 8",NFL 8
 http://fl3.moveonjoy.com/NFL_8/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 9",NFL 9
 http://fl3.moveonjoy.com/NFL_9/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFl 10",NFL 10
 http://fl3.moveonjoy.com/NFL_10/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 11",NFL 11
 http://fl3.moveonjoy.com/NFL_11/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 12",NFL 12
 http://fl3.moveonjoy.com/NFL_12/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 13",NFL 13
 http://fl3.moveonjoy.com/NFL_13/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 14",NFL 14
 http://fl3.moveonjoy.com/NFL_14/index.m3u8
-
 #EXTINF:-1  tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 15",NFL 15
 http://fl3.moveonjoy.com/NFL_15/index.m3u8
 
+
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 1",NHL 1
 http://fl1.moveonjoy.com/NHL_1/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 2",NHL 2
 http://fl1.moveonjoy.com/NHL_2/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 3",NHL 3
 http://fl1.moveonjoy.com/NHL_3/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 4",NHL 4
 http://fl1.moveonjoy.com/NHL_4/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 5",NHL 5
 http://fl1.moveonjoy.com/NHL_5/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 6",NHL 6
 http://fl1.moveonjoy.com/NHL_6/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 7",NHL 7
 http://fl1.moveonjoy.com/NHL_7/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 8",NHL 8
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 9",NHL 9
 http://fl1.moveonjoy.com/NHL_9/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 10",NHL 10
 http://fl5.moveonjoy.com/NHL_10/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 11",NHL 11
 http://fl5.moveonjoy.com/NHL_11/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 12",NHL 12
 http://fl5.moveonjoy.com/NHL_12/index.m3u8
-
 #EXTINF:-1  tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 13",NHL 13
 http://fl5.moveonjoy.com/NHL_13/index.m3u8
 
