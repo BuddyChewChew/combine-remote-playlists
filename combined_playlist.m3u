@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-30T02:00:57.081031 UTC
+# Generated on 2025-06-30T03:55:07.596312 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-30T01:09:29.104204Z
+# Last forced update: 2025-06-30T03:02:18.494296Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11798,7 +11798,6 @@ http://143.244.60.30/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png"   tvg-name="BET",BET 1
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
-
 #EXTINF:-1  tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET 2
 http://143.244.60.30/BET_EAST/index.m3u8
 
@@ -11995,7 +11994,7 @@ http://143.244.60.30/HBO_ZONE/index.m3u8
 http://143.244.60.30/HGTV/index.m3u8
 #EXTINF:-1  tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV 2
 https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1  tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
+#EXTINF:-1  tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true" tvg-name="HGTV NZ",HGTV (NZ)
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1  tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 1
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
@@ -12298,13 +12297,13 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 https://jmp2.uk/str-5747.m3u8
 
 # ------------NEWS-------------------
-#EXTINF:-1  tvg-id="NEWS.dummy.us",InfoWars Network
+#EXTINF:-1  tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars Network
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1  tvg-id="NEWS.dummy.us",InfoWars The Alex Jones Show
+#EXTINF:-1  tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The Alex Jones Show
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1  tvg-id="NEWS.dummy.us",InfoWars The American Journal
+#EXTINF:-1  tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The American Journal
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1  tvg-id="NEWS.dummy.us",InfoWars War Room With Owen Shroyer
+#EXTINF:-1  tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",-
