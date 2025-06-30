@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-06-30T05:25:39.245573 UTC
+# Generated on 2025-06-30T06:35:16.772955 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-06-30T04:59:58.073640Z
+# Last forced update: 2025-06-30T06:14:11.688879Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11875,18 +11875,17 @@ http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="Movie.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX",ASTRO CINEMAX
 https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-
 #EXTINF:-1  tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" ,CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" ,CINEMAX EAST 1
 http://fl1.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST 1
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST 2
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" ,CINEMAX EAST 2
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" ,CINEMAX EAST 3
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" ,CINEMAX WEST
+#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" ,CINEMAX WEST (OFFLINE)
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1  tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
@@ -11894,7 +11893,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="CINEMAX OUTERMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" ,CINEMAX OUTERMAX 1
 http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1  tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX 2
+#EXTINF:-1  tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",CINEMAX OUTER MAX 2
 http://143.244.60.30/OUTER_MAX/index.m3u8
 
 #EXTINF:-1  tvg-id="Charge.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true",Charge
@@ -11905,19 +11904,16 @@ http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1  tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV 2
 http://143.244.60.30/Cleo_TV/index.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" ,CMT 1
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1  tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT 2
 http://143.244.60.30/CMT/index.m3u8
-#EXTINF:-1  tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC
+
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" ,CNBC 1
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1  tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC",CNBC 2
 http://143.244.60.30/CNBC/index.m3u8
+
 #EXTINF:-1  tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1  tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN 2
@@ -12162,6 +12158,19 @@ http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1  tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
 http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sony.Channel.ch" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" ,SONY CHANNEL
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM CHANNEL
 http://fl1.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1  tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",START TV
