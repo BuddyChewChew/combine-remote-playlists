@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-01T16:29:30.479489 UTC
+# Generated on 2025-07-01T17:20:57.090471 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-01T15:57:40.142479Z
+# Last forced update: 2025-07-01T16:55:11.893845Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -12501,6 +12501,17 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
 https://jmp2.uk/str-5747.m3u8
 # --------- (STIRR)
 
+
+
+
+
+
+
+
+
+
+
+
 # -----------
 
 #EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", 24/7 PROGRAMS
@@ -12510,8 +12521,10 @@ https://jmp2.uk/str-5747.m3u8
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1  tvg-id="ACLCornholeTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/cornhole.png?raw=true", ACL CORNHOLE TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
+
 #EXTINF:-1  tvg-id="BilliardTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true", BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
 #EXTINF:-1  tvg-name="World Poker Tour" tvg-id="USBD1700009P5" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/wpt.png?raw=true", WORLD POKER TOUR
 https://jmp2.uk/sam-USBD1700009P5.m3u8
 #EXTINF:-1  tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", REDBULL
@@ -12523,14 +12536,35 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 #EXTINF:-1  tvg-id="plex.tv.80`s.Sitcom.Flashback.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png", 80'S SITCOM FLASHBACK
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png", SNL VAULT
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
-
 #EXTINF:-1  tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
+
+
+
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png", SNL VAULT
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
+
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png", FAMILY GUY
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
+
+http://cord-cutter.net:8080/hq3y4G/234247/66269
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 FAMILY GUY" ,24/7 FAMILY GUY
+http://cord-cutter.net:8080/hq3y4G/234247/66317
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 RICK AND MORTY" , RICK AND MORTY
+http://cord-cutter.net:8080/hq3y4G/234247/66302
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" ,SOUTH PARK
+http://cord-cutter.net:8080/hq3y4G/234247/66401
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 FRIENDS" ,FRIEND
+http://cord-cutter.net:8080/hq3y4G/234247/66407
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="The KING OF QUEENS" ,THE KING OF QUEENS
+http://cord-cutter.net:8080/hq3y4G/234247/79567
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us", Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
