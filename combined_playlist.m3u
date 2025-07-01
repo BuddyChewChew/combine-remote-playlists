@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-01T05:26:08.447426 UTC
+# Generated on 2025-07-01T06:35:01.155294 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-01T04:58:03.791675Z
+# Last forced update: 2025-07-01T05:49:39.119536Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11729,10 +11729,8 @@ http://143.244.60.30/ACC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" ,AMC THRILLERS
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Stories.by.AMC.plex" tvg-name="STORIES BY AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" ,STORIES BY AMC
+#EXTINF:-1 tvg-id="plex.tv.Stories.by.AMC.plex" tvg-name="STORIES BY AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" ,STORIES BY AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="AMERICAN HEROES CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" ,AMERICAN HEROES CHANNEL 1
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
@@ -12420,7 +12418,9 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png",SNL VAULT
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
+
 #EXTINF:-1  tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",FAMILY GUY
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
