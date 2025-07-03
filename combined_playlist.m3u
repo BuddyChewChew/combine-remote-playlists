@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-03T03:22:55.451995 UTC
+# Generated on 2025-07-03T04:34:13.635621 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-03T02:17:28.902913Z
+# Last forced update: 2025-07-03T03:35:38.315552Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11929,7 +11929,7 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1  tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E", A&E
-http://cord-cutter.net:8080/bn80NG/909467/59056
+http://cord-cutter.net:8080/bn80NG/909467/2201
 
 #EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK", ACC NETWORK
 http://143.244.60.30/ACC_NETWORK/index.m3u8
@@ -12076,17 +12076,25 @@ http://143.244.60.30/COURT_TV/index.m3u8
 #EXTINF:-1  tvg-id="COZITV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV", COZI TV
 http://143.244.60.30/COZI_TV/index.m3u8
 
-#EXTINF:-1  tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1", CRAVE 1 (OFFLINE)
-http://143.244.60.30/CRAVE_1/index.m3u8
 
+#EXTINF:-1  tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1", CRAVE 1
+http://143.244.60.30/CRAVE_1/index.m3u8
+#EXTINF:-1  tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1", CRAVE 1HD
+http://cord-cutter.net:8080/bn80NG/909467/57309
 #EXTINF:-1  tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2", CRAVE 2 
 http://143.244.60.30/CRAVE_2/index.m3u8
-
-#EXTINF:-1  tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3", CRAVE 3 (OFFLINE)
+#EXTINF:-1  tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2", CRAVE 2HD
+http://cord-cutter.net:8080/bn80NG/909467/57310
+#EXTINF:-1  tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3", CRAVE 3
 http://143.244.60.30/CRAVE_3/index.m3u8
-
+#EXTINF:-1  tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3", CRAVE 3HD
+http://cord-cutter.net:8080/bn80NG/909467/57322
 #EXTINF:-1  tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4", CRAVE 4
 http://143.244.60.30/CRAVE_4/index.m3u8
+#EXTINF:-1  tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4", CRAVE 4HD
+http://cord-cutter.net:8080/bn80NG/909467/57311
+
+
 
 #EXTINF:-1  tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation", CRIME+INVESTIGATION
 http://143.244.60.30/Crime_and_Investigation_Network/index.m3u8
