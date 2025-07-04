@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-04T01:55:22.726333 UTC
+# Generated on 2025-07-04T03:20:18.867853 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-04T01:39:23.419447Z
+# Last forced update: 2025-07-04T03:10:24.397576Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11385,14 +11385,12 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1  tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE 1
 http://143.244.60.30/FUSE/index.m3u8
 
-#EXTINF:-1  tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="(OFFLINE)", FUSE 2
+#EXTINF:-1  tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE 2", FUSE 2
 http://cord-cutter.net:8080/hq3y4G/234247/46701
-
 
 #EXTINF:-1  tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX", FX
 http://143.244.60.30/FX/index.m3u8
 # https://tvnow.best/api/stream/burns/burns/livetv.epg/super.channel.fuse.ca.m3u8
-
 
 #EXTINF:-1  tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX", FX
 http://cord-cutter.net:8080/bn80NG/909467/46690
