@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-07T13:35:26.103196 UTC
+# Generated on 2025-07-07T14:23:25.505565 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-07T13:22:49.723060Z
+# Last forced update: 2025-07-07T13:49:40.059685Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3238,6 +3238,10 @@ http://vthanh.utako.moe/wprime/index.m3u8
 http://vthanh.utako.moe/ytv/index.m3u8
 
 #EXTGRP:MLB
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ San Diego Padres (07/07 9:41 PM ET) HD" ,Arizona Diamondbacks @ San Diego Padres (07/07 9:41 PM ET) HD
+https://tvpass.org/live/mlb-02/hd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ San Diego Padres (07/07 9:41 PM ET) SD" ,Arizona Diamondbacks @ San Diego Padres (07/07 9:41 PM ET) SD
+https://tvpass.org/live/mlb-02/sd
 #EXTINF:-1  tvg-name="Baltimore Orioles @ Atlanta Braves (07/06 11:36 AM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Baltimore Orioles @ Atlanta Braves (07/06 11:36 AM ET) HD
 https://tvpass.org/live/mlb-28/hd
 #EXTINF:-1  tvg-name="Baltimore Orioles @ Atlanta Braves (07/06 11:36 AM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Baltimore Orioles @ Atlanta Braves (07/06 11:36 AM ET) SD
@@ -3254,6 +3258,14 @@ https://tvpass.org/live/mlb-25/sd
 https://tvpass.org/live/mlb-18/hd
 #EXTINF:-1  tvg-name="Cincinnati Reds @ Philadelphia Phillies (07/06 1:36 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Cincinnati Reds @ Philadelphia Phillies (07/06 1:36 PM ET) SD
 https://tvpass.org/live/mlb-18/sd
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Guardians @ Houston Astros (07/07 8:10 PM ET) HD" ,Cleveland Guardians @ Houston Astros (07/07 8:10 PM ET) HD
+https://tvpass.org/live/mlb-06/hd
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Guardians @ Houston Astros (07/07 8:10 PM ET) SD" ,Cleveland Guardians @ Houston Astros (07/07 8:10 PM ET) SD
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Boston Red Sox (07/07 7:11 PM ET) HD" ,Colorado Rockies @ Boston Red Sox (07/07 7:11 PM ET) HD
+https://tvpass.org/live/mlb-22/hd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Boston Red Sox (07/07 7:11 PM ET) SD" ,Colorado Rockies @ Boston Red Sox (07/07 7:11 PM ET) SD
+https://tvpass.org/live/mlb-22/sd
 #EXTINF:-1  tvg-name="Detroit Tigers @ Cleveland Guardians (07/06 1:41 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Detroit Tigers @ Cleveland Guardians (07/06 1:41 PM ET) HD
 https://tvpass.org/live/mlb-30/hd
 #EXTINF:-1  tvg-name="Detroit Tigers @ Cleveland Guardians (07/06 1:41 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Detroit Tigers @ Cleveland Guardians (07/06 1:41 PM ET) SD
@@ -3270,6 +3282,14 @@ https://tvpass.org/live/mlb-09/sd
 https://tvpass.org/live/mlb-12/hd
 #EXTINF:-1  tvg-name="Los Angeles Angels @ Toronto Blue Jays (07/06 1:38 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Los Angeles Angels @ Toronto Blue Jays (07/06 1:38 PM ET) SD
 https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ Milwaukee Brewers (07/07 7:40 PM ET) HD" ,Los Angeles Dodgers @ Milwaukee Brewers (07/07 7:40 PM ET) HD
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ Milwaukee Brewers (07/07 7:40 PM ET) SD" ,Los Angeles Dodgers @ Milwaukee Brewers (07/07 7:40 PM ET) SD
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ Cincinnati Reds (07/07 7:11 PM ET) HD" ,Miami Marlins @ Cincinnati Reds (07/07 7:11 PM ET) HD
+https://tvpass.org/live/mlb-04/hd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ Cincinnati Reds (07/07 7:11 PM ET) SD" ,Miami Marlins @ Cincinnati Reds (07/07 7:11 PM ET) SD
+https://tvpass.org/live/mlb-04/sd
 #EXTINF:-1  tvg-name="Milwaukee Brewers @ Miami Marlins (07/06 1:41 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Milwaukee Brewers @ Miami Marlins (07/06 1:41 PM ET) HD
 https://tvpass.org/live/mlb-07/hd
 #EXTINF:-1  tvg-name="Milwaukee Brewers @ Miami Marlins (07/06 1:41 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Milwaukee Brewers @ Miami Marlins (07/06 1:41 PM ET) SD
@@ -3278,6 +3298,14 @@ https://tvpass.org/live/mlb-07/sd
 https://tvpass.org/live/mlb-24/hd
 #EXTINF:-1  tvg-name="New York Yankees @ New York Mets (07/06 1:40 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,New York Yankees @ New York Mets (07/06 1:40 PM ET) SD
 https://tvpass.org/live/mlb-24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ San Francisco Giants (07/07 9:46 PM ET) HD" ,Philadelphia Phillies @ San Francisco Giants (07/07 9:46 PM ET) HD
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ San Francisco Giants (07/07 9:46 PM ET) SD" ,Philadelphia Phillies @ San Francisco Giants (07/07 9:46 PM ET) SD
+https://tvpass.org/live/mlb-27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Kansas City Royals (07/07 7:40 PM ET) HD" ,Pittsburgh Pirates @ Kansas City Royals (07/07 7:40 PM ET) HD
+https://tvpass.org/live/mlb-05/hd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Kansas City Royals (07/07 7:40 PM ET) SD" ,Pittsburgh Pirates @ Kansas City Royals (07/07 7:40 PM ET) SD
+https://tvpass.org/live/mlb-05/sd
 #EXTINF:-1  tvg-name="Pittsburgh Pirates @ Seattle Mariners (07/06 4:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Pittsburgh Pirates @ Seattle Mariners (07/06 4:11 PM ET) HD
 https://tvpass.org/live/mlb-10/hd
 #EXTINF:-1  tvg-name="Pittsburgh Pirates @ Seattle Mariners (07/06 4:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Pittsburgh Pirates @ Seattle Mariners (07/06 4:11 PM ET) SD
@@ -3290,14 +3318,26 @@ https://tvpass.org/live/mlb-19/sd
 https://tvpass.org/live/mlb-23/hd
 #EXTINF:-1  tvg-name="St. Louis Cardinals @ Chicago Cubs (07/06 6:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,St. Louis Cardinals @ Chicago Cubs (07/06 6:11 PM ET) SD
 https://tvpass.org/live/mlb-23/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Detroit Tigers (07/07 6:41 PM ET) HD" ,Tampa Bay Rays @ Detroit Tigers (07/07 6:41 PM ET) HD
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Detroit Tigers (07/07 6:41 PM ET) SD" ,Tampa Bay Rays @ Detroit Tigers (07/07 6:41 PM ET) SD
+https://tvpass.org/live/mlb-21/sd
 #EXTINF:-1  tvg-name="Tampa Bay Rays @ Minnesota Twins (07/06 2:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Tampa Bay Rays @ Minnesota Twins (07/06 2:11 PM ET) HD
 https://tvpass.org/live/mlb-20/hd
 #EXTINF:-1  tvg-name="Tampa Bay Rays @ Minnesota Twins (07/06 2:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Tampa Bay Rays @ Minnesota Twins (07/06 2:11 PM ET) SD
 https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ Los Angeles Angels (07/07 9:38 PM ET) HD" ,Texas Rangers @ Los Angeles Angels (07/07 9:38 PM ET) HD
+https://tvpass.org/live/mlb-29/hd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ Los Angeles Angels (07/07 9:38 PM ET) SD" ,Texas Rangers @ Los Angeles Angels (07/07 9:38 PM ET) SD
+https://tvpass.org/live/mlb-29/sd
 #EXTINF:-1  tvg-name="Texas Rangers @ San Diego Padres (07/06 9:11 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Texas Rangers @ San Diego Padres (07/06 9:11 PM ET) HD
 https://tvpass.org/live/mlb-02/hd
 #EXTINF:-1  tvg-name="Texas Rangers @ San Diego Padres (07/06 9:11 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Texas Rangers @ San Diego Padres (07/06 9:11 PM ET) SD
 https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Blue Jays @ Chicago White Sox (07/07 7:41 PM ET) HD" ,Toronto Blue Jays @ Chicago White Sox (07/07 7:41 PM ET) HD
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Blue Jays @ Chicago White Sox (07/07 7:41 PM ET) SD" ,Toronto Blue Jays @ Chicago White Sox (07/07 7:41 PM ET) SD
+https://tvpass.org/live/mlb-03/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
@@ -11474,6 +11514,14 @@ http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ3&p=fb3f8f
 https://tvpass.org/live/WNBA03/hd
 #EXTINF:-1  tvg-name="Chicago Sky @ Minnesota Lynx (07/06 7:00 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Chicago Sky @ Minnesota Lynx (07/06 7:00 PM ET) SD
 https://tvpass.org/live/WNBA03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Wings @ Phoenix Mercury (07/07 10:00 PM ET) HD" ,Dallas Wings @ Phoenix Mercury (07/07 10:00 PM ET) HD
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Wings @ Phoenix Mercury (07/07 10:00 PM ET) SD" ,Dallas Wings @ Phoenix Mercury (07/07 10:00 PM ET) SD
+https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries @ Atlanta Dream (07/07 7:30 PM ET) HD" ,Golden State Valkyries @ Atlanta Dream (07/07 7:30 PM ET) HD
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries @ Atlanta Dream (07/07 7:30 PM ET) SD" ,Golden State Valkyries @ Atlanta Dream (07/07 7:30 PM ET) SD
+https://tvpass.org/live/WNBA01/sd
 #EXTINF:-1  tvg-name="Las Vegas Aces @ Connecticut Sun (07/06 4:00 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Las Vegas Aces @ Connecticut Sun (07/06 4:00 PM ET) HD
 https://tvpass.org/live/WNBA02/hd
 #EXTINF:-1  tvg-name="Las Vegas Aces @ Connecticut Sun (07/06 4:00 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" ,Las Vegas Aces @ Connecticut Sun (07/06 4:00 PM ET) SD
