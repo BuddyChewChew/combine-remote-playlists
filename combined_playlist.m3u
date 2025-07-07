@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-07T06:35:56.931828 UTC
+# Generated on 2025-07-07T07:24:06.355459 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-07T06:18:19.461766Z
+# Last forced update: 2025-07-07T06:49:37.995816Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11492,7 +11492,7 @@ Join NOW!! https://discord.gg/civ4
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
-# https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz
+# https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
 # -------------- Local TV --------------
 #EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
@@ -11983,7 +11983,7 @@ http://143.244.60.30/MTV_CLASSIC/index.m3u8
 #EXTINF:-1  tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live", MTV LIVE
 http://143.244.60.30/MTV_LIVE/index.m3u8
 
-#EXTINF:-1  tvg-id="X-Games.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU", MTVU
+#EXTINF:-1  tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU", MTVU
 http://143.244.60.30/MTV_U/index.m3u8
 
 # MTV-U.(MTV-U).us
