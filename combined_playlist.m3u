@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-07T05:26:27.328776 UTC
+# Generated on 2025-07-07T06:35:56.931828 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-07T05:02:05.575437Z
+# Last forced update: 2025-07-07T06:18:19.461766Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -11980,27 +11980,13 @@ http://143.244.60.30/MTV_2/index.m3u8
 #EXTINF:-1  tvg-id="MTV.Classic.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" tvg-name="MTV Classic", MTV CLASSIC
 http://143.244.60.30/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1  tvg-id="MTV.Live.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live", MTV LIVE
+#EXTINF:-1  tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live", MTV LIVE
 http://143.244.60.30/MTV_LIVE/index.m3u8
 
 #EXTINF:-1  tvg-id="X-Games.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU", MTVU
 http://143.244.60.30/MTV_U/index.m3u8
 
-
-
-
-
-
-
 # MTV-U.(MTV-U).us
-
-
-
-
-
-
-
-
 
 #EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic", NATIONAL GEOGRAPHIC CHANNEL
 http://143.244.60.30/National_Geographic/index.m3u8
@@ -12208,7 +12194,7 @@ http://143.244.60.30/VH1/index.m3u8
 #EXTINF:-1  tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" tvg-name="Vice", VICE
 http://143.244.60.30/VICELAND/index.m3u8
 
-#EXTINF:-1  tvg-id="W.(WTN).-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-name="W NETWORK", W NETWORK
+#EXTINF:-1  tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-name="W NETWORK", W NETWORK
 http://143.244.60.30/W_NETWORK/index.m3u8
 
 #EXTINF:-1  tvg-id="The.Weather.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" tvg-name="Weather Channel", WEATHER CHANNEL
