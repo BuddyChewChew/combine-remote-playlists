@@ -1,9 +1,13 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-08T04:32:50.009854 UTC
+# Generated on 2025-07-08T05:24:04.350911 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-08T04:05:46.221561Z
+# Last forced update: 2025-07-08T04:58:33.982538Z
+
+#EXTGRP: Mystique Caribbean
+#EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" , CVM (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66371
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3263,7 +3267,7 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 #EXTGRP:Mystique CA
 #EXTINF:-1  tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png"  radio="false",ABC Spark
-http://cord-cutter.net:8080/57252392/57252392/57375
+http://38.143.48.212:9981/stream/channelid/1016538297?profile=pass
 #EXTINF:-1  tvg-id="Addik.TV.HD.ca" tvg-logo="https://media.starlite.best/addik.tv.ca.png"  radio="false",ADDIK
 https://tvnow.best/api/stream/burns/burns/livetv.epg/addik.tv.ca.m3u8
 #EXTINF:-1  tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png"  radio="false",Adult Swim
@@ -3271,7 +3275,7 @@ http://supersonictv.live:8080/443870/997140/21818
 #EXTINF:-1  tvg-id="AMC.-.Canada.ca" tvg-logo="https://media.starlite.best/amc.canada.ca.png"  radio="false",AMC
 https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
 #EXTINF:-1  tvg-id="AMI-tv.East.ca" tvg-logo="https://media.starlite.best/ami.tl.ca.png"  radio="false",AMI-tele
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ami.tl.ca.m3u8
+https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
 #EXTINF:-1  tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png"  radio="false",APTN
 http://cord-cutter.net:8080/57252392/57252392/57320
 #EXTINF:-1  tvg-id="BBC.Earth.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/bbc-earth-ca.png"  radio="false",BBC Earth
@@ -3283,13 +3287,13 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/bnn.bloomberg.ca.m3u8
 #EXTINF:-1  tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png"  radio="false",Boomerang
 http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
 #EXTINF:-1  tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png"  radio="false",Bravo
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138734
+http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1  tvg-id="Canal.D.HD.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png"  radio="false",Canal D
 https://tvnow.best/api/stream/burns/burns/livetv.epg/canal.d.ca.m3u8
 #EXTINF:-1  tvg-id="Canal.Vie.HD.ca" tvg-logo="https://media.starlite.best/savoir.mdia.ca.png"  radio="false",Canal Savior
 https://tvnow.best/api/stream/burns/burns/livetv.epg/savoir.mdia.ca.m3u8
 #EXTINF:-1  tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png"  radio="false",Cartoon Network
-http://96.45.207.18:8881/channel/n7b0af04a/index.m3u8?q=1735600584362
+http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
 #EXTINF:-1  tvg-id="CASA.ca" tvg-logo="https://media.starlite.best/casa.ca.png"  radio="false",CASA
 https://tvnow.best/api/stream/burns/burns/livetv.epg/casa.ca.m3u8
 #EXTINF:-1  tvg-id="CBC.(CBRT).Calgary.AB.ca" tvg-logo="https://media.starlite.best/cbc.cbrt.calgary.ab.ca.png"  radio="false",CBC Calgary (CBRT)
@@ -3307,7 +3311,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.cbmt.montreal.qc.ca.m3u
 #EXTINF:-1  tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png"  radio="false",CBC News
 https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.news.network.ca.m3u8
 #EXTINF:-1  tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ottawa-ca.png"  radio="false",CBC Ottawa (CBOT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.cbot.ottawa.on.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
 #EXTINF:-1  tvg-id="CBC.Saskatchewan.(CBKT).ca" tvg-logo="https://media.starlite.best/cbc.cbkt.regina.sk.ca.png"  radio="false",CBC Regina (CBKT)
 https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.cbkt.regina.sk.ca.m3u8M
 #EXTINF:-1  tvg-id="CBC.(CBNT).St-Johns.NL.ca.ca" tvg-logo="https://media.starlite.best/cbc.cbnt.st.johns.nl.ca.png"  radio="false",CBC St.Johns (CBNT)
@@ -3327,9 +3331,9 @@ https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_
 #EXTINF:-1  tvg-id="CinÃ©pop.HDTV.(C-POPHD).ca" tvg-logo="https://media.starlite.best/cinpop.ca.png"  radio="false",Cinépop
 https://tvnow.best/api/stream/burns/burns/livetv.epg/cinpop.ca.m3u8
 #EXTINF:-1  tvg-id="CITY.Montreal.QC.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png"  radio="false",CityTV Montreal
-http://206.212.244.26/live/vasconeves/1742766045/40598.ts
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40598.ts
 #EXTINF:-1  tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png"  radio="false",CityTV Toronto
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138701
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
 #EXTINF:-1  tvg-id="CITY.Vancouver.BC.ca" tvg-logo="https://media.starlite.best/city.vancouver.bc.ca.png"  radio="false",CityTV Vancouver
 https://tvnow.best/api/stream/burns/burns/livetv.epg/city.vancouver.bc.ca.m3u8
 #EXTINF:-1  tvg-id="CITY.Winnipeg.MB.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png"  radio="false",CityTV Winnipeg
@@ -3355,13 +3359,13 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138730
 #EXTINF:-1  tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"  radio="false",CTV Calgary (CFCN)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png"  radio="false",CTV Comedy
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.comedy.east.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
 #EXTINF:-1  tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png"  radio="false",CTV Drama
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.drama.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 #EXTINF:-1  tvg-id="CTV.(CJCH).Halifax.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"  radio="false",CTV Halifax (CJCH)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cjch.halifax.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png"  radio="false",CTV Life
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.life.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/1405285984?profile=pass
 #EXTINF:-1  tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png"  radio="false",CTV Nature
 https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.science.canada.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png"  radio="false",CTV News
@@ -3371,7 +3375,7 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.news.channel.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.Regina.HDTV.(CKCK).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"  radio="false",CTV Regina (CKCK)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.ckck.regina.sk.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png"  radio="false",CTV Sci Fi
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.sci.fi.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 #EXTINF:-1  tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png"  radio="false",CTV Speed
 https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.velocity.ca.m3u8
 #EXTINF:-1  tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"  radio="false",CTV Toronto (CTFO)
@@ -3393,13 +3397,13 @@ http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
 #EXTINF:-1  tvg-id="CTV2.Vancouver.Island..BC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png"  radio="false",CTV2 Vancouver Island
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
 #EXTINF:-1  tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png"  radio="false",Deja View
-https://tvnow.best/api/stream/burns/burns/livetv.epg/deja.view.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/1478849894?profile=pass
 #EXTINF:-1  tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png"  radio="false",Discovery Channel
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
+http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
 #EXTINF:-1  tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png"  radio="false",Disney Channel
-http://96.45.207.18:8881/channel/n7323ea49/index.m3u8?q=1735600584362
+http://kstv.us:8080/live/Purn3542/38791114838/40725.ts
 #EXTINF:-1  tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png"  radio="false",Disney Jr.
-http://96.45.207.18:8881/channel/n3032cc1d/index.m3u8?q=1735600584362
+http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
 #EXTINF:-1  tvg-id="Disney.XD.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-xd-ca.png"  radio="false",Disney XD
 http://96.45.207.18:8881/channel/na3e18fa/index.m3u8?q=1735600584362
 #EXTINF:-1  tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png"  radio="false",Documentary
@@ -3423,7 +3427,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/647744.ts
 #EXTINF:-1  tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png"  radio="false",Family Jr
 https://tvnow.best/api/stream/burns/burns/livetv.epg/family.jr.ca.m3u8
 #EXTINF:-1  tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png"  radio="false",Flavour Network
-https://tvnow.best/api/stream/burns/burns/livetv.epg/food.network.canada.ca.m3u8
+http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1  tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"  radio="false",Food Network
 http://zorrohunter.com:80/live/WeaponX/Dawkins22/40710.ts
 #EXTINF:-1  tvg-id="Frissons.TV.HDTV.ca" tvg-logo="https://media.starlite.best/frissons.tv.ca.png"  radio="false",Frissons
@@ -3489,7 +3493,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/investigation.ca.m3u8
 #EXTINF:-1  tvg-id="Investigation.Discovery.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigation-discovery-us.png"  radio="false",Investigation Discovery
 http://zorrohunter.com:80/live/WeaponX/Dawkins22/40689.ts
 #EXTINF:-1  tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png"  radio="false",Knowledge Network
-http://206.212.244.26/live/vasconeves/1742766045/40687.ts
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40687.ts
 #EXTINF:-1  tvg-id="La.Chaine.Disney.ca" tvg-logo="https://media.starlite.best/la.chaine.disney.ca.png"  radio="false",La chaîne Disney
 https://tvnow.best/api/stream/burns/burns/livetv.epg/la.chaine.disney.ca.m3u8
 #EXTINF:-1  tvg-id="LCN.ca" tvg-logo="https://media.starlite.best/lcn.ca.png"  radio="false",LCN
@@ -3505,7 +3509,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/makeful.ca.m3u8
 #EXTINF:-1  tvg-id="MAX.ca" tvg-logo="https://media.starlite.best/max.ca.png"  radio="false",MAX
 https://tvnow.best/api/stream/burns/burns/livetv.epg/max.ca.m3u8
 #EXTINF:-1  tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png"  radio="false",Movie Time
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138725
+http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 #EXTINF:-1  tvg-id="Much.Music.HD.ca" tvg-logo="https://media.starlite.best/much.music.ca.png"  radio="false",Much
 https://tvnow.best/api/stream/burns/burns/livetv.epg/much.music.ca.m3u8
 #EXTINF:-1  tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png"  radio="false",National Geographic
@@ -3515,7 +3519,7 @@ http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/457.ts
 #EXTINF:-1  tvg-id="NBA.TV.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png"  radio="false",NBA TV Canada
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228720.ts
 #EXTINF:-1  tvg-id="Nickelodeon.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"  radio="false",Nickelodeon
-http://96.45.207.18:8881/channel/n2fe6fead/index.m3u8?q=1735600584362
+http://user.scalecdn.co:8080/live/26725074/92867131/3052.ts
 #EXTINF:-1  tvg-id="Noovo.Gatineau.HDTV.(NVGA).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"  radio="false",Noovo
 http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132090.ts
 #EXTINF:-1  tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-logo="https://media.starlite.best/noovo.vtele.ca.png"  radio="false",Noovo Montreal (CFJP)
@@ -3555,7 +3559,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/silver.screen.classics.ca.m
 #EXTINF:-1  tvg-id="Slice.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png"  radio="false",Slice
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138783
 #EXTINF:-1  tvg-id="Smithsonian.Channel.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png"  radio="false",Smithsonian Channel
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138697
+http://38.143.48.212:9981/stream/channelid/254901251?profile=pass
 #EXTINF:-1  tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png"  radio="false",Sportsnet 360
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
 #EXTINF:-1  tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png"  radio="false",Sportsnet East
@@ -3591,7 +3595,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/tele.quebec.civq.quebec.ca.
 #EXTINF:-1  tvg-id="Telelatino.ca" tvg-logo="https://d60d34ithxz8n.cloudfront.net/ca-logos/19aae87681fb7545a7f8b12b094f5eda.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD31WBFsj8IoPs%2BhFGP4SORJH9F4TJDNdNjQ53nuuYqHfLDOfzOOUfR1APiazFifTa"  radio="false",Telemag
 http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132096.ts
 #EXTINF:-1  tvg-id="TFO.-.Chaine.Francaise.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tfo-ca.png"  radio="false",TFO
-http://96.45.207.18:8881/channel/n5de8418/index.m3u8?q=1735600584362
+http://38.143.48.212:9981/stream/channelid/2028752686?profile=pass
 #EXTINF:-1  tvg-id="TLC.Canada.ca" tvg-logo="https://media.starlite.best/tlc.canada.ca.png"  radio="false",TLC
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tlc.canada.ca.m3u8
 #EXTINF:-1  tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png"  radio="false",TLN
@@ -3599,19 +3603,19 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/tln.west.ca.m3u8
 #EXTINF:-1  tvg-id="Treehouse.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png"  radio="false",Treehouse
 http://96.45.207.18:8881/channel/n12d872f0/index.m3u8?q=1735600584362
 #EXTINF:-1  tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png"  radio="false",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
 #EXTINF:-1  tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png"  radio="false",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1  tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png"  radio="false",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
 #EXTINF:-1  tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png"  radio="false",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
+http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
 #EXTINF:-1  tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png"  radio="false",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1  tvg-id="TV5.International.-.East.ca" tvg-logo="https://media.starlite.best/tv5.international.east.ca.png"  radio="false",TV5 Intern
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tv5.international.east.ca.m3u8
 #EXTINF:-1  tvg-id="TVA.(CFTM).MontrÃ©al.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png"  radio="false",TVA
-http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
+http://38.143.48.212:9981/stream/channelid/351521489?profile=pass
 #EXTINF:-1  tvg-id="TVA.(CFTM).MontrÃ©al.ca" tvg-logo="https://media.starlite.best/tva.cftm.montral.ca.png"  radio="false",TVA (CFTM)
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.cftm.montral.ca.m3u8
 #EXTINF:-1  tvg-id="TVA.(CFTM).MontrÃ©al.ca" tvg-logo="https://media.starlite.best/tva.chem.trois.rivieres.ca.png"  radio="false",TVA (CHEM)
@@ -3623,7 +3627,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.sports.ca.m3u8
 #EXTINF:-1  tvg-id="TVA.Sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png"  radio="false",TVA Sport 2
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.sports.2.ca.m3u8
 #EXTINF:-1  tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png"  radio="false",TVO
-TVO url: http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
 #EXTINF:-1  tvg-id="Teletoon.On.Demand.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png"  radio="false",TéléTOON
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tltoon.franais.ca.m3u8
 #EXTINF:-1  tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png"  radio="false",USA Network
@@ -3631,7 +3635,7 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138592
 #EXTINF:-1  tvg-id="Vision.TV.Eastern.ca" tvg-logo="https://media.starlite.best/vision.tv.ca.png"  radio="false",Vision TV
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138699
 #EXTINF:-1  tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="https://i.ibb.co/QFD0ZH55/Eg8fa2a0-200x200.png"  radio="false",W Network
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138785
+http://38.143.48.212:9981/stream/channelid/1265777165?profile=pass
 #EXTINF:-1  tvg-id="Weather.Network.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/the-weather-network-ca.png?raw=true"  radio="false",Weather Network
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138735
 #EXTINF:-1  tvg-id="Wild.TV.HD.ca" tvg-logo="https://media.starlite.best/wild.tv.ca.png"  radio="false",Wild TV
@@ -3641,13 +3645,29 @@ http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/13225.ts
 #EXTINF:-1  tvg-id="Yes.TV.(CITS).Burlington,.ON.HD.ca" tvg-logo="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png"  radio="false",Yes TV
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228788.ts
 #EXTINF:-1  tvg-id="YTV.(Youth.Television).-.East.HD.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png"  radio="false",YTV
-http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
+http://kstv.us:8080/live/Purn3542/38791114838/40663.ts
 #EXTINF:-1  tvg-id="YTV.(Youth.Television).-.Pacific.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png"  radio="false",YTV West
 http://user.scalecdn.co:8080/live/26725074/92867131/647755.ts
 #EXTINF:-1  tvg-id="Z.HD.ca" tvg-logo="https://media.starlite.best/z.ca.png"  radio="false",Z
 https://tvnow.best/api/stream/burns/burns/livetv.epg/z.ca.m3u8
 #EXTINF:-1  tvg-id="Zeste.HD.ca" tvg-logo="https://media.starlite.best/zeste.ca.png"  radio="false",Zeste
 https://tvnow.best/api/stream/burns/burns/livetv.epg/zeste.ca.m3u8
+
+#EXTGRP:Mystique Caribbean
+#EXTINF:-1 tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" , JNN (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/99566
+#EXTINF:-1 tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" , RETV (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/21094
+#EXTINF:-1 tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" , RUSH Sports (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/100043
+#EXTINF:-1 tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" , SPORTSMAX 2 (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/119471
+#EXTINF:-1 tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" , TV Direct 13 (Curaçao)
+http://1tv41.icu:8080/5ZCJFs/416986/216085
+#EXTINF:-1 tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" , TVJ (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/78918
+#EXTINF:-1 tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" , TVJ Sports (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66077
 
 #EXTGRP:Mystique NZ
 #EXTINF:-1  tvg-id="Bravo.PLUS.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/bravo-plus-nz.png?raw=true"  radio="false",Bravo +1
@@ -3690,12 +3710,18 @@ https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/ind
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 
 #EXTGRP:Mystique Presents: Web Channels
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://logomoose.com/wp-content/uploads/2013/04/LMA.jpg"  radio="false",Animania
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boomerang.png"  radio="false",Classic Boomerang 24/7
+https://cdn.webvision.fun/memfs/3cc2fa80-1aa6-4e09-b4cf-27c80f112fa9_output_0.m3u8?session=eYreWjjeY4PaubKtCNs9zg
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://webvision.fun/assets/logos/eel.png"  radio="false",EEL Channel (webchnl)
+https://delta.webchnl.live/memfs/1300c062-d4cd-402c-baf6-084dc5192fac.m3u8
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://webvision.fun/assets/logos/eel.png"  radio="false",EEL Channel (webvision)
+https://cdn.webvision.fun/memfs/6193a8f9-103d-4bdf-99f3-e563b748037b_output_0.m3u8?session=9xJSukt2hsS7AAbyzdGmHq
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Magic.png"  radio="false",MagicalTV
 https://cdn.webvision.fun/memfs/b2748cbb-a572-4fa0-979b-1277fd050167_output_0.m3u8?session=LsuM3Zsi6eesDemRhBMjt3
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://tinyurl.com/disneydb24"  radio="false",Disney Channel DB (DoneBetter)
-https://de.bnkd.xyz/memfs/0b2776c9-95ef-4e43-ab2c-aadb73ee2f32_output_0.m3u8?session=WDmrTFsHf2q53pE7x7WzWq
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/spark-5-logo-png-transparent.png"  radio="false",Spark
-https://useast-1.webchnl.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
+https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577_output_0.m3u8?session=k3biEf7ZLAsh6JVGCTJiLt
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/YuQ6w-gHkWVkfRWg/SlineSelect.png"  radio="false",Streamline Select
+http://plyr.streamlinecsn.online/memfs/f68af325-4915-4b07-8c96-0282daf2450e.m3u8
 
 #EXTGRP:Mystique UK
 #EXTINF:-1  tvg-id="4seven.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-seven-uk.png?raw=true"  radio="false",UK | 4seven
@@ -11273,7 +11299,7 @@ http://143.244.60.30/CBS_News/index.m3u8
 #EXTINF:-1  tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK", CBS SPORTS NETWORK
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1  tvg-id="Cinemax.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX", ASTRO CINEMAX
+#EXTINF:-1  tvg-id="CINEMAX.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX", ASTRO CINEMAX
 https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax", 5 STARMAX
