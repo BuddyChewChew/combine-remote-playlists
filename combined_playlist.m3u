@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-08T05:24:04.350911 UTC
+# Generated on 2025-07-08T06:34:58.261289 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-08T04:58:33.982538Z
+# Last forced update: 2025-07-08T05:47:29.856270Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" , CVM (Jamaica)
@@ -11995,6 +11995,383 @@ http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true"  tvg-id="24.7.Dummy.us", Tim and Eric Awesome Show
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
+
+
+# -----------24/7 MOVIES--------------------
+#EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 MOVIES ]
+https://jmp2.uk/str-5747.m3u8
+# -----------24/7 MOVIES --------------------
+
+
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: ANIMATION" ,CINEBOX: ANIMATION
+http://cord-cutter.net:8080/hq3y4G/234247/119420
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: BLOCKBUSTERS" ,CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/hq3y4G/234247/119421
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: CLASSIC" ,CINEBOX: CLASSIC
+http://cord-cutter.net:8080/hq3y4G/234247/119422
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: COMEDY" ,CINEBOX: COMEDY
+http://cord-cutter.net:8080/hq3y4G/234247/119423
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: CULT" ,CINEBOX: CULT
+http://cord-cutter.net:8080/hq3y4G/234247/119424
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: FAMILY" ,CINEBOX: FAMILY
+http://cord-cutter.net:8080/hq3y4G/234247/119425
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: GREATS" ,CINEBOX: GREATS
+http://cord-cutter.net:8080/hq3y4G/234247/119426
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: GREATS TWO" ,CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/hq3y4G/234247/119427
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: HISTORICAL" ,CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/hq3y4G/234247/119428
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="24/7 Horror Movies" ,24/7 Horror Movies
+http://cord-cutter.net:8080/hq3y4G/234247/119429
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: MUSICAL" ,CINEBOX: MUSICAL
+http://cord-cutter.net:8080/hq3y4G/234247/119430
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: MYSTERY" ,CINEBOX: MYSTERY
+http://cord-cutter.net:8080/hq3y4G/234247/119431
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: PREMIERE" ,CINEBOX: PREMIERE
+http://cord-cutter.net:8080/hq3y4G/234247/119432
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: ROMANCE" ,CINEBOX: ROMANCE
+http://cord-cutter.net:8080/hq3y4G/234247/119433
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: SCI-FI" ,CINEBOX: SCI-FI
+http://cord-cutter.net:8080/hq3y4G/234247/119434
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: WESTERN" ,CINEBOX: WESTERN
+http://cord-cutter.net:8080/hq3y4G/234247/119435
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: HITS" ,CINEBOX: HITS
+http://cord-cutter.net:8080/hq3y4G/234247/119436
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: THRILLER" ,CINEBOX: THRILLER
+http://cord-cutter.net:8080/hq3y4G/234247/119437
+
+
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Action" ,M4: Action
+http://cord-cutter.net:8080/hq3y4G/234247/215269
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Adventure" ,M4: Adventure
+http://cord-cutter.net:8080/hq3y4G/234247/215270
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Alien" ,M4: Alien
+http://cord-cutter.net:8080/hq3y4G/234247/215271
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Animation" ,M4: Animation
+http://cord-cutter.net:8080/hq3y4G/234247/215272
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Avengers" ,M4: Avengers
+http://cord-cutter.net:8080/hq3y4G/234247/215273
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Batman" ,M4: Batman
+http://cord-cutter.net:8080/hq3y4G/234247/215274
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Biography" ,M4: Biography
+http://cord-cutter.net:8080/hq3y4G/234247/215275
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Blade" ,M4: Blade
+http://cord-cutter.net:8080/hq3y4G/234247/215276
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Blade Runner" ,M4: Blade Runner
+http://cord-cutter.net:8080/hq3y4G/234247/215277
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Comedy" ,M4: Comedy
+http://cord-cutter.net:8080/hq3y4G/234247/215278
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Creature" ,M4: Creature
+http://cord-cutter.net:8080/hq3y4G/234247/215279
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Crime" ,M4: Crime
+http://cord-cutter.net:8080/hq3y4G/234247/215280
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Deadpool" ,M4: Deadpool
+http://cord-cutter.net:8080/hq3y4G/234247/215281
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Die Hard" ,M4: Die Hard
+http://cord-cutter.net:8080/hq3y4G/234247/215282
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Drama" ,M4: Drama
+http://cord-cutter.net:8080/hq3y4G/234247/215283
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Epic" ,M4: Epic
+http://cord-cutter.net:8080/hq3y4G/234247/215284
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Family" ,M4: Family
+http://cord-cutter.net:8080/hq3y4G/234247/215285
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fantasy" ,M4: Fantasy
+http://cord-cutter.net:8080/hq3y4G/234247/215286
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fast and the Furious" ,M4: Fast and the Furious
+http://cord-cutter.net:8080/hq3y4G/234247/215287
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Final Destination" ,M4: Final Destination
+http://cord-cutter.net:8080/hq3y4G/234247/215288
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ghostbusters" ,M4: Ghostbusters
+http://cord-cutter.net:8080/hq3y4G/234247/215289
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Hangover" ,M4: Hangover
+http://cord-cutter.net:8080/hq3y4G/234247/215290
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Harry Potter" ,M4: Harry Potter
+http://cord-cutter.net:8080/hq3y4G/234247/215291
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: History" ,M4: History
+http://cord-cutter.net:8080/hq3y4G/234247/215292
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Horror" ,M4: Horror
+http://cord-cutter.net:8080/hq3y4G/234247/215293
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ice Age" ,M4: Ice Age
+http://cord-cutter.net:8080/hq3y4G/234247/215294
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Indiana Jones" ,M4: Indiana Jones
+http://cord-cutter.net:8080/hq3y4G/234247/215295
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: James Bond (007)" ,M4: James Bond (007)
+http://cord-cutter.net:8080/hq3y4G/234247/215296
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: John Wick" ,M4: John Wick
+http://cord-cutter.net:8080/hq3y4G/234247/215297
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jurassic Park" ,M4: Jurassic Park
+http://cord-cutter.net:8080/hq3y4G/234247/215298
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kingsman" ,M4: Kingsman
+http://cord-cutter.net:8080/hq3y4G/234247/215299
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Legendary" ,M4: Legendary
+http://cord-cutter.net:8080/hq3y4G/234247/215300
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mad Max" ,M4: Mad Max
+http://cord-cutter.net:8080/hq3y4G/234247/215301
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Maze Runner" ,M4: Maze Runner
+http://cord-cutter.net:8080/hq3y4G/234247/215302
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Men in Black" ,M4: Men in Black
+http://cord-cutter.net:8080/hq3y4G/234247/215303
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mission Impossible" ,M4: Mission Impossible
+http://cord-cutter.net:8080/hq3y4G/234247/215304
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Musical" ,M4: Musical
+http://cord-cutter.net:8080/hq3y4G/234247/215305
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mystery" ,M4: Mystery
+http://cord-cutter.net:8080/hq3y4G/234247/215306
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mythological" ,M4: Mythological
+http://cord-cutter.net:8080/hq3y4G/234247/215307
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Oceans Eleven" ,M4: Oceans Eleven
+http://cord-cutter.net:8080/hq3y4G/234247/215308
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Pirates of the Caribbean" ,M4: Pirates of the Caribbean
+http://cord-cutter.net:8080/hq3y4G/234247/215309
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Planet of Apes" ,M4: Planet of Apes
+http://cord-cutter.net:8080/hq3y4G/234247/215310
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Post-Apocalyptic" ,M4: Post-Apocalyptic
+http://cord-cutter.net:8080/hq3y4G/234247/215311
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Resident Evil" ,M4: Resident Evil
+http://cord-cutter.net:8080/hq3y4G/234247/215312
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robot" ,M4: Robot
+http://cord-cutter.net:8080/hq3y4G/234247/215313
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Rocky" ,M4: Rocky
+http://cord-cutter.net:8080/hq3y4G/234247/215314
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Romantic" ,M4: Romantic
+http://cord-cutter.net:8080/hq3y4G/234247/215315
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Saw" ,M4: Saw
+http://cord-cutter.net:8080/hq3y4G/234247/215316
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Science Fiction" ,M4: Science Fiction
+http://cord-cutter.net:8080/hq3y4G/234247/215317
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sherlock Holmes" ,M4: Sherlock Holmes
+http://cord-cutter.net:8080/hq3y4G/234247/215318
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Shrek" ,M4: Shrek
+http://cord-cutter.net:8080/hq3y4G/234247/215319
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Space" ,M4: Space
+http://cord-cutter.net:8080/hq3y4G/234247/215320
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Spiderman" ,M4: Spiderman
+http://cord-cutter.net:8080/hq3y4G/234247/215321
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sports" ,M4: Sports
+http://cord-cutter.net:8080/hq3y4G/234247/215322
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Spy" ,M4: Spy
+http://cord-cutter.net:8080/hq3y4G/234247/215323
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Star Wars" ,M4: Star Wars
+http://cord-cutter.net:8080/hq3y4G/234247/215324
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Superhero" ,M4: Superhero
+http://cord-cutter.net:8080/hq3y4G/234247/215325
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Survival" ,M4: Survival
+http://cord-cutter.net:8080/hq3y4G/234247/215326
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Bourne" ,M4: The Bourne
+http://cord-cutter.net:8080/hq3y4G/234247/215327
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Conjuring" ,M4: The Conjuring
+http://cord-cutter.net:8080/hq3y4G/234247/215328
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Expendables" ,M4: The Expendables
+http://cord-cutter.net:8080/hq3y4G/234247/215329
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Godfather" ,M4: The Godfather
+http://cord-cutter.net:8080/hq3y4G/234247/215330
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Hobbit" ,M4: The Hobbit
+http://cord-cutter.net:8080/hq3y4G/234247/215331
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Hunger Games" ,M4: The Hunger Games
+http://cord-cutter.net:8080/hq3y4G/234247/215332
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Karete Kid" ,M4: The Karete Kid
+http://cord-cutter.net:8080/hq3y4G/234247/215333
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Lord of The Rings" ,M4: The Lord of The Rings
+http://cord-cutter.net:8080/hq3y4G/234247/215334
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Matrix" ,M4: The Matrix
+http://cord-cutter.net:8080/hq3y4G/234247/215335
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Mummy" ,M4: The Mummy
+http://cord-cutter.net:8080/hq3y4G/234247/215336
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Purge" ,M4: The Purge
+http://cord-cutter.net:8080/hq3y4G/234247/215337
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Terminator" ,M4: The Terminator
+http://cord-cutter.net:8080/hq3y4G/234247/215338
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Three Flavours Cornetto" ,M4: Three Flavours Cornetto
+http://cord-cutter.net:8080/hq3y4G/234247/215339
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Thriller" ,M4: Thriller
+http://cord-cutter.net:8080/hq3y4G/234247/215340
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Toy Story" ,M4: Toy Story
+http://cord-cutter.net:8080/hq3y4G/234247/215341
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Transformers" ,M4: Transformers
+http://cord-cutter.net:8080/hq3y4G/234247/215342
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Transporter" ,M4: Transporter
+http://cord-cutter.net:8080/hq3y4G/234247/215343
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Twilight Saga" ,M4: Twilight Saga
+http://cord-cutter.net:8080/hq3y4G/234247/215344
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: War" ,M4: War
+http://cord-cutter.net:8080/hq3y4G/234247/215345
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Western" ,M4: Western
+http://cord-cutter.net:8080/hq3y4G/234247/215346
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: X-Men" ,M4: X-Men
+http://cord-cutter.net:8080/hq3y4G/234247/215347
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Zombie" ,M4: Zombie
+http://cord-cutter.net:8080/hq3y4G/234247/215348
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Benedict Cumberbatch" ,M4: Benedict Cumberbatch
+http://cord-cutter.net:8080/hq3y4G/234247/215349
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Bradley Cooper" ,M4: Bradley Cooper
+http://cord-cutter.net:8080/hq3y4G/234247/215350
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Christian Bale" ,M4: Christian Bale
+http://cord-cutter.net:8080/hq3y4G/234247/215351
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cillian Murphy" ,M4: Cillian Murphy
+http://cord-cutter.net:8080/hq3y4G/234247/215352
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Edward Norton" ,M4: Edward Norton
+http://cord-cutter.net:8080/hq3y4G/234247/215353
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Hugh Jackman" ,M4: Hugh Jackman
+http://cord-cutter.net:8080/hq3y4G/234247/215354
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jack Nicholson" ,M4: Jack Nicholson
+http://cord-cutter.net:8080/hq3y4G/234247/215355
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jake Gyllenhaal" ,M4: Jake Gyllenhaal
+http://cord-cutter.net:8080/hq3y4G/234247/215356
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jamie Foxx" ,M4: Jamie Foxx
+http://cord-cutter.net:8080/hq3y4G/234247/215357
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jeff Bridges" ,M4: Jeff Bridges
+http://cord-cutter.net:8080/hq3y4G/234247/215358
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jim Carrey" ,M4: Jim Carrey
+http://cord-cutter.net:8080/hq3y4G/234247/215359
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Johnny Depp" ,M4: Johnny Depp
+http://cord-cutter.net:8080/hq3y4G/234247/215360
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Keanu Reeves" ,M4: Keanu Reeves
+http://cord-cutter.net:8080/hq3y4G/234247/215361
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Liam Neeson" ,M4: Liam Neeson
+http://cord-cutter.net:8080/hq3y4G/234247/215362
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mark Wahlberg" ,M4: Mark Wahlberg
+http://cord-cutter.net:8080/hq3y4G/234247/215363
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Matt Damon" ,M4: Matt Damon
+http://cord-cutter.net:8080/hq3y4G/234247/215364
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Micheal Caine" ,M4: Micheal Caine
+http://cord-cutter.net:8080/hq3y4G/234247/215365
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Morgan Freeman" ,M4: Morgan Freeman
+http://cord-cutter.net:8080/hq3y4G/234247/215366
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Russell Crowe" ,M4: Russell Crowe
+http://cord-cutter.net:8080/hq3y4G/234247/215367
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ryan Reynolds" ,M4: Ryan Reynolds
+http://cord-cutter.net:8080/hq3y4G/234247/215368
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Samuel L. Jakson" ,M4: Samuel L. Jakson
+http://cord-cutter.net:8080/hq3y4G/234247/215369
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Cruise" ,M4: Tom Cruise
+http://cord-cutter.net:8080/hq3y4G/234247/215370
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Hanks" ,M4: Tom Hanks
+http://cord-cutter.net:8080/hq3y4G/234247/215371
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Will Smith" ,M4: Will Smith
+http://cord-cutter.net:8080/hq3y4G/234247/215372
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Adam Sandler" ,M4: Adam Sandler
+http://cord-cutter.net:8080/hq3y4G/234247/215373
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Arnold Schwarzenegger" ,M4: Arnold Schwarzenegger
+http://cord-cutter.net:8080/hq3y4G/234247/215374
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Daniel Craig" ,M4: Daniel Craig
+http://cord-cutter.net:8080/hq3y4G/234247/215375
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Dwayne Johnson" ,M4: Dwayne Johnson
+http://cord-cutter.net:8080/hq3y4G/234247/215376
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Gerard Butler" ,M4: Gerard Butler
+http://cord-cutter.net:8080/hq3y4G/234247/215377
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jackie Chan" ,M4: Jackie Chan
+http://cord-cutter.net:8080/hq3y4G/234247/215378
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jason Statham" ,M4: Jason Statham
+http://cord-cutter.net:8080/hq3y4G/234247/215379
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kevin Hart" ,M4: Kevin Hart
+http://cord-cutter.net:8080/hq3y4G/234247/215380
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Orlando Bloom" ,M4: Orlando Bloom
+http://cord-cutter.net:8080/hq3y4G/234247/215381
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sylvester Stallone" ,M4: Sylvester Stallone
+http://cord-cutter.net:8080/hq3y4G/234247/215382
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Hardy" ,M4: Tom Hardy
+http://cord-cutter.net:8080/hq3y4G/234247/215383
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Amy Adams" ,M4: Amy Adams
+http://cord-cutter.net:8080/hq3y4G/234247/215384
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Anne Hathaway" ,M4: Anne Hathaway
+http://cord-cutter.net:8080/hq3y4G/234247/215385
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Brie Larson" ,M4: Brie Larson
+http://cord-cutter.net:8080/hq3y4G/234247/215386
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cate Blanchett" ,M4: Cate Blanchett
+http://cord-cutter.net:8080/hq3y4G/234247/215387
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Charlize Theron" ,M4: Charlize Theron
+http://cord-cutter.net:8080/hq3y4G/234247/215388
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Halle Berry" ,M4: Halle Berry
+http://cord-cutter.net:8080/hq3y4G/234247/215389
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Helen Mirren" ,M4: Helen Mirren
+http://cord-cutter.net:8080/hq3y4G/234247/215390
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Brad Pitt" ,M4: Brad Pitt
+http://cord-cutter.net:8080/hq3y4G/234247/215391
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Al Pacino" ,M4: Al Pacino
+http://cord-cutter.net:8080/hq3y4G/234247/215392
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Denzel Washington" ,M4: Denzel Washington
+http://cord-cutter.net:8080/hq3y4G/234247/215393
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Vin Diesel" ,M4: Vin Diesel
+http://cord-cutter.net:8080/hq3y4G/234247/215394
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Bruce Willis" ,M4: Bruce Willis
+http://cord-cutter.net:8080/hq3y4G/234247/215395
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robert Downey Jr" ,M4: Robert Downey Jr
+http://cord-cutter.net:8080/hq3y4G/234247/215396
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Leonardo DiCaprio" ,M4: Leonardo DiCaprio
+http://cord-cutter.net:8080/hq3y4G/234247/215397
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Angelina Jolie" ,M4: Angelina Jolie
+http://cord-cutter.net:8080/hq3y4G/234247/215398
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Alicia Vikander" ,M4: Alicia Vikander
+http://cord-cutter.net:8080/hq3y4G/234247/215399
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Emma Stone" ,M4: Emma Stone
+http://cord-cutter.net:8080/hq3y4G/234247/215400
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Emma Watson" ,M4: Emma Watson
+http://cord-cutter.net:8080/hq3y4G/234247/215401
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jennifer Lawrence" ,M4: Jennifer Lawrence
+http://cord-cutter.net:8080/hq3y4G/234247/215402
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Julia Roberts" ,M4: Julia Roberts
+http://cord-cutter.net:8080/hq3y4G/234247/215403
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Julianne Moore" ,M4: Julianne Moore
+http://cord-cutter.net:8080/hq3y4G/234247/215404
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kate Winslet" ,M4: Kate Winslet
+http://cord-cutter.net:8080/hq3y4G/234247/215405
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Keira Knightley" ,M4: Keira Knightley
+http://cord-cutter.net:8080/hq3y4G/234247/215406
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kristen Stewart" ,M4: Kristen Stewart
+http://cord-cutter.net:8080/hq3y4G/234247/215407
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Lupita Nyong` o" ,M4: Lupita Nyong` o
+http://cord-cutter.net:8080/hq3y4G/234247/215408
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Margot Robbie" ,M4: Margot Robbie
+http://cord-cutter.net:8080/hq3y4G/234247/215409
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Meryl Streep" ,M4: Meryl Streep
+http://cord-cutter.net:8080/hq3y4G/234247/215410
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Michelle Pfeiffer" ,M4: Michelle Pfeiffer
+http://cord-cutter.net:8080/hq3y4G/234247/215411
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Natalie Portman" ,M4: Natalie Portman
+http://cord-cutter.net:8080/hq3y4G/234247/215412
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Nicole Kidman" ,M4: Nicole Kidman
+http://cord-cutter.net:8080/hq3y4G/234247/215413
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Rachel McAdams" ,M4: Rachel McAdams
+http://cord-cutter.net:8080/hq3y4G/234247/215414
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Reese Witherspoon" ,M4: Reese Witherspoon
+http://cord-cutter.net:8080/hq3y4G/234247/215415
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Salma Hayek" ,M4: Salma Hayek
+http://cord-cutter.net:8080/hq3y4G/234247/215416
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sandra Bullock" ,M4: Sandra Bullock
+http://cord-cutter.net:8080/hq3y4G/234247/215417
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Saoirse Ronan" ,M4: Saoirse Ronan
+http://cord-cutter.net:8080/hq3y4G/234247/215418
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Scarlett Johansson" ,M4: Scarlett Johansson
+http://cord-cutter.net:8080/hq3y4G/234247/215419
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Viola Davis" ,M4: Viola Davis
+http://cord-cutter.net:8080/hq3y4G/234247/215420
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cameron Diaz" ,M4: Cameron Diaz
+http://cord-cutter.net:8080/hq3y4G/234247/215421
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Catherine Zeta-Jones" ,M4: Catherine Zeta-Jones
+http://cord-cutter.net:8080/hq3y4G/234247/215422
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Drew Barrymore" ,M4: Drew Barrymore
+http://cord-cutter.net:8080/hq3y4G/234247/215423
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Eva Green" ,M4: Eva Green
+http://cord-cutter.net:8080/hq3y4G/234247/215424
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jennifer Aniston" ,M4: Jennifer Aniston
+http://cord-cutter.net:8080/hq3y4G/234247/215425
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jessica Alba" ,M4: Jessica Alba
+http://cord-cutter.net:8080/hq3y4G/234247/215426
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Lucy Liu" ,M4: Lucy Liu
+http://cord-cutter.net:8080/hq3y4G/234247/215427
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Megan Fox" ,M4: Megan Fox
+http://cord-cutter.net:8080/hq3y4G/234247/215428
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Melissa McCarthy" ,M4: Melissa McCarthy
+http://cord-cutter.net:8080/hq3y4G/234247/215429
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mila Kunis" ,M4: Mila Kunis
+http://cord-cutter.net:8080/hq3y4G/234247/215430
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Penope Cruz" ,M4: Penope Cruz
+http://cord-cutter.net:8080/hq3y4G/234247/215431
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sigourney Weaver" ,M4: Sigourney Weaver
+http://cord-cutter.net:8080/hq3y4G/234247/215432
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Zoe Saldana" ,M4: Zoe Saldana
+
 
 # ------------NEWS-------------------
 #EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ NEWS OTHER ]
