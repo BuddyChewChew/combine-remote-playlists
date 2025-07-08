@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-07-08T03:22:36.404802 UTC
+# Generated on 2025-07-08T04:32:50.009854 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-08T02:18:19.163182Z
+# Last forced update: 2025-07-08T04:05:46.221561Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png"  radio="false",Amphibia 24/7
@@ -3183,29 +3183,31 @@ https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTGRP:Mystique AU
 #EXTINF:-1  tvg-id="10BoldAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/10-bold-drama-au.png"  radio="false",10 Bold Drama
-http://tvhe.neez.id.au/stream/channelid/177421981?profile=pass
+http://115.69.40.212:55555/10Bold
 #EXTINF:-1  tvg-id="10PeachAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/10-peach-comedy-au.png"  radio="false",10 Peach Comedy
-http://tvhe.neez.id.au/stream/channelid/126080995?profile=pass
+http://115.69.40.212:55555/10Peach
 #EXTINF:-1  tvg-id="7Adelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/seven-au.png"  radio="false",7
-http://tvhe.neez.id.au/stream/channelid/1539335094?profile=pass
+http://115.69.40.212:55555/7HD%20Newcastle
 #EXTINF:-1  tvg-id="7Bravo.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7bravo-au.png"  radio="false",7Bravo
-http://tvhe.neez.id.au/stream/channelid/1013117216?profile=pass
+http://115.69.40.212:55555/7bravo
 #EXTINF:-1  tvg-id="7flixAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7flix-au.png"  radio="false",7Flix
-http://tvhe.neez.id.au/stream/channelid/630621048?profile=pass
+http://115.69.40.212:55555/7flix
 #EXTINF:-1  tvg-id="7mateAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7mate-au.png"  radio="false",7Mate
-http://tvhe.neez.id.au/stream/channelid/750052291?profile=pass
+http://115.69.40.212:55555/7mateHD%20Newcastle
 #EXTINF:-1  tvg-id="7TWOAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7two-au.png"  radio="false",7Two
-http://tvhe.neez.id.au/stream/channelid/294715339?profile=pass
+http://115.69.40.212:55555/7two%20Newcastle
+#EXTINF:-1  tvg-id="9Adelaide.au" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Nine-Network-Productions-Logo-2015.png"  radio="false",9 Network
+http://115.69.40.212:55555/9HD%20Newcastle
 #EXTINF:-1  tvg-id="9GemAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-gem-au.png"  radio="false",9Gem
-http://tvhe.neez.id.au/stream/channelid/758254891?profile=pass
+http://115.69.40.212:55555/9GemHD%20Newcastle
 #EXTINF:-1  tvg-id="9GoAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-go-au.png"  radio="false",9Go!
-http://tvhe.neez.id.au/stream/channelid/1440783481?profile=pass
+http://115.69.40.212:55555/9Go!%20Newcastle
 #EXTINF:-1  tvg-id="9LifeAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-life-au.png"  radio="false",9Life
-http://tvhe.neez.id.au/stream/channelid/1206278726?profile=pass
+http://115.69.40.212:55555/9Life%20Newcastle
 #EXTINF:-1  tvg-id="9RushAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-rush-au.png"  radio="false",9Rush
-http://tvhe.neez.id.au/stream/channelid/1415085761?profile=pass
-#EXTINF:-1  tvg-id="ABCAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png"  radio="false",ABC
-https://c.mjh.nz/abc-nsw.m3u8
+https://tvnow.best/api/stream/mikemog/878404/livetv.epg/melbourne.9.rush.au.m3u8
+#EXTINF:-1  tvg-id="ABCAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png"  radio="false",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1  tvg-id="ABCEntertainsAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png"  radio="false",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1  tvg-id="ABCFamilyAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"  radio="false",ABC Family
@@ -3214,10 +3216,8 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1  tvg-id="ABCNewsAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"  radio="false",ABC News
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1  tvg-id="ESPN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/espn-au.png"  radio="false",ESPN
-http://pinkpony.lol:80/live/Heather/Heather/250175.ts
-#EXTINF:-1  tvg-id="ESPN2.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/espn-2-au.png"  radio="false",ESPN 2
-http://pinkpony.lol:80/live/Heather/Heather/250176.ts
+#EXTINF:-1  tvg-id="ABCBrisbane.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png"  radio="false",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-au.png?raw=true"  radio="false",FOX Sport 501
 https://a1xs.vip/700001
 #EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-au.png?raw=true"  radio="false",FOX Sport 502
@@ -3231,25 +3231,35 @@ https://a1xs.vip/700005
 #EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true"  radio="false",FOX Sport 506
 https://a1xs.vip/700006
 #EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true"  radio="false",FOX Sport 507
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280194.ts
+http://115.69.40.212:55555/10HD%20Newcastle
 #EXTINF:-1  tvg-id="10Adelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/network-10-au.png"  radio="false",Network 10
 http://tvhe.neez.id.au/stream/channelid/1703206964?profile=pass
 #EXTINF:-1  tvg-id="NickelodeonAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png"  radio="false",Nickelodeon
-http://tvhe.neez.id.au/stream/channelid/1564037361?profile=pass
+http://tvmate.icu:8080/Mike@ohalloran2930/Mikeohalloran@2930/121003
 #EXTINF:-1  tvg-id="9Adelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-au.png"  radio="false",Nine
 http://tvhe.neez.id.au/stream/channelid/881330051?profile=pass
 #EXTINF:-1  tvg-id="NITVAdelaide.au" tvg-logo="https://i.ibb.co/7xDL4NMY/NITV-logo-svg.png"  radio="false",NITV
 http://49.188.116.214:9981/stream/channelid/648325516?profile=pass
-#EXTINF:-1  tvg-id="Redbull.Dummy.us" tvg-logo="https://digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_RedBullTV00.jpg"  radio="false",Redbull TV
-http://pinkpony.lol:80/live/Heather/Heather/165576.ts
+#EXTINF:-1  tvg-id="Racingcom.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/racing-com-au.png?raw=true"  radio="false",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1  tvg-id="SBSAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"  radio="false",SBS
-http://49.188.116.214:9981/stream/channelid/443330529?profile=pass
+http://115.69.40.212:55555/SBS%20ONE%20HD
 #EXTINF:-1  tvg-id="SBSFoodAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png"  radio="false",SBS Food
-http://49.188.116.214:9981/stream/channelid/756303200?profile=pass
+http://mu3241218.oknirvana.club:8880/kg14m2n04290002/79831148/61091
 #EXTINF:-1  tvg-id="SBSVicelandAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-viceland-au.png"  radio="false",SBS Viceland
-http://49.188.116.214:9981/stream/channelid/538980733?profile=pass
+http://mu3241218.oknirvana.club:8880/kg14m2n04290002/79831148/61093
 #EXTINF:-1  tvg-id="SBSWorldWatchAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"  radio="false",SBS WorldWatch
-http://49.188.116.214:9981/stream/channelid/1039209094?profile=pass
+http://mu3241218.oknirvana.club:8880/kg14m2n04290002/79831148/61094
+#EXTINF:-1  tvg-id="SkyNewsExtra1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/sky-news-extra-au.png?raw=true"  radio="false",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1  tvg-id="SkyNewsExtra2.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/sky-news-extra-au.png?raw=true"  radio="false",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1  tvg-id="SkyNewsExtra3.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/sky-news-extra-au.png?raw=true"  radio="false",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1  tvg-id="SkyNews.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/sky-news-hd-au.png?raw=true"  radio="false",Sky News Regional
+http://115.69.40.212:55555/Sky%20News%20Regional
+#EXTINF:-1  tvg-id="TVSN.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/tvsn-au.png?raw=true"  radio="false",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 #EXTGRP:Mystique CA
 #EXTINF:-1  tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png"  radio="false",ABC Spark
@@ -11096,6 +11106,8 @@ Join NOW!! https://discord.gg/civ4
 # -------------- Local TV --------------
 #EXTINF:-1  tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
 https://jmp2.uk/str-5747.m3u8
+
+# https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -------------- Local TV --------------
 
 #EXTINF:-1   tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WPVI) PA
@@ -11261,7 +11273,7 @@ http://143.244.60.30/CBS_News/index.m3u8
 #EXTINF:-1  tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK", CBS SPORTS NETWORK
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1  tvg-id="Movie.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX", ASTRO CINEMAX
+#EXTINF:-1  tvg-id="Cinemax.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX", ASTRO CINEMAX
 https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax", 5 STARMAX
