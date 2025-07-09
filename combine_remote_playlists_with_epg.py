@@ -5,7 +5,7 @@ import re
 # Playlist URLs to combine
 playlists = [
     "https://tinyurl.com/drewall8",
-    "https://cdn.djdoolky76.net/udptv.m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u"
 ]
 
