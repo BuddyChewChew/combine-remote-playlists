@@ -5,12 +5,12 @@ import re
 # Playlist URLs to combine
 playlists = [
     "https://tinyurl.com/drewall8",
-    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u"
 ]
 
 # Combined EPG URL
-epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+epg_url = "https://tvpass.org/epg.xml"
 
 # Output file
 output_file = "combined_playlist.m3u"
