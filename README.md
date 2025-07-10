@@ -8,4 +8,4 @@ UPDATE: 6/9/25
 
 - `epgshare01` [epg_ripper_ALL_SOURCES1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
 
-👉  Tons of channels all unsorted all in one hugh playlist. Check out my repo [homepage](https://github.com/BuddyChewChew/My-Streams) for more goodies.
+👉  Check out my repo [homepage](https://github.com/BuddyChewChew/My-Streams) for more goodies.
