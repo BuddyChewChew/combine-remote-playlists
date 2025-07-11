@@ -4,7 +4,7 @@ UPDATE: 7/10/25
 
 ▶️ One big playlist unsorted (tvpass.org, thetvapp.to, daddylive, moveonjoy & More)
 
-Short Url: [https://cutt.ly/2rn48Pvr](https://cutt.ly/2rn48Pvr) EPGS: [epg.xml](https://tvpass.org/epg.xml), [DrewLive002-epg](https://tinyurl.com/DrewLive002-epg)
+Short Url: [https://cutt.ly/2rn48Pvr](https://cutt.ly/2rn48Pvr) EPGS: [epg.xml](https://tvpass.org/epg.xml) , [DrewLive002-epg](https://tinyurl.com/DrewLive002-epg)
 
 Links used in the script:
 
