@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-# Generated on 2025-07-19T01:57:32.372713 UTC
+# Generated on 2025-07-19T03:33:29.973533 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
-# Last forced update: 2025-07-18T23:49:10.517221Z
+# Last forced update: 2025-07-19T02:31:43.506526Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" , CVM (Jamaica)
@@ -3184,6 +3184,8 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MDYyNjQzMDkzOWYxL
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQMJQ02os5bOdQeu-AMRXIt1xCv5azBrXZA&s" ,Ufc Figh Pass
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWEzM2Y4MDQ5ZGQ3LTMzOWItMDFkNC1jNjgzLTRjMTc3YmMy/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" ,Ukdazn
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmQ4YmU5ODliYmRkLTA1OWItMmUzNC0xMDQ2LTg4ZmI3MDM1/master.m3u8
 #EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" ,UniMás
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MjhmYmJlNjYzNjYwLTcwNWItMDRhNC1mMWJkLTA5NTczNTE3/master.m3u8
 #EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" ,UniMás
@@ -3364,66 +3366,6 @@ https://v14.thetvapp.to/hls/mlb-10/tracks-v2a1/mono.m3u8?token=C0LVptHD3i0sIHtH9
 https://v13.thetvapp.to/hls/mlb-14/tracks-v2a1/mono.m3u8?token=jrSJV6AWkJH8lXFgfiGOiA&expires=1752910654&user_id=RmhWckJBVFE0UzhtQXNzbmdkVDdCRVpYZU95VVBHNmRqVWk3Z1lDRg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Chicago Cubs - 7/18/25, 6:21:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,Boston Red Sox @ Chicago Cubs - 7/18/25, 6:21:00 PM UTC
 https://v2.thetvapp.to/hls/mlb-23/tracks-v2a1/mono.m3u8?token=xfb7E54IO8NUNh9WOSAG4A&expires=1752910526&user_id=RmhWckJBVFE0UzhtQXNzbmdkVDdCRVpYZU95VVBHNmRqVWk3Z1lDRg==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Tampa Bay Rays (07/18 7:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Baltimore Orioles @ Tampa Bay Rays (07/18 7:36 Pm Et) Hd
-https://tvpass.org/live/mlb-11/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Tampa Bay Rays (07/18 7:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Baltimore Orioles @ Tampa Bay Rays (07/18 7:36 Pm Et) Sd
-https://tvpass.org/live/mlb-11/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Chicago Cubs (07/18 2:21 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Boston Red Sox @ Chicago Cubs (07/18 2:21 Pm Et) Hd
-https://tvpass.org/live/mlb-23/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Chicago Cubs (07/18 2:21 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Boston Red Sox @ Chicago Cubs (07/18 2:21 Pm Et) Sd
-https://tvpass.org/live/mlb-23/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox @ Pittsburgh Pirates (07/18 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Chicago White Sox @ Pittsburgh Pirates (07/18 6:40 Pm Et) Hd
-https://tvpass.org/live/mlb-26/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox @ Pittsburgh Pirates (07/18 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Chicago White Sox @ Pittsburgh Pirates (07/18 6:40 Pm Et) Sd
-https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ New York Mets (07/18 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Cincinnati Reds @ New York Mets (07/18 7:11 Pm Et) Hd
-https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ New York Mets (07/18 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Cincinnati Reds @ New York Mets (07/18 7:11 Pm Et) Sd
-https://tvpass.org/live/mlb-24/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Texas Rangers (07/18 8:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Detroit Tigers @ Texas Rangers (07/18 8:06 Pm Et) Hd
-https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Texas Rangers (07/18 8:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Detroit Tigers @ Texas Rangers (07/18 8:06 Pm Et) Sd
-https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ Seattle Mariners (07/18 10:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Houston Astros @ Seattle Mariners (07/18 10:10 Pm Et) Hd
-https://tvpass.org/live/mlb-10/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ Seattle Mariners (07/18 10:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Houston Astros @ Seattle Mariners (07/18 10:10 Pm Et) Sd
-https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Miami Marlins (07/18 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Kansas City Royals @ Miami Marlins (07/18 7:11 Pm Et) Hd
-https://tvpass.org/live/mlb-07/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Miami Marlins (07/18 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Kansas City Royals @ Miami Marlins (07/18 7:11 Pm Et) Sd
-https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Philadelphia Phillies (07/18 6:45 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Los Angeles Angels @ Philadelphia Phillies (07/18 6:45 Pm Et) Hd
-https://tvpass.org/live/mlb-18/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Philadelphia Phillies (07/18 6:45 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Los Angeles Angels @ Philadelphia Phillies (07/18 6:45 Pm Et) Sd
-https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Los Angeles Dodgers (07/18 10:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Milwaukee Brewers @ Los Angeles Dodgers (07/18 10:10 Pm Et) Hd
-https://tvpass.org/live/mlb-14/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Los Angeles Dodgers (07/18 10:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Milwaukee Brewers @ Los Angeles Dodgers (07/18 10:10 Pm Et) Sd
-https://tvpass.org/live/mlb-14/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Colorado Rockies (07/18 8:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Minnesota Twins @ Colorado Rockies (07/18 8:41 Pm Et) Hd
-https://tvpass.org/live/mlb-25/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Colorado Rockies (07/18 8:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Minnesota Twins @ Colorado Rockies (07/18 8:41 Pm Et) Sd
-https://tvpass.org/live/mlb-25/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Atlanta Braves (07/18 7:15 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,New York Yankees @ Atlanta Braves (07/18 7:15 Pm Et) Hd
-https://tvpass.org/live/mlb-28/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Atlanta Braves (07/18 7:15 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,New York Yankees @ Atlanta Braves (07/18 7:15 Pm Et) Sd
-https://tvpass.org/live/mlb-28/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Cleveland Guardians (07/18 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Oakland Athletics @ Cleveland Guardians (07/18 7:10 Pm Et) Hd
-https://tvpass.org/live/mlb-30/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Cleveland Guardians (07/18 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,Oakland Athletics @ Cleveland Guardians (07/18 7:10 Pm Et) Sd
-https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Washington Nationals (07/18 6:45 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,San Diego Padres @ Washington Nationals (07/18 6:45 Pm Et) Hd
-https://tvpass.org/live/mlb-01/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Washington Nationals (07/18 6:45 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,San Diego Padres @ Washington Nationals (07/18 6:45 Pm Et) Sd
-https://tvpass.org/live/mlb-01/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd
-https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd
-https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals @ Arizona Diamondbacks (07/18 9:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,St. Louis Cardinals @ Arizona Diamondbacks (07/18 9:40 Pm Et) Hd
-https://tvpass.org/live/mlb-09/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals @ Arizona Diamondbacks (07/18 9:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" ,St. Louis Cardinals @ Arizona Diamondbacks (07/18 9:40 Pm Et) Sd
-https://tvpass.org/live/mlb-09/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png"  radio="false",5 StarMax
@@ -8260,75 +8202,45 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 #EXTGRP:PPVLand - Basketball Hub
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Jazz at Bulls (Consolation)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Nuggets at Lakers (Consolation)
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZWZkZGFhMzRhYzA0LTFhZTktM2EzNC1jZWM1LWRlNDlkMjdj/master.m3u8?md5=OnYcmV1NT1d4MkjOtTVXFw&expires=1752933139&t=1752889939
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Jazz at Bulls (Consolation)
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlZGZkFWYzQTYjBDNtETYllTLzE2M00yYlNWNtQWZ0kDZyczY/master.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Yjc3NWYxZjE5NTMxLWMzNGEtZjAyNC04ZjQ2LWFiYmRhMzc2/master.m3u8?md5=aS5df9WNg6yUIB-9OIEZhA&expires=1752937480&t=1752894280
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Pacers at Pelicans (Consolation)
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2VhOGNkMDVhMGQ2LWNhMGEtZmYxNC04MTIwLTg2NzQ4Nzkz/master.m3u8?md5=hWuKmo_XKMVyoBZ3mComZw&expires=1752933148&t=1752889948
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Pacers at Pelicans (Consolation)
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzUWY4MGZwUTYwQmNtMWYwEWLmZWM00COxIDMtgjN3QDO3kzM/master.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2VhOGNkMDVhMGQ2LWNhMGEtZmYxNC04MTIwLTg2NzQ4Nzkz/master.m3u8?md5=XWZz2dpRWicLVpDhrC8X-w&expires=1752937470&t=1752894270
 
 #EXTGRP:PPVLand - Darts
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" ,PDC: Betfred World Matchplay - Day One
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDVjNjYzMTNiMTMxLWI4YjktN2MxNC1mZTAxLWNjNWU1ZjRi/master.m3u8?md5=DFLI6VR8L4G6hI3FEjYAcQ&expires=1752933192&t=1752889992
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDVjNjYzMTNiMTMxLWI4YjktN2MxNC1mZTAxLWNjNWU1ZjRi/master.m3u8?md5=jEFHZ4s6X_kxF_VpYgDBAw&expires=1752937516&t=1752894316
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" ,PDC: China ProTour 4-5
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NWY1NGVhY2EwZmUxLWQ2NzktMmEwNC0zODE3LTMzYmNjZmZm/master.m3u8?md5=2_R1Cun9Ww2YiaftxvNsaA&expires=1752933184&t=1752889984
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NWY1NGVhY2EwZmUxLWQ2NzktMmEwNC0zODE3LTMzYmNjZmZm/master.m3u8?md5=67G7y2cMSUULYO29knQtCA&expires=1752937508&t=1752894308
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=e86S-UUMfmoE7QbHDUdeXw&expires=1752933261&t=1752890061
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,(North) Korean Central Television
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxMTNwEmZwIzM4IzNtkzNjFWLwYTY00iM1AzNtYGNzQGO2EGN/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 COWS
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=pWpr1qX-_o-OhoYQgb2Qsw&expires=1752933234&t=1752890034
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=nw7OVU5HwEOdk398BtW_IA&expires=1752937575&t=1752894375
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌‌​‌‌​​​‌ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=EOVtEt6UkzKxfLqOpDjnXw&expires=1752933242&t=1752890042
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌‌​‌‌​​​‌ Guy
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhBTOlVzNyETY1IDNtQGZllTLlRTZ00iZzUDOtQDMxIGNiJDZ/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 South Park
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=nguO4nKQQToupYP4cmFGLw&expires=1752933225&t=1752890025
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=X9699fuBKZnQDmjK4eWEoA&expires=1752937558&t=1752894358
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -8338,34 +8250,19 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=DZmG9oNdewltIudhOHdpUQ&expires=1752933251&t=1752890051
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,24/7 The Simpsons
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwQ2M3ITOxEDNiRDMtUjZiFWLiF2N00CZ5gTZtYmNyUGO0IGO/master.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=1HwjjTEAj20BvEtDdUOjZw&expires=1752937566&t=1752894366
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,ESPN
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=3VvIyzl-SD_9Uq1upydLIg&expires=1752933216&t=1752890016
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" ,ESPN
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1QDN0UmZlZjMzImNtkjN3IWL4QWZ00iZ5YjNtMjMmRTMzAjZ/master.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=1gtdYsrFE5A3t_uWckVXEQ&expires=1752937532&t=1752894332
 
 #EXTGRP:PPVLand - MMA & Fight Nights
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" ,Oleksandr Usyk vs. Daniel Dubois 2
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGZjMjUxZWZkZTUxLWUzOGEtMTcyNC05N2E1LTg0NmQzNmMz/master.m3u8?md5=KCKfIqMrGt431Mt3L2uj3A&expires=1752933166&t=1752889966
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" ,UFC 318: Holloway vs. Poirier 3
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDk1MTdjN2I0YTNkLTdkZmItYjJiNC00NzgzLTQ2MGQzOGYy/master.m3u8?md5=ZFrwiMDIpxB4-MugttKD1w&expires=1752933175&t=1752889975
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGZjMjUxZWZkZTUxLWUzOGEtMTcyNC05N2E1LTg0NmQzNmMz/master.m3u8?md5=Cw7WxEho-OaAol0zgWP8qQ&expires=1752937490&t=1752894290
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" ,UFC 318: Holloway vs. Poirier 3
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -8374,16 +8271,6 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" ,AEW: Saturday Night Collision
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=sgWYDgUt9hLh_9AQzFDR_Q&expires=1752933208&t=1752890008
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" ,WWE: Friday Night Smackdown
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=WH9n2s2DwWJEfM-LZnE6iQ&expires=1752933200&t=1752890000
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" ,WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -10758,112 +10645,72 @@ https://jmp2.uk/sam-USBC2400019EF.m3u8
 https://jmp2.uk/sam-US270000298.m3u8
 
 #EXTGRP:StreamEast - Baseball
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Athletics vs. Cleveland Guardians Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=0uyvwxEhnaY3kvHE3nBG_EKuOSdYJ6O5B8a7rAvPQVs&e=1752900394
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Baltimore Orioles vs. Tampa Bay Rays Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/fskjanach24.m3u8?st=KproM-x13YDqDVPjMGFOmabRmvAlqYsh7furglbrxlU&e=1752900380
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Cincinnati Reds vs. New York Mets Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/ijfnakfidch22.m3u8?st=tkpwYTttsAQl2mfxA5maa_nY3dlIQ0Cac2FvKg0SJn4&e=1752900507
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Detroit Tigers vs. Texas Rangers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/kjhfzua25.m3u8?st=fA_RolwT_695qJIHR3-IqCwSTi6I6lPZn0Z8FC3wbGQ&e=1752900412
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Houston Astros vs. Seattle Mariners Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=B4DtAxWtsZbHxUClO7RdZ-yIdQFOolEkTl3EMCOgvcw&e=1752900483
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Kansas City Royals vs. Miami Marlins Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=mQWyw2AnRYxHIUDRj3BORkBEzVWN6X8Tmnv409RvA5E&e=1752900496
+https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=-dKvYWYj9jh1WayxBUEitB3PaaT7h25YLyjJ6wGqqZQ&e=1752905546
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Milwaukee Brewers vs. Los Angeles Dodgers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=v5QlK1k4jp98-fqXH1OFq0lEI2dOXr7NkUD4oL8vi-Y&e=1752900351
+https://eastcaster.pro/hls/hefbafbakx28.m3u8?st=1ONX6ju4ZWfF-cUd24xxu4TOIoeiwV2qY9uHfG4yiHI&e=1752905493
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Minnesota Twins vs. Colorado Rockies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=ZHm8Ta1fp6-p7RcjZ9Ar0lLhmqxBDqZxjNmON7a3u0Y&e=1752900383
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,New York Yankees vs. Atlanta Braves Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=v7v0KyPbn5vjcOJL8B8bgb2rKOwAZOxyK8s8XhWYb9A&e=1752900333
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,San Francisco Giants vs. Toronto Blue Jays Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=fvMSY11n-3_H87QV8PX5lCR59drINwn5MpVGJNZjqUc&e=1752900308
+https://eastcaster.pro/hls/dzjhkfazbka26.m3u8?st=9Hew8g8EXmRYGtkk3fNU1_U8o5HbKAagshZTIDqnkUY&e=1752905452
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,St. Louis Cardinals vs. Arizona Diamondbacks Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=Y6zFk4T-dzc65l_gFsYbJR12CvsHrxpLRvhYHCNS0OQ&e=1752900521
+https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=I-fz4IbMWq_9i-7NAijuiayQ65koKBAB2WWutswXcKo&e=1752905627
 
 #EXTGRP:StreamEast - Basketball Hub
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" ,Denver Nuggets vs. Los Angeles Lakers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=MpRzjO0VZdlBWnsSXVeFC4yPAovb3tRZkQNG4YTKij8&e=1752900404
+https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=rcfl_8Lj_MGZc-A34DH7BwDgVbyzGD4JQpzU0Edgj08&e=1752905595
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" ,Indiana Pacers vs. New Orleans Pelicans Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=Ofs9wu6rMT0uWw26kpk58Ok9T4C6z-jazzZXsSTbiQg&e=1752900436
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" ,Utah Jazz vs. Chicago Bulls Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=15Cs1IX15bvVMi_eHL7yz3k12OTvu1U_6yeSYI4GRco&e=1752900362
+https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=ccRM59wBGDJEdNw1M03ayS31hH2sPq9u5piNxDDndMk&e=1752905623
 
 #EXTGRP:StreamEast - F1
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Belgian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/FbQfXzQpHA/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/qWnFjhVQxm/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Belgian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/FbmwkmGXVf/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/jEGwJFmEso/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Belgian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/dWTaHnXRnA/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/FrbOjJDLJU/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Belgian GP Sprint Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/yPHxneqgOW/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/srBoEWErva/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Belgian GP Sprint Shootout Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/wHavKwhyvu/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/ykRNkhFfNS/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC 318: Holloway vs Poirier 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/DcwNnIDMbO/alpha/stream/nfl-network/1/playlist.m3u8
+https://rr.buytommy.top/secure/VaykxacMDR/alpha/stream/nfl-network/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Baseball
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEABNg5gyGvkWIQWMnl6vC-bOdhdxj+sg7tBDAECCE9qwgEPwwwHi6dGAs8kGSQrRx5GCJwazBQA.webp" ,Atlanta Braves vs New York Yankees (English - HD)
@@ -11439,11 +11286,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/wffwehg9yklo7k3dmabqxi
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/949365fceb695e8c108aec3265e563c3.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/67c0e7c2d7340.png" ,American Flat Track at Lucas Oil Short Track (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/73d851dc7077603af89e9a39a67f4a2c.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/astroc.png" ,Astro Cricket
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11464,16 +11306,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/3271469af3414e0e303060
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/afdb73c451239369681c5e34207bf17a.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bp88hj1654343905.jpg" ,Boca Juniors vs Union (FANATIZ)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/76098d23d6ac3c6e88f1238a53b9c3f1.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bp88hj1654343905.jpg" ,Boca Juniors vs Union (TYC SPORTS)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/cA2AcLspucEmI750LcLguxAFR9jU7Rln.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/boomerang-hd-us.png?raw=true" ,Boomerang
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11509,11 +11341,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/kD4hG2fW9pA7uN1bS8mL5y
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/88fc78da2149e0a94ff095e74e18d21d.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_15nw2m7m/width/1920" ,China ProTour 4-5 (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e42297c404daaaadaa6226364dd6e4f3.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" ,Comet
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11564,11 +11391,16 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/59a7cb5768532c91ca5720
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/d1a53d061de53b59499c1616accb42a2.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-18-25-SC-1733337442305.png?impolicy=resize&w=1920&h=1080" ,Eldora Speedway (Live Stream)
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-18-25-SC-1733337442305.png?impolicy=resize&w=1920&h=1080" ,Eldora Speedway (Dirtvision (FHD))
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/f8cdd009116f99148a31fc19d162177f.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-18-25-SC-1733337442305.png?impolicy=resize&w=1920&h=1080" ,Eldora Speedway (Dirtvision (SD))
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/87b836f32835af84b68e65a45d725ad5.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" ,ESPN
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11684,16 +11516,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5b0a563e58ff52f3d93914
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/pajip6maru1rlcoz1qizebitocof4aP7.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Floracing (HD))
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/c56ac9be631dde35cdb2f37da13c3951.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Floracing (SD))
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/09faa996744969af28e136736e6e9f40.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" ,Marquee Sports Network
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12029,6 +11851,16 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8esiM7BRatIQ3cAdaxes34
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8e79a48ec3b70050d128e442606d9883.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://m.media-amazon.com/images/I/81gOMT2Zb0L.jpg" ,TOMORROW LAND BELGIUM 2025: DAY ONE (Freedom Stage)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/80368aa1ba2c2ecf370e61221891e17e.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://m.media-amazon.com/images/I/81gOMT2Zb0L.jpg" ,TOMORROW LAND BELGIUM 2025: DAY ONE (Main Stage)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e45a4110ebd56afc691efb6ade416185.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/trutv.png" ,TruTV
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -12119,11 +11951,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a842edb8c824e277675386
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/f7dc5cb51217cf8eda81bc5a822a1548.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us"  -1 tvg-logo="https://climatepledgearena.com/wp-content/uploads/2025/01/25-WWE-SmackDwon_Web_1600x900.jpg" ,WWE: Friday Night SmackDown (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/bd00a582894159a69d1fa422e2ea4730.m3u8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/pQpb4BualR6eug==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjdAAQ==" ,A&E Crime 360
