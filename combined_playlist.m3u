@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-# Generated on 2025-10-03T01:40:44.391482 UTC
+# Generated on 2025-10-03T02:58:03.630901 UTC
 
 # 📺 Source: https://tinyurl.com/drewall8
 
@@ -14957,7 +14957,7 @@ https://jmp2.uk/stvp-USBC2400019EF
 https://jmp2.uk/stvp-US270000298
 
 #EXTGRP:StreamedSU - Afl
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Power Women vs Western Bulldogs Bulldogs Women" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggoIECRACIIbiAAmmkChCrEpo3xMEKTPii5gy8IvNGOmtMM7GiIQA.webp" ,Port Adelaide Power Women vs Western Bulldogs Bulldogs Women
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Greater Western Sydney Giants Women vs St Kilda Saints Women" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15VRKECkghuIPiEQ4YuEABMQEMyGWEYwJnxRcwZeEXnr7zYGBdjREEA.webp" ,Greater Western Sydney Giants Women vs St Kilda Saints Women
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -15009,7 +15009,7 @@ https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/clevelandbrowns/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots vs. Buffalo Bills" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKAwnhL5uKdmCLwWCgg1I0O+iqwhA.webp" ,New England Patriots vs. Buffalo Bills
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots vs. Buffalo Bills" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEEhEHEBBCEzIBy3tXsjcoyf0LnC75sATEEkrLxt3ECF-YAh+GGA8PTowFgUITlYseLEwZOiMiCA.webp" ,New England Patriots vs. Buffalo Bills
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -15265,6 +15265,11 @@ https://gg.poocloud.in/laliga_rcd-espanyol/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/laliga_real-madrid/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Oviedo vs Levante" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB9o4eGBAhuICCD4hEJEDCMHzKAhSZ8UXMGU315o+01phHY0RCA.webp" ,Real Oviedo vs Levante
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/laliga_real-oviedo/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Sociedad vs. Rayo Vallecano" tvg-logo="https://i.imgur.com/RvN0XSF.png" ,Real Sociedad vs. Rayo Vallecano
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
