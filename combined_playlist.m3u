@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-# Generated on 2025-11-13T19:18:41.430878 UTC
+# Generated on 2025-11-13T20:26:14.894258 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
 #EXTINF:-1  tvg-name="A&E SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" ,A&E SD
@@ -1263,6 +1263,9 @@ http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1  tvg-id="WWE.Network.us2" tvg-logo="" tvg-name="WWE NETWORK", WWE NETWORK
 http://143.244.60.30/WWE/index.m3u8
+
+#EXTINF:-1  tvg-id="West.TV.us2" tvg-name="" tvg-logo="", WEST TV
+http://98.111.243.7:5004/auto/v61.5
 
 #EXTINF:-1  tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network", YES NETWORK
 http://143.244.60.30/YES_NETWORK/index.m3u8
@@ -2939,6 +2942,7 @@ http://143.244.60.30/PPV_5/index.m3u8
 http://143.244.60.30/PPV_6/index.m3u8
 #EXTINF:-1  tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://143.244.60.30/PPV_6/index.m3u8
+
 
 
 
